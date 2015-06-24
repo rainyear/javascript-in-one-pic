@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>javascript in one pic</title>
+        <ownerName>rainy</ownerName>
+    </head>
+    <body>
+        <outline text="javascript in one pic">
+            <outline text="Identifier">
+                <outline text="Case-sensitive">
+                    <outline text="a != A"></outline>
+                </outline>
+                <outline text="start with: letters, _,  $">
+                    <outline text="letters: [ascii, unicode]"></outline>
+                </outline>
+                <outline text="comments">
+                    <outline text="// single line"></outline>
+                    <outline text="/* multi-line comments */"></outline>
+                </outline>
+                <outline text="key words">
+                    <outline text="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instance; new; return; switch; this; throw; try; typeof; var; void; while; with"></outline>
+                </outline>
+                <outline text="Reserved words">
+                    <outline text="Nonstrict">
+                        <outline text="class; const; enum; export; extends; import; super;"></outline>
+                    </outline>
+                    <outline text="‘use strict’">
+                        <outline text="implements; interface; let; package; private; protected; public; static; yield;"></outline>
+                    </outline>
+                </outline>
+                <outline text="Variables">
+                    <outline text="var a; // local"></outline>
+                    <outline text="a = 123; // global"></outline>
+                </outline>
+            </outline>
+            <outline text="Data type">
+                <outline text="Number">
+                    <outline text="typeof">
+                        <outline text="“number”"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="0"></outline>
+                        <outline text="1.2"></outline>
+                        <outline text="045"></outline>
+                        <outline text="0x56"></outline>
+                        <outline text="0.314e2"></outline>
+                        <outline text="NaN"></outline>
+                    </outline>
+                    <outline text="Number()">
+                        <outline text="parseInt(“2.5”); // 2">
+                            <outline text="parseInt(“10”, 2); // ?"></outline>
+                        </outline>
+                        <outline text="parseFloat(“2.5”); // 2.5"></outline>
+                        <outline text="isNaN(parseFloat(“a”)); // true"></outline>
+                    </outline>
+                    <outline text="+-*/%"></outline>
+                    <outline text="&lt; &lt;= &gt; &gt;= != =="></outline>
+                </outline>
+                <outline text="String">
+                    <outline text="typeof">
+                        <outline text="“string”"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="“Hello”"></outline>
+                        <outline text="‘World’"></outline>
+                    </outline>
+                    <outline text="String()/toString()">
+                        <outline text="var a = 8; a.toString(2); // ?"></outline>
+                    </outline>
+                    <outline text="immutable">
+                        <outline text="var a = ‘ABC’; a[0]; // ‘A’ a[0] = ‘D’; a; // ‘ABC’"></outline>
+                        <outline text="var a = ‘abc’; a = a + ‘d’; a; // ‘abcd'"></outline>
+                    </outline>
+                    <outline text="+"></outline>
+                    <outline text="&lt; &lt;= &gt; &gt;= != =="></outline>
+                </outline>
+                <outline text="Boolean">
+                    <outline text="typeof">
+                        <outline text="“boolean”"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="true"></outline>
+                        <outline text="false"></outline>
+                    </outline>
+                    <outline text="Boolean()">
+                        <outline text="number">
+                            <outline text="Boolean(0); // false"></outline>
+                            <outline text="Boolean(NaN); // false"></outline>
+                            <outline text="Boolean(!0); // true"></outline>
+                        </outline>
+                        <outline text="string">
+                            <outline text="Boolean(“”); // false"></outline>
+                            <outline text="Boolean(‘*’); // true"></outline>
+                        </outline>
+                        <outline text="object">
+                            <outline text="Boolean(null); // false"></outline>
+                            <outline text="Boolean({}); // true"></outline>
+                        </outline>
+                        <outline text="undefined">
+                            <outline text="Boolean(undefined); // false"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Undefined">
+                    <outline text="typeof">
+                        <outline text="“undefined”"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="undefined"></outline>
+                    </outline>
+                    <outline text="undefined != Not defined">
+                        <outline text="undefined == undefined; // true var a; a == undefined; // true console.log(d); // Error"></outline>
+                    </outline>
+                </outline>
+                <outline text="Object">
+                    <outline text="typeof">
+                        <outline text="“object”"></outline>
+                    </outline>
+                    <outline text="{}"></outline>
+                    <outline text="new Object()"></outline>
+                    <outline text="Null">
+                        <outline text="typeof">
+                            <outline text="“object”"></outline>
+                        </outline>
+                        <outline text="value">
+                            <outline text="null"></outline>
+                        </outline>
+                        <outline text="“undefined object”">
+                            <outline text="null == undefined; // true"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Function">
+                    <outline text="typeof">
+                        <outline text="“function”"></outline>
+                    </outline>
+                    <outline text="create">
+                        <outline text="var a = function(arg1, arg2){   //fun body; }"></outline>
+                        <outline text="function a(arg1, arg2){   // func body; }"></outline>
+                        <outline text="(function(arg1,arg2){   //func body; })"></outline>
+                    </outline>
+                    <outline text="arguments"></outline>
+                    <outline text="return"></outline>
+                </outline>
+            </outline>
+            <outline text="Operators">
+                <outline text="+-*/%">
+                    <outline text="casting">
+                        <outline text="+">
+                            <outline text="string &gt; number &gt; boolean">
+                                <outline text="‘1’+ 2"></outline>
+                                <outline text="3 + ‘4’"></outline>
+                                <outline text="‘5’+ false"></outline>
+                                <outline text="6 + true"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="-">
+                            <outline text="number &gt; string &gt; boolean">
+                                <outline text="‘1’- 2"></outline>
+                                <outline text="3 - ‘4’"></outline>
+                                <outline text="‘5’- false"></outline>
+                                <outline text="6 - true"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="++a a— a+=1 a-=1"></outline>
+                <outline text="compare">
+                    <outline text="&gt;"></outline>
+                    <outline text="&lt;"></outline>
+                    <outline text="&gt;="></outline>
+                    <outline text="&lt;="></outline>
+                    <outline text="=="></outline>
+                    <outline text="!="></outline>
+                    <outline text="==="></outline>
+                    <outline text="!==="></outline>
+                    <outline text="casting">
+                        <outline text="a &gt; b; // a - b &gt; 0"></outline>
+                    </outline>
+                </outline>
+                <outline text="! &amp;&amp; ||">
+                    <outline text="!true; // false"></outline>
+                    <outline text="true &amp;&amp; false; // false"></outline>
+                    <outline text="false || true; // true"></outline>
+                </outline>
+                <outline text="false ? a : b"></outline>
+            </outline>
+            <outline text="Reference type"></outline>
+            <outline text="Flow control">
+                <outline text="if">
+                    <outline text="if(cond){   state1; }else if(cond2){   state2; }else{   state3; }"></outline>
+                </outline>
+                <outline text="switch"></outline>
+                <outline text="while">
+                    <outline text="do {   state1; } while(cond)"></outline>
+                    <outline text="while(cond){   state1; }"></outline>
+                    <outline text="break; continue"></outline>
+                </outline>
+                <outline text="for">
+                    <outline text="for(var i = 0; i &lt; len; i++){   state1; }"></outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
