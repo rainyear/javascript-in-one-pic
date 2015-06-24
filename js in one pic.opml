@@ -173,7 +173,7 @@
                     <outline text="=="></outline>
                     <outline text="!="></outline>
                     <outline text="==="></outline>
-                    <outline text="!==="></outline>
+                    <outline text="!=="></outline>
                     <outline text="casting">
                         <outline text="a &gt; b; // a - b &gt; 0"></outline>
                     </outline>
