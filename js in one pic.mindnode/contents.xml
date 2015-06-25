@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>32AB7C73-56F9-40FB-A0C2-054686C6D988</string>
+				<string>9F18B982-530D-4AF2-A0F7-8DF2E6834311</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>E594342F-DF13-44CA-96AD-E49D9919AFA2</string>
+				<string>AACB6E8E-5C7E-4A29-99E1-189C201EF2C4</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -30,17 +30,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-321.697, 239.924}</string>
+				<string>{-319.679, 51.733}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>32AB7C73-56F9-40FB-A0C2-054686C6D988</string>
+				<string>9F18B982-530D-4AF2-A0F7-8DF2E6834311</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>A67994D9-4F6C-47F4-B3D8-AE5E3BFA04B5</string>
+				<string>1AF5B363-43B1-40FE-87EA-1DA31FE4894C</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -48,17 +48,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-348.362, 229.877}</string>
+				<string>{-346.344, 42.686}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>32AB7C73-56F9-40FB-A0C2-054686C6D988</string>
+				<string>9F18B982-530D-4AF2-A0F7-8DF2E6834311</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>62022F91-1814-420E-86A3-9B10330AD36F</string>
+				<string>5CE9449E-B666-43B7-9A82-81110CD4B482</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -66,17 +66,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-217.018, 182.857}</string>
+				<string>{-215, -83}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>32AB7C73-56F9-40FB-A0C2-054686C6D988</string>
+				<string>9F18B982-530D-4AF2-A0F7-8DF2E6834311</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>DE64764D-0A78-468B-A3EA-7E5F17B4CD92</string>
+				<string>96820FD2-29D1-4D6B-AB7E-FB701E5384DE</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -84,17 +84,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-201.768, 198.857}</string>
+				<string>{-199.75, -67}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>9AE39E43-2251-46FE-9D3D-0B5996D2BAD1</string>
+				<string>C1EB4C1A-BA6D-4AEF-B143-768C2B5F372E</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>0ABB43C5-9307-4E0E-A64F-B4D5A12558E7</string>
+				<string>443D5394-4B3C-4712-94E2-1DB7F095A219</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -102,17 +102,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-62.75, 22.75}</string>
+				<string>{-62.75, 94.75}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>9AE39E43-2251-46FE-9D3D-0B5996D2BAD1</string>
+				<string>C1EB4C1A-BA6D-4AEF-B143-768C2B5F372E</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>A48E13EF-701B-445A-A1A7-E5CE09A28376</string>
+				<string>BB9F63F3-D5D6-41BE-A8BB-BEC23B12119C</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -120,17 +120,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-62.75, -73.25}</string>
+				<string>{-62.75, -1.25}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>9AE39E43-2251-46FE-9D3D-0B5996D2BAD1</string>
+				<string>C1EB4C1A-BA6D-4AEF-B143-768C2B5F372E</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>042E866A-D173-4A4D-B7FF-002D93282424</string>
+				<string>2BB3E231-1B4E-4A98-9843-9B1CF491AEBD</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -138,17 +138,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-143, 111}</string>
+				<string>{-143, 55.75}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>1123BC6C-B0BA-4D87-B8D3-E057DCB03290</string>
+				<string>AD4FD950-A11E-49B6-AFBE-3687AE5CFEAE</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>5FEB50A9-C726-4BC4-8EDF-835AF80D3806</string>
+				<string>EC2C8814-6136-4B11-9C20-D6A3152EE692</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -162,11 +162,11 @@
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>B303FCA4-26A5-4A51-A43C-DD7B9C18E4C8</string>
+				<string>B3EB57D1-60D9-4DC2-8E92-4BBE9C7008B9</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>BBE31804-D63A-4825-895C-CAC053130066</string>
+				<string>90C66D79-29F0-4400-8E33-6FF682DC5EC8</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -180,11 +180,11 @@
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>61F3C332-FFDF-4E87-848C-DE4C7FBF0412</string>
+				<string>766F17DA-44E3-4974-BFD5-C361AC6FD1AC</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>16C73447-B450-45CA-91E5-736ED95BD93C</string>
+				<string>91D95837-C801-44C5-99F9-5173024D877A</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -198,11 +198,11 @@
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>93939ABD-B29E-482C-A77A-DEB0D0721CF6</string>
+				<string>ECCC1377-C5B7-42E6-9FDB-089A436E6A75</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>A87CEFF1-4FB8-4ACA-9169-BF69E78BB8AF</string>
+				<string>4711AF8A-4263-4205-B766-D5A7203B2F05</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -210,17 +210,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-54.5, -63.25}</string>
+				<string>{-54.5, -120.5}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>1C3404B9-18CA-4E28-B244-CDEB2FC9B0B9</string>
+				<string>8472060E-6D8F-492E-972C-52B6236AA054</string>
 				<key>startArrow</key>
 				<integer>1</integer>
 				<key>startNodeID</key>
-				<string>21C0C6AC-1301-4EC6-83D5-99E4089EA4B8</string>
+				<string>370269F5-96B4-445F-AC42-E88A3D4C48E2</string>
 				<key>strokeColor</key>
 				<string>{0.112, 0.539, 0.418, 1.000}</string>
 				<key>strokeStyle</key>
@@ -228,7 +228,7 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{16.75, 48.75}</string>
+				<string>{16.75, 63}</string>
 			</dict>
 		</array>
 		<key>color</key>
@@ -249,7 +249,7 @@
 				<key>location</key>
 				<string>{0, 0}</string>
 				<key>nodeID</key>
-				<string>13EBB78C-BEE1-4633-8117-FB996CD22562</string>
+				<string>36CB7475-EA64-4E27-A475-DEBFB4D60BD6</string>
 				<key>strokeColor</key>
 				<string>{0.046, 0.097, 0.027, 1.000}</string>
 				<key>strokeStyle</key>
@@ -272,9 +272,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, -161}</string>
+						<string>{235, -305}</string>
 						<key>nodeID</key>
-						<string>5913FB10-8B81-4FFB-88CB-729904DE3397</string>
+						<string>4F6B2B9A-5176-476A-AF70-7C4D89AED1FA</string>
 						<key>strokeColor</key>
 						<string>{0.216, 0.341, 0.285, 1.000}</string>
 						<key>strokeStyle</key>
@@ -297,7 +297,7 @@
 								<key>location</key>
 								<string>{358, -422.5}</string>
 								<key>nodeID</key>
-								<string>805C9C75-DCA0-4036-901C-A2A0348DC8AB</string>
+								<string>988B2B6A-B7BE-4ACC-BB8B-D90A3E53EE22</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -320,7 +320,7 @@
 										<key>location</key>
 										<string>{518, -422.5}</string>
 										<key>nodeID</key>
-										<string>35EC3581-90AD-49EA-B4D3-80570C70E79F</string>
+										<string>2B116306-785F-4D8C-BA5D-F6F9443AF8AF</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -378,7 +378,7 @@
 								<key>location</key>
 								<string>{358, -389.5}</string>
 								<key>nodeID</key>
-								<string>6856F97C-46F3-47BF-8359-DBE4565627A3</string>
+								<string>1374991D-A121-4602-ACA4-7B858E5F486B</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -401,7 +401,7 @@
 										<key>location</key>
 										<string>{564, -389.5}</string>
 										<key>nodeID</key>
-										<string>81076AB0-36F7-42AB-B4A0-13FEF5781C08</string>
+										<string>1B81CD3A-DC42-4107-B71D-0E268C432A3B</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -459,7 +459,7 @@
 								<key>location</key>
 								<string>{358, -333}</string>
 								<key>nodeID</key>
-								<string>1BD2A0C1-822F-4A90-8E16-C5CBD688AA6B</string>
+								<string>35D2C62F-AC35-446E-A805-02C889193F2C</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -482,7 +482,7 @@
 										<key>location</key>
 										<string>{495, -356.5}</string>
 										<key>nodeID</key>
-										<string>AFDA8D87-F6CC-4287-923A-716E35FE908B</string>
+										<string>6BA14F6B-EECD-4061-B9C3-4503C58FDBD6</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -522,7 +522,7 @@
 										<key>location</key>
 										<string>{495, -324.5}</string>
 										<key>nodeID</key>
-										<string>390BF347-E744-497A-974B-5CDC5893E312</string>
+										<string>BF6CD758-2A9A-40CB-84C3-855622AEF538</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -580,7 +580,7 @@
 								<key>location</key>
 								<string>{358, -245}</string>
 								<key>nodeID</key>
-								<string>7C9E49AD-0BF2-4F4B-B881-B371812FEC85</string>
+								<string>0931D3C2-9E05-4DD8-ACB3-36B8B3972EFC</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -603,7 +603,7 @@
 										<key>location</key>
 										<string>{492, -276.5}</string>
 										<key>nodeID</key>
-										<string>C501EE4F-C97D-422E-A1F8-92F3742BE748</string>
+										<string>45058563-7E98-460C-BD35-4FEBF0E09EAD</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -661,7 +661,7 @@
 								<key>location</key>
 								<string>{358, -141}</string>
 								<key>nodeID</key>
-								<string>CE325476-5032-41F6-AE00-4D2AC1C28B6F</string>
+								<string>FBE1EA4A-12D9-41FC-861B-6551D7F0A271</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -684,7 +684,7 @@
 										<key>location</key>
 										<string>{528, -173}</string>
 										<key>nodeID</key>
-										<string>1C6226D3-B029-41C1-A402-97C41407792A</string>
+										<string>8D3C0631-39BD-4258-B95E-189F38FBE5A8</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -707,7 +707,7 @@
 												<key>location</key>
 												<string>{655, -180.5}</string>
 												<key>nodeID</key>
-												<string>6ABD0999-5C9F-475B-831F-E3965E5BFD11</string>
+												<string>9ECC2E28-5CD8-481A-87EB-F192E808EEE6</string>
 												<key>strokeColor</key>
 												<string>{0.216, 0.341, 0.285, 1.000}</string>
 												<key>strokeStyle</key>
@@ -765,7 +765,7 @@
 										<key>location</key>
 										<string>{528, -116.5}</string>
 										<key>nodeID</key>
-										<string>F3FEA631-4C08-41E0-8453-3B5BDC7AC527</string>
+										<string>D673CF32-0A98-47A7-BA00-C3278C45471D</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -788,7 +788,7 @@
 												<key>location</key>
 												<string>{701, -132.5}</string>
 												<key>nodeID</key>
-												<string>E122D67A-F671-4BE8-A42F-75A4D2681E61</string>
+												<string>5F679173-657F-4C21-9A09-87B49348E164</string>
 												<key>strokeColor</key>
 												<string>{0.216, 0.341, 0.285, 1.000}</string>
 												<key>strokeStyle</key>
@@ -864,7 +864,7 @@
 								<key>location</key>
 								<string>{358, -53}</string>
 								<key>nodeID</key>
-								<string>FC9BD156-E50F-4BBC-938D-CB0F81FFA19E</string>
+								<string>977EF767-B922-4DDB-BF7E-F59089554909</string>
 								<key>strokeColor</key>
 								<string>{0.216, 0.341, 0.285, 1.000}</string>
 								<key>strokeStyle</key>
@@ -887,7 +887,7 @@
 										<key>location</key>
 										<string>{484, -68.5}</string>
 										<key>nodeID</key>
-										<string>49ACAA67-3679-438F-AA5D-7948B4F0BCCF</string>
+										<string>1C86A709-91CC-4637-8930-D0A22755DBDB</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -927,7 +927,7 @@
 										<key>location</key>
 										<string>{484, -36.5}</string>
 										<key>nodeID</key>
-										<string>8307A639-71FD-4418-877D-F48C1BE5A347</string>
+										<string>71BADFDF-2E90-432A-8502-78E3D4CCD6CB</string>
 										<key>strokeColor</key>
 										<string>{0.216, 0.341, 0.285, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1001,9 +1001,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, -51.5}</string>
+						<string>{235, -239}</string>
 						<key>nodeID</key>
-						<string>AE1C2797-FBB8-4B95-B0CB-32040234BB48</string>
+						<string>8F1A74D7-E1C3-4C6B-9BDF-EDFB837AD72E</string>
 						<key>strokeColor</key>
 						<string>{0.584, 0.677, 0.443, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1017,6 +1017,8 @@
 								<integer>1</integer>
 								<key>fillColor</key>
 								<string>{0.951, 0.990, 0.938, 1.000}</string>
+								<key>hasFoldedSubnodes</key>
+								<true/>
 								<key>isDecreasingBranchThickness</key>
 								<true/>
 								<key>isDrawingFill</key>
@@ -1024,9 +1026,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{366, -84.5}</string>
+								<string>{366, -272}</string>
 								<key>nodeID</key>
-								<string>93939ABD-B29E-482C-A77A-DEB0D0721CF6</string>
+								<string>ECCC1377-C5B7-42E6-9FDB-089A436E6A75</string>
 								<key>strokeColor</key>
 								<string>{0.584, 0.677, 0.443, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1040,8 +1042,6 @@
 										<integer>1</integer>
 										<key>fillColor</key>
 										<string>{0.951, 0.990, 0.938, 1.000}</string>
-										<key>hasFoldedSubnodes</key>
-										<true/>
 										<key>isDecreasingBranchThickness</key>
 										<true/>
 										<key>isDrawingFill</key>
@@ -1049,9 +1049,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{533, -128}</string>
+										<string>{533, -521.5}</string>
 										<key>nodeID</key>
-										<string>41F091DF-2D23-48CF-9D4A-62D8D2CA11D1</string>
+										<string>89441A14-9D0D-4396-89BA-1993BFE96410</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1072,9 +1072,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{664.03671360017449, -852.88149194400785}</string>
+												<string>{660, -686.5}</string>
 												<key>nodeID</key>
-												<string>76CD4230-7C4F-49F5-8D48-DE21AC17B90B</string>
+												<string>FEE63123-00CA-42C6-85E3-DD6F89F54C19</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1095,9 +1095,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{781.03671360017449, -852.88149194400785}</string>
+														<string>{777, -686.5}</string>
 														<key>nodeID</key>
-														<string>ACA56A9B-70EF-4CB3-973B-FF9580726E9E</string>
+														<string>06AA6FBD-8E87-4F59-9A68-273754564D14</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1111,16 +1111,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;apos;number&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;number&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 'number'}</string>
+\f0\b\fs28 \cf2 'number'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1153,9 +1153,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{664.03671360017449, -740.38149194400785}</string>
+												<string>{660, -581.5}</string>
 												<key>nodeID</key>
-												<string>546738CF-7A24-48FC-B415-796715C41CA3</string>
+												<string>6E9DD37B-FE42-4F83-8380-3BE992CB486C</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1176,9 +1176,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -819.88149194400785}</string>
+														<string>{772, -656.5}</string>
 														<key>nodeID</key>
-														<string>E30934A2-70DB-460E-8912-F6891C1EE4B6</string>
+														<string>F1DFA0C9-8ADD-427D-B90B-08C792E01B20</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1192,16 +1192,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;0&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;0&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 0}</string>
+\f0\b\fs28 \cf2 0}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1216,9 +1216,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -787.88149194400785}</string>
+														<string>{772, -626.5}</string>
 														<key>nodeID</key>
-														<string>52EBF27E-48E4-4A99-9D57-C8AD83497AF8</string>
+														<string>078FDA7F-8F1C-4DE7-BEF4-1EF8DEEFF86E</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1232,16 +1232,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;1.2&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;1.2&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 1.2}</string>
+\f0\b\fs28 \cf2 1.2}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1256,9 +1256,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -755.88149194400785}</string>
+														<string>{772, -596.5}</string>
 														<key>nodeID</key>
-														<string>53A5C3F3-700E-45D4-99F8-98DAEBAC297F</string>
+														<string>D6CCB93F-7B50-478B-A990-C704F31684A6</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1272,16 +1272,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;045&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;045&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 045}</string>
+\f0\b\fs28 \cf2 045}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1296,9 +1296,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -723.88149194400785}</string>
+														<string>{772, -566.5}</string>
 														<key>nodeID</key>
-														<string>FEB55F69-9DFD-4900-98C8-4334216CE225</string>
+														<string>20969246-8C35-451B-BB75-57309BB685BA</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1312,16 +1312,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;0x56&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;0x56&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 0x56}</string>
+\f0\b\fs28 \cf2 0x56}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1336,9 +1336,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -691.88149194400785}</string>
+														<string>{772, -536.5}</string>
 														<key>nodeID</key>
-														<string>54EE36D0-81D9-4968-9406-9035A17851B1</string>
+														<string>07FCF05E-44E2-4477-A408-292AE8223F9E</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1352,16 +1352,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;0.314e2&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;0.314e2&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 0.314e2}</string>
+\f0\b\fs28 \cf2 0.314e2}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1376,9 +1376,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{776.03671360017449, -659.88149194400785}</string>
+														<string>{772, -506.5}</string>
 														<key>nodeID</key>
-														<string>851E8E72-4969-41B6-AD36-E589913B2FF2</string>
+														<string>C53AC19A-8DFD-40F9-AAFB-A5C19172D981</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1392,16 +1392,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;NaN&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;NaN&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 NaN}</string>
+\f0\b\fs28 \cf2 NaN}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1434,9 +1434,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{664.03671360017449, -595.88149194400785}</string>
+												<string>{660, -446.5}</string>
 												<key>nodeID</key>
-												<string>BBB93C9C-24CA-4B79-8F5B-577E2A71A038</string>
+												<string>3BB68242-AD80-4DD5-BDFB-EBBC23401412</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1457,9 +1457,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{802.03671360017449, -627.88149194400785}</string>
+														<string>{800, -476.5}</string>
 														<key>nodeID</key>
-														<string>C187C0AA-4742-4A74-832E-0D9E9C9C0881</string>
+														<string>7C850E1C-D088-4DA0-A07A-925AB14CC685</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1480,9 +1480,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{998.03671360017449, -627.88149194400785}</string>
+																<string>{1049, -476.5}</string>
 																<key>nodeID</key>
-																<string>DE828A3E-430F-479A-AC79-FDD3DE509E91</string>
+																<string>B173D058-6DD8-40FB-B674-060DD03EF465</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -1496,16 +1496,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;parseInt(&amp;apos;10&amp;apos;, 2); // ?&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;parseInt(&amp;apos;10&amp;apos;, 2); // ?&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 parseInt('10', 2); // ?}</string>
+\f0\b\fs28 \cf2 parseInt('10', 2); // ?}</string>
 																</dict>
 															</dict>
 														</array>
@@ -1514,16 +1514,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;parseInt(&amp;quot;2.5&amp;quot;); // 2&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;parseInt(&amp;quot;2.5&amp;quot;); // 2&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 parseInt("2.5"); // 2}</string>
+\f0\b\fs28 \cf2 parseInt("2.5"); // 2}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1538,9 +1538,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{802.03671360017449, -595.88149194400785}</string>
+														<string>{800, -446.5}</string>
 														<key>nodeID</key>
-														<string>6AE6541C-DCE1-4E5D-9C01-0EB6B35BF62F</string>
+														<string>7815223D-E699-4633-B38C-E7AE4883F2D2</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1554,16 +1554,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;parseFloat(&amp;apos;2.5&amp;apos;); // 2.5&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;parseFloat(&amp;apos;2.5&amp;apos;); // 2.5&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 parseFloat('2.5'); // 2.5}</string>
+\f0\b\fs28 \cf2 parseFloat('2.5'); // 2.5}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1578,9 +1578,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{802.03671360017449, -563.88149194400785}</string>
+														<string>{800, -416.5}</string>
 														<key>nodeID</key>
-														<string>4A5D3EDE-779E-4BD7-B7ED-A9BE865F0A31</string>
+														<string>538E8E2F-91F7-4832-B497-EB56F1F0D092</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1594,16 +1594,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;isNaN(parseFloat(&amp;apos;a&amp;apos;)); // true&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;isNaN(parseFloat(&amp;apos;a&amp;apos;)); // true&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 isNaN(parseFloat('a')); // true}</string>
+\f0\b\fs28 \cf2 isNaN(parseFloat('a')); // true}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1612,16 +1612,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Number()&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Number()&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Number()}</string>
+\f0\b\fs28 \cf2 Number()}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -1636,9 +1636,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{664.03671360017449, -531.88149194400785}</string>
+												<string>{660, -386.5}</string>
 												<key>nodeID</key>
-												<string>E594342F-DF13-44CA-96AD-E49D9919AFA2</string>
+												<string>AACB6E8E-5C7E-4A29-99E1-189C201EF2C4</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1652,16 +1652,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;+-*/%&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;+-*/%&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 +-*/%}</string>
+\f0\b\fs28 \cf2 +-*/%}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -1676,9 +1676,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{664.03671360017449, -499.88149194400796}</string>
+												<string>{660, -356.5}</string>
 												<key>nodeID</key>
-												<string>A67994D9-4F6C-47F4-B3D8-AE5E3BFA04B5</string>
+												<string>1AF5B363-43B1-40FE-87EA-1DA31FE4894C</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1692,16 +1692,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;lt; &amp;lt;= &amp;gt; &amp;gt;= != ==&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;lt; &amp;lt;= &amp;gt; &amp;gt;= != ==&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 &lt; &lt;= &gt; &gt;= != ==}</string>
+\f0\b\fs28 \cf2 &lt; &lt;= &gt; &gt;= != ==}</string>
 												</dict>
 											</dict>
 										</array>
@@ -1727,8 +1727,6 @@
 										<integer>1</integer>
 										<key>fillColor</key>
 										<string>{0.951, 0.990, 0.938, 1.000}</string>
-										<key>hasFoldedSubnodes</key>
-										<true/>
 										<key>isDecreasingBranchThickness</key>
 										<true/>
 										<key>isDrawingFill</key>
@@ -1736,9 +1734,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{533, -98}</string>
+										<string>{533, -165.5}</string>
 										<key>nodeID</key>
-										<string>5F356C8B-5C2F-4556-B75F-7B28A85B8CD9</string>
+										<string>9F5D6B7C-74A6-45FB-9D98-02BB3EB0C27B</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1759,9 +1757,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -628.21482591312406}</string>
+												<string>{645, -325.5}</string>
 												<key>nodeID</key>
-												<string>26CBDAB3-240F-423E-945A-A7780354FD02</string>
+												<string>96970B2F-D0BB-460F-A248-1C7F96A5F061</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1782,9 +1780,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{766.03671360017449, -628.21482591312406}</string>
+														<string>{762, -326.5}</string>
 														<key>nodeID</key>
-														<string>57739765-120C-46E8-8AAB-51203F38003F</string>
+														<string>758F4926-A523-4073-A7E8-6C81596F67ED</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1798,16 +1796,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;apos;string&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;string&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 'string'}</string>
+\f0\b\fs28 \cf2 'string'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1840,9 +1838,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -579.71482591312406}</string>
+												<string>{645, -277.5}</string>
 												<key>nodeID</key>
-												<string>8CB5219C-E387-40F6-898A-0F9231871C88</string>
+												<string>6A9CFF82-798D-42ED-9246-A5266B438B96</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1863,9 +1861,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{761.03671360017449, -595.21482591312406}</string>
+														<string>{757, -294.5}</string>
 														<key>nodeID</key>
-														<string>3320244B-355D-46CE-B7E1-55863E811547</string>
+														<string>A6AEA8A8-0678-45C8-95CC-8A005A4B0CC7</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1879,16 +1877,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;quot;Hello&amp;quot;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;quot;Hello&amp;quot;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 "Hello"}</string>
+\f0\b\fs28 \cf2 "Hello"}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1903,9 +1901,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{761.03671360017449, -563.21482591312406}</string>
+														<string>{757, -262.5}</string>
 														<key>nodeID</key>
-														<string>B334AB86-78D1-4200-9FB7-50927BDB1C19</string>
+														<string>6F397C71-0AE1-4C63-A083-56CF25B7E5B9</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1919,16 +1917,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;apos;World&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;World&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 'World'}</string>
+\f0\b\fs28 \cf2 'World'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1961,9 +1959,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -523.21482591312406}</string>
+												<string>{645, -222.5}</string>
 												<key>nodeID</key>
-												<string>5E9BB801-1215-4545-9DF7-3F8437DA1F62</string>
+												<string>43B1DA1E-174C-4E7A-A038-C63C1EA41288</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1984,9 +1982,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{836.03671360017449, -531.21482591312406}</string>
+														<string>{877, -230.5}</string>
 														<key>nodeID</key>
-														<string>26D8365E-A9F3-48C5-B6B3-B4444C7AFB1B</string>
+														<string>E9F23384-EDB3-409F-B573-B3F84459823A</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2000,16 +1998,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;var a = 8; a.toString(2); // ?&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;var a = 8; a.toString(2); // ?&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 var a = 8;a.toString(2); // ?}</string>
+\f0\b\fs28 \cf2 var a = 8;\uc0\u8232 a.toString(2); // ?}</string>
 														</dict>
 													</dict>
 												</array>
@@ -2018,16 +2016,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;String()/toString()&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;String()/toString()&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 String()/toString()}</string>
+\f0\b\fs28 \cf2 String()/toString()}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -2042,9 +2040,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -426.21482591312417}</string>
+												<string>{645, -125.5}</string>
 												<key>nodeID</key>
-												<string>657EF055-F2E0-4463-ACD9-E96F3A1626F4</string>
+												<string>21F79FB1-4386-4BBD-917E-91289694024B</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2065,9 +2063,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{795.03671360017449, -483.21482591312417}</string>
+														<string>{791, -182.5}</string>
 														<key>nodeID</key>
-														<string>32E0721F-6DC4-4302-A260-4C49947E4814</string>
+														<string>7D2110CC-A97E-4DD5-8C86-2D7A68D9DEBF</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2081,16 +2079,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;var a = &amp;apos;ABC&amp;apos;; a[0]; // &amp;apos;A&amp;apos; a[0] = &amp;apos;D&amp;apos;; a; // &amp;apos;ABC&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;var a = &amp;apos;ABC&amp;apos;; a[0]; // &amp;apos;A&amp;apos; a[0] = &amp;apos;D&amp;apos;; a; // &amp;apos;ABC&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 var a = 'ABC';a[0]; // 'A'a[0] = 'D';a; // 'ABC'}</string>
+\f0\b\fs28 \cf2 var a = 'ABC';\uc0\u8232 a[0]; // 'A'\u8232 a[0] = 'D';\u8232 a; // 'ABC'}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -2105,9 +2103,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{795.03671360017449, -403.21482591312417}</string>
+														<string>{791, -102.5}</string>
 														<key>nodeID</key>
-														<string>ADA9E5F0-9D4D-452B-BBEB-B6ECA7986A97</string>
+														<string>751A9490-0CF8-4FD7-9161-30FB844C421D</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2121,16 +2119,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;var a = &amp;apos;abc&amp;apos;; a = a + &amp;apos;d&amp;apos;; a; // &amp;apos;abcd&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;var a = &amp;apos;abc&amp;apos;; a = a + &amp;apos;d&amp;apos;; a; // &amp;apos;abcd&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 var a = 'abc';a = a + 'd';a; // 'abcd'}</string>
+\f0\b\fs28 \cf2 var a = 'abc';\uc0\u8232 a = a + 'd';\u8232 a; // 'abcd'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -2163,9 +2161,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -339.21482591312417}</string>
+												<string>{645, -38.5}</string>
 												<key>nodeID</key>
-												<string>DE64764D-0A78-468B-A3EA-7E5F17B4CD92</string>
+												<string>96820FD2-29D1-4D6B-AB7E-FB701E5384DE</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2179,16 +2177,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;+&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;+&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 +}</string>
+\f0\b\fs28 \cf2 +}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -2203,9 +2201,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{649.03671360017449, -307.21482591312417}</string>
+												<string>{645, -6.5}</string>
 												<key>nodeID</key>
-												<string>62022F91-1814-420E-86A3-9B10330AD36F</string>
+												<string>5CE9449E-B666-43B7-9A82-81110CD4B482</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2219,16 +2217,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;lt; &amp;lt;= &amp;gt; &amp;gt;= != ==&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;lt; &amp;lt;= &amp;gt; &amp;gt;= != ==&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 &lt; &lt;= &gt; &gt;= != ==}</string>
+\f0\b\fs28 \cf2 &lt; &lt;= &gt; &gt;= != ==}</string>
 												</dict>
 											</dict>
 										</array>
@@ -2254,8 +2252,6 @@
 										<integer>1</integer>
 										<key>fillColor</key>
 										<string>{0.951, 0.990, 0.938, 1.000}</string>
-										<key>hasFoldedSubnodes</key>
-										<true/>
 										<key>isDecreasingBranchThickness</key>
 										<true/>
 										<key>isDrawingFill</key>
@@ -2263,9 +2259,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{533, -68}</string>
+										<string>{533, 186.5}</string>
 										<key>nodeID</key>
-										<string>042E866A-D173-4A4D-B7FF-002D93282424</string>
+										<string>2BB3E231-1B4E-4A98-9843-9B1CF491AEBD</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2286,9 +2282,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{666.03671360017449, -419.54815988224038}</string>
+												<string>{662, 26.5}</string>
 												<key>nodeID</key>
-												<string>A6F29F97-A6B8-4025-B722-1F51A40CF2B5</string>
+												<string>4568DBEA-A190-483A-8740-273253662A5D</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2309,9 +2305,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{783.03671360017449, -419.54815988224038}</string>
+														<string>{779, 25.5}</string>
 														<key>nodeID</key>
-														<string>D9239E82-5D1A-4F03-BE08-ADF4396DE41C</string>
+														<string>D9C897CA-5353-4D6A-AA5F-D4956B2807A6</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2325,16 +2321,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;apos;boolean&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;boolean&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 'boolean'}</string>
+\f0\b\fs28 \cf2 'boolean'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -2367,9 +2363,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{666.03671360017449, -371.04815988224038}</string>
+												<string>{662, 74.5}</string>
 												<key>nodeID</key>
-												<string>9BFD049E-D871-4B23-ABFF-E0176D8D6E8A</string>
+												<string>3D70B63D-5250-4038-9A65-DFDFBD01D3A6</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2390,9 +2386,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{778.03671360017449, -386.54815988224038}</string>
+														<string>{774, 57.5}</string>
 														<key>nodeID</key>
-														<string>6B97BCF5-7B46-404C-BA02-21264EBE970B</string>
+														<string>D51972F0-ADC5-4694-810C-19004EDC5CA9</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2406,16 +2402,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;true&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;true&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 true}</string>
+\f0\b\fs28 \cf2 true}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -2430,9 +2426,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{778.03671360017449, -354.54815988224038}</string>
+														<string>{774, 89.5}</string>
 														<key>nodeID</key>
-														<string>BB4043E6-796C-4DD2-9BEB-1204593669E4</string>
+														<string>F69FB5DF-F016-458D-B20C-0E0064EC1B34</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2446,16 +2442,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;false&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;false&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 false}</string>
+\f0\b\fs28 \cf2 false}</string>
 														</dict>
 													</dict>
 												</array>
@@ -2488,9 +2484,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{666.03671360017449, -210.54815988224038}</string>
+												<string>{662, 233.5}</string>
 												<key>nodeID</key>
-												<string>2B82572C-2EC2-47E0-8F43-81F65C835232</string>
+												<string>52540929-E088-4E06-B5AC-65070D38CD58</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2511,9 +2507,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{805.03671360017449, -289.54815988224038}</string>
+														<string>{810, 153.5}</string>
 														<key>nodeID</key>
-														<string>E8F94698-D95E-4227-BA2B-0980B049F174</string>
+														<string>8237E6D2-35CE-4E21-92FC-BAAD7D1C19C9</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2534,9 +2530,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{931.03671360017449, -322.54815988224038}</string>
+																<string>{933, 121.5}</string>
 																<key>nodeID</key>
-																<string>62B18A3B-66E2-404A-A333-70C157126963</string>
+																<string>7A36B6BF-1F5B-4E3D-B75C-6729618AD5FD</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2550,16 +2546,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(0); // false&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(0); // false&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(0); // false}</string>
+\f0\b\fs28 \cf2 Boolean(0); // false}</string>
 																</dict>
 															</dict>
 															<dict>
@@ -2574,9 +2570,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{931.03671360017449, -290.54815988224038}</string>
+																<string>{933, 153.5}</string>
 																<key>nodeID</key>
-																<string>FEE55E5F-FBCE-4FA9-BED9-AAA67AA95C33</string>
+																<string>2122597D-E491-4B29-A927-5965A6E7FB81</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2590,16 +2586,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(NaN); // false&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(NaN); // false&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(NaN); // false}</string>
+\f0\b\fs28 \cf2 Boolean(NaN); // false}</string>
 																</dict>
 															</dict>
 															<dict>
@@ -2614,9 +2610,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{931.03671360017449, -258.54815988224038}</string>
+																<string>{933, 185.5}</string>
 																<key>nodeID</key>
-																<string>67292001-D4BF-4128-840F-DF199D1523AE</string>
+																<string>A53CE07E-852B-4768-A3BB-8F9D6E5400BD</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2630,16 +2626,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(!0); // true&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(!0); // true&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(!0); // true}</string>
+\f0\b\fs28 \cf2 Boolean(!0); // true}</string>
 																</dict>
 															</dict>
 														</array>
@@ -2648,16 +2644,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;number&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;number&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 number}</string>
+\f0\b\fs28 \cf2 number}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -2672,9 +2668,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{805.03671360017449, -209.54815988224038}</string>
+														<string>{810, 233.5}</string>
 														<key>nodeID</key>
-														<string>400A771A-0CC4-454A-8E90-D56A1134D242</string>
+														<string>1B10551F-CB37-4230-871A-C863BDC669DC</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2695,9 +2691,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{917.03671360017449, -226.54815988224038}</string>
+																<string>{933, 217.5}</string>
 																<key>nodeID</key>
-																<string>8331E8BA-7800-454B-BFCB-098F04361B0E</string>
+																<string>773D50E9-97C9-46BA-8BF6-6ED4B8F4109D</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2711,16 +2707,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(&amp;apos;&amp;apos;); // false&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(&amp;apos;&amp;apos;); // false&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(''); // false}</string>
+\f0\b\fs28 \cf2 Boolean(''); // false}</string>
 																</dict>
 															</dict>
 															<dict>
@@ -2735,9 +2731,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{917.03671360017449, -194.54815988224038}</string>
+																<string>{933, 249.5}</string>
 																<key>nodeID</key>
-																<string>F8CB5BE7-5FEA-4CC9-80EE-BD2BB93D03B6</string>
+																<string>21AF8E5C-2F2C-48CC-9B06-EB444435868B</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2751,16 +2747,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(&amp;apos;*&amp;apos;); // true&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(&amp;apos;*&amp;apos;); // true&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean('*'); // true}</string>
+\f0\b\fs28 \cf2 Boolean('*'); // true}</string>
 																</dict>
 															</dict>
 														</array>
@@ -2769,16 +2765,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;string&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;string&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 string}</string>
+\f0\b\fs28 \cf2 string}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -2793,9 +2789,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{805.03671360017449, -145.54815988224038}</string>
+														<string>{810, 297.5}</string>
 														<key>nodeID</key>
-														<string>C10776D7-A1B1-424B-9596-FBCF6690F0A4</string>
+														<string>7E53B53D-74D2-401A-9AED-494A07FB5767</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2816,9 +2812,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{922.03671360017449, -162.54815988224038}</string>
+																<string>{933, 281.5}</string>
 																<key>nodeID</key>
-																<string>01617EFA-45B9-4EB9-86BE-427C09E282EB</string>
+																<string>78F078E4-41B6-4B29-8F1C-7F6F542E807D</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2832,16 +2828,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(null); // false&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; text-align: left; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(null); // false&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(null); // false}</string>
+\f0\b\fs28 \cf2 Boolean(null); // false}</string>
 																</dict>
 															</dict>
 															<dict>
@@ -2856,9 +2852,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{922.03671360017449, -130.54815988224038}</string>
+																<string>{933, 313.5}</string>
 																<key>nodeID</key>
-																<string>DC6D4976-9FFC-4CDC-83A9-AE1DF49C88E8</string>
+																<string>6A584A5C-2A97-49AF-BEA5-C95AA975A97A</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2872,16 +2868,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean({}); // true&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean({}); // true&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(\{\}); // true}</string>
+\f0\b\fs28 \cf2 Boolean(\{\}); // true}</string>
 																</dict>
 															</dict>
 														</array>
@@ -2890,16 +2886,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;object&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;object&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 object}</string>
+\f0\b\fs28 \cf2 object}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -2914,9 +2910,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{805.03671360017449, -97.548159882240384}</string>
+														<string>{810, 345.5}</string>
 														<key>nodeID</key>
-														<string>03E57B10-A768-4399-AE25-97A84391242A</string>
+														<string>BC51D6D0-0A83-4D63-B05E-1C3E4847CC0B</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -2937,9 +2933,9 @@
 																<key>isLeftAligned</key>
 																<false/>
 																<key>location</key>
-																<string>{948.03671360017449, -98.548159882240384}</string>
+																<string>{958, 345.5}</string>
 																<key>nodeID</key>
-																<string>77B6188F-A4B3-4A6B-9D69-F8910DB12D17</string>
+																<string>2F8D4A79-0E62-4928-8886-75580ED698A9</string>
 																<key>strokeColor</key>
 																<string>{0.584, 0.677, 0.443, 1.000}</string>
 																<key>strokeStyle</key>
@@ -2953,16 +2949,16 @@
 																	<key>constrainedWidth</key>
 																	<integer>300</integer>
 																	<key>htmlText</key>
-																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean(undefined); // false&lt;/p&gt;</string>
+																	<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean(undefined); // false&lt;/p&gt;</string>
 																	<key>shrinkToFitContent</key>
 																	<integer>1</integer>
 																	<key>text</key>
 																	<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean(undefined); // false}</string>
+\f0\b\fs28 \cf2 Boolean(undefined); // false}</string>
 																</dict>
 															</dict>
 														</array>
@@ -2971,16 +2967,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;undefined&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;undefined&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 undefined}</string>
+\f0\b\fs28 \cf2 undefined}</string>
 														</dict>
 													</dict>
 												</array>
@@ -2989,16 +2985,16 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Boolean()&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Boolean()&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 Boolean()}</string>
+\f0\b\fs28 \cf2 Boolean()}</string>
 												</dict>
 											</dict>
 										</array>
@@ -3024,8 +3020,6 @@
 										<integer>1</integer>
 										<key>fillColor</key>
 										<string>{0.951, 0.990, 0.938, 1.000}</string>
-										<key>hasFoldedSubnodes</key>
-										<true/>
 										<key>isDecreasingBranchThickness</key>
 										<true/>
 										<key>isDrawingFill</key>
@@ -3033,9 +3027,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{533, -38}</string>
+										<string>{533, 434.5}</string>
 										<key>nodeID</key>
-										<string>CA49E6F8-6EF6-4763-BF37-FABB8A824718</string>
+										<string>43B8D68D-1981-45CC-BD6F-55527F1DF2F3</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3056,9 +3050,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{680.03671360017449, -210.88149385135659}</string>
+												<string>{676, 378.5}</string>
 												<key>nodeID</key>
-												<string>50ABE180-2967-4EB1-AE03-8EA6FF7C7427</string>
+												<string>1ABF6641-310B-47F4-B048-C231D464D060</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3079,9 +3073,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{797.03671360017449, -210.88149385135659}</string>
+														<string>{793, 377.5}</string>
 														<key>nodeID</key>
-														<string>232769BA-8AD7-4A16-A2A3-7038E2930AE5</string>
+														<string>D7F56FF5-C276-4F6E-8074-350A635C0D8F</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3095,16 +3089,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;&amp;apos;undefined&amp;apos;&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;undefined&amp;apos;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 'undefined'}</string>
+\f0\b\fs28 \cf2 'undefined'}</string>
 														</dict>
 													</dict>
 												</array>
@@ -3137,9 +3131,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{680.03671360017449, -177.88149385135659}</string>
+												<string>{676, 410.5}</string>
 												<key>nodeID</key>
-												<string>8351D059-503E-4E9C-B5CB-7BC6FFAAE3AB</string>
+												<string>D07A23FE-5D46-46ED-A6CB-1FA53F8DBCD2</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3160,9 +3154,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{792.03671360017449, -177.88149385135659}</string>
+														<string>{788, 409.5}</string>
 														<key>nodeID</key>
-														<string>8DB580FA-090B-4AAC-A508-032525B274A0</string>
+														<string>A4FF6FCE-E822-4605-8A7A-76B62DB8F7EA</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3176,16 +3170,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;undefined&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;undefined&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 undefined}</string>
+\f0\b\fs28 \cf2 undefined}</string>
 														</dict>
 													</dict>
 												</array>
@@ -3218,9 +3212,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{680.03671360017449, -119.88149385135659}</string>
+												<string>{676, 466.5}</string>
 												<key>nodeID</key>
-												<string>48E46DB9-AA51-4569-AC1B-F3F92F691E0F</string>
+												<string>FE9E8F66-4EA2-4707-BECD-68B5D6D7E7A1</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3241,9 +3235,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{923.03671360017449, -144.88149385135659}</string>
+														<string>{919, 441.5}</string>
 														<key>nodeID</key>
-														<string>9F5699AF-E804-4036-A335-E96F6F3CD513</string>
+														<string>4BA762D3-3C06-4444-9107-E1E719941934</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3257,16 +3251,16 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;undefined == undefined; // true var a; a == undefined; // true console.log(d); // Error&lt;/p&gt;</string>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;undefined == undefined; // true var a; a == undefined; // true console.log(d); // Error&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
 {\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 undefined == undefined; // truevar a;a == undefined; // trueconsole.log(d); // Error}</string>
+\f0\b\fs28 \cf2 undefined == undefined; // true\uc0\u8232 var a;\u8232 a == undefined; // true\u8232 console.log(d); // Error}</string>
 														</dict>
 													</dict>
 												</array>
@@ -3293,7 +3287,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Undefined&lt;/p&gt;</string>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Undefined&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -3337,9 +3331,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{366, -8}</string>
+								<string>{366, -239}</string>
 								<key>nodeID</key>
-								<string>21C0C6AC-1301-4EC6-83D5-99E4089EA4B8</string>
+								<string>370269F5-96B4-445F-AC42-E88A3D4C48E2</string>
 								<key>strokeColor</key>
 								<string>{0.584, 0.677, 0.443, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3360,9 +3354,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{483, -88}</string>
+										<string>{483, -161}</string>
 										<key>nodeID</key>
-										<string>1D95A922-02EE-4630-860E-72796A9DBAF8</string>
+										<string>9521D982-D657-45D3-B9AE-90755C67592C</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3383,9 +3377,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{595, -88}</string>
+												<string>{595, -161}</string>
 												<key>nodeID</key>
-												<string>7AF6F226-32BD-48BB-910F-5EF7105E97C3</string>
+												<string>B7E4FD63-B70D-4290-87D0-F0460A270583</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3441,9 +3435,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{483, -55}</string>
+										<string>{483, -128}</string>
 										<key>nodeID</key>
-										<string>273F7105-A028-4BCF-8ECA-E2ECD5A5B107</string>
+										<string>FFCB1F42-38B2-497D-9F0E-1B52CD1D82FD</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3481,9 +3475,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{483, -23}</string>
+										<string>{483, -96}</string>
 										<key>nodeID</key>
-										<string>7A2679A2-CD4D-4E0A-8F95-838E1ACD4B97</string>
+										<string>F9E40D00-EBF3-41D8-97CD-1B3A40D6D003</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3521,9 +3515,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{483, 41}</string>
+										<string>{483, -32}</string>
 										<key>nodeID</key>
-										<string>A87CEFF1-4FB8-4ACA-9169-BF69E78BB8AF</string>
+										<string>4711AF8A-4263-4205-B766-D5A7203B2F05</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3544,9 +3538,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{595, 9}</string>
+												<string>{595, -64}</string>
 												<key>nodeID</key>
-												<string>9716E01D-F0DD-4E6D-827A-3FC40EE600B6</string>
+												<string>D39B552B-9DD6-4021-8F6B-52A0540FE490</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3567,9 +3561,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{718, 9}</string>
+														<string>{718, -64}</string>
 														<key>nodeID</key>
-														<string>A0954427-1FAD-4260-92F7-28E5B89F4B17</string>
+														<string>3558ECA7-A4F0-485C-846E-A756DF960CC8</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3625,9 +3619,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{595, 41}</string>
+												<string>{595, -32}</string>
 												<key>nodeID</key>
-												<string>6574BE64-D909-4D0B-9161-E4F71FF317A9</string>
+												<string>185B61D3-2225-438C-9EAE-3D0FBED7E2FF</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3648,9 +3642,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{710, 41}</string>
+														<string>{710, -32}</string>
 														<key>nodeID</key>
-														<string>33F881A8-926C-47F8-BBAE-ABAF35EAFBB6</string>
+														<string>0264D352-9E5A-40E0-9906-D2BC47AF644F</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3706,9 +3700,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{595, 73}</string>
+												<string>{595, 0}</string>
 												<key>nodeID</key>
-												<string>F37B940F-44F4-4C06-B338-68978D72CBEF</string>
+												<string>DF01BF20-67E7-4BA1-BF3F-9B271EA5928C</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3729,9 +3723,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{819, 73}</string>
+														<string>{819, 0}</string>
 														<key>nodeID</key>
-														<string>C8CCDFD6-EAB4-4E11-BCB2-0BDA6D20436B</string>
+														<string>94B0DBC6-16FE-40D3-B273-ED21D8E2A8A2</string>
 														<key>strokeColor</key>
 														<string>{0.584, 0.677, 0.443, 1.000}</string>
 														<key>strokeStyle</key>
@@ -3825,9 +3819,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{366, 25}</string>
+								<string>{366, -206}</string>
 								<key>nodeID</key>
-								<string>1A18391B-CC9C-475B-B7DD-8101779A6E6C</string>
+								<string>C456587D-8E7D-492D-B7BD-EA2443E2139F</string>
 								<key>strokeColor</key>
 								<string>{0.584, 0.677, 0.443, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3850,7 +3844,7 @@
 										<key>location</key>
 										<string>{490, -21}</string>
 										<key>nodeID</key>
-										<string>7A4FDE1B-4CB5-4BDD-8279-9B3E68D55F18</string>
+										<string>9FAB7F97-63B5-4636-A8F4-C741EA3F4655</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3873,7 +3867,7 @@
 												<key>location</key>
 												<string>{602, -21}</string>
 												<key>nodeID</key>
-												<string>296EB080-C86D-4FC8-A7CE-2CCDD1294CC7</string>
+												<string>BFBEF2FC-9A71-4DBA-85D9-47173B11A236</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3931,7 +3925,7 @@
 										<key>location</key>
 										<string>{490, 93}</string>
 										<key>nodeID</key>
-										<string>7669DD8A-87FA-4B5A-93EF-2CAE8D41315E</string>
+										<string>B14E57BA-A250-4D1E-B3EC-A96DE48BADC4</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -3954,7 +3948,7 @@
 												<key>location</key>
 												<string>{608, 12}</string>
 												<key>nodeID</key>
-												<string>41BB236E-893B-4406-80DD-FA56030E76C4</string>
+												<string>52A1651F-3378-4A38-BF1B-59710D262442</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -3994,7 +3988,7 @@
 												<key>location</key>
 												<string>{608, 76}</string>
 												<key>nodeID</key>
-												<string>C2211414-F540-4552-AE69-B821B3A98CFB</string>
+												<string>93FC0B82-FDFD-4E4C-9B95-22F34BB1D15B</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -4034,7 +4028,7 @@
 												<key>location</key>
 												<string>{608, 140}</string>
 												<key>nodeID</key>
-												<string>3F0F2558-E489-4D6D-B8E5-29631DC4D8B4</string>
+												<string>4A52A3DA-B95F-4805-B902-42E1B3EF9895</string>
 												<key>strokeColor</key>
 												<string>{0.584, 0.677, 0.443, 1.000}</string>
 												<key>strokeStyle</key>
@@ -4092,7 +4086,7 @@
 										<key>location</key>
 										<string>{490, 204}</string>
 										<key>nodeID</key>
-										<string>0911F77C-5DA9-4AA6-84F8-72CEFC06C501</string>
+										<string>C5102C43-4BCB-444C-9259-2A209B9A11AF</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4132,7 +4126,7 @@
 										<key>location</key>
 										<string>{490, 234}</string>
 										<key>nodeID</key>
-										<string>4D987978-FFFA-4460-98DF-9FF4738E55C6</string>
+										<string>FD5D3EA4-EFE2-479D-8A98-C4CD2FCA2302</string>
 										<key>strokeColor</key>
 										<string>{0.584, 0.677, 0.443, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4208,9 +4202,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, 58}</string>
+						<string>{235, -173}</string>
 						<key>nodeID</key>
-						<string>32AB7C73-56F9-40FB-A0C2-054686C6D988</string>
+						<string>9F18B982-530D-4AF2-A0F7-8DF2E6834311</string>
 						<key>strokeColor</key>
 						<string>{0.745, 0.852, 0.469, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4233,7 +4227,7 @@
 								<key>location</key>
 								<string>{368, -195}</string>
 								<key>nodeID</key>
-								<string>4624D641-EC51-45FD-89BC-42C21D881583</string>
+								<string>DD26D6BE-BF0D-4C8C-981E-C2F980E61655</string>
 								<key>strokeColor</key>
 								<string>{0.745, 0.852, 0.469, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4256,7 +4250,7 @@
 										<key>location</key>
 										<string>{483, -194}</string>
 										<key>nodeID</key>
-										<string>D7BCD810-2AFC-4452-874D-22B1BBA6D91E</string>
+										<string>9738F084-881B-4CA5-AF5B-BF85779FF943</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4279,7 +4273,7 @@
 												<key>location</key>
 												<string>{605, -259}</string>
 												<key>nodeID</key>
-												<string>8B6F9B01-481B-43CF-90C3-F6C4EBD7ADB9</string>
+												<string>EFDF6A04-1EB0-41D5-8D91-5D4D8A6EBAB3</string>
 												<key>strokeColor</key>
 												<string>{0.745, 0.852, 0.469, 1.000}</string>
 												<key>strokeStyle</key>
@@ -4302,7 +4296,7 @@
 														<key>location</key>
 														<string>{717, -259}</string>
 														<key>nodeID</key>
-														<string>FD1032C5-4F95-405D-B12A-5532E7C3BA12</string>
+														<string>425BDAAB-938C-4523-BB2C-067375A14F79</string>
 														<key>strokeColor</key>
 														<string>{0.745, 0.852, 0.469, 1.000}</string>
 														<key>strokeStyle</key>
@@ -4325,7 +4319,7 @@
 																<key>location</key>
 																<string>{1000, -307}</string>
 																<key>nodeID</key>
-																<string>3DA561D4-4C1B-4BF8-B9A0-EB97B17558A6</string>
+																<string>BA196B01-BEA2-412A-85E0-A84FC2142569</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4365,7 +4359,7 @@
 																<key>location</key>
 																<string>{1000, -275}</string>
 																<key>nodeID</key>
-																<string>817FA174-0DD4-463D-A8E8-A3920BDFEDA6</string>
+																<string>4776C5DB-FC0C-4100-B6BE-C037E770C33F</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4405,7 +4399,7 @@
 																<key>location</key>
 																<string>{1000, -243}</string>
 																<key>nodeID</key>
-																<string>4A4B93FA-B44A-4025-B377-C1C743190D7E</string>
+																<string>7FE075D5-5C71-4800-BD3A-332D01472941</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4445,7 +4439,7 @@
 																<key>location</key>
 																<string>{1000, -211}</string>
 																<key>nodeID</key>
-																<string>ED1E368D-9553-49A8-B478-C50472231113</string>
+																<string>83DCAE4A-069C-4044-A6FC-87EC6385AB88</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4521,7 +4515,7 @@
 												<key>location</key>
 												<string>{605, -131}</string>
 												<key>nodeID</key>
-												<string>61F3C332-FFDF-4E87-848C-DE4C7FBF0412</string>
+												<string>766F17DA-44E3-4974-BFD5-C361AC6FD1AC</string>
 												<key>strokeColor</key>
 												<string>{0.745, 0.852, 0.469, 1.000}</string>
 												<key>strokeStyle</key>
@@ -4544,7 +4538,7 @@
 														<key>location</key>
 														<string>{717, -131}</string>
 														<key>nodeID</key>
-														<string>D9DB35BC-7313-4358-BB17-5BE9046BF1B3</string>
+														<string>42E8D185-F512-4BAD-BE67-A0D71CBB4BF8</string>
 														<key>strokeColor</key>
 														<string>{0.745, 0.852, 0.469, 1.000}</string>
 														<key>strokeStyle</key>
@@ -4567,7 +4561,7 @@
 																<key>location</key>
 																<string>{1000, -179}</string>
 																<key>nodeID</key>
-																<string>788A68FD-61AE-4AAB-9F5E-F1E07630FD5D</string>
+																<string>CFF6CE0E-4A2D-4E66-B671-E8B57449BF60</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4607,7 +4601,7 @@
 																<key>location</key>
 																<string>{1000, -147}</string>
 																<key>nodeID</key>
-																<string>5D734A15-83C3-4A05-A14F-83D9C26E8E97</string>
+																<string>BFB55F27-8B89-44B5-89F7-92AEC35B8F46</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4647,7 +4641,7 @@
 																<key>location</key>
 																<string>{1000, -115}</string>
 																<key>nodeID</key>
-																<string>C4AD7F42-310C-4400-8EE5-7219EFDF6F3C</string>
+																<string>05F08E17-BFE1-48D1-B1AA-AB1B7A874353</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4687,7 +4681,7 @@
 																<key>location</key>
 																<string>{1000, -83}</string>
 																<key>nodeID</key>
-																<string>986E7E33-5CD4-4F92-BE26-8F00BBFE98A8</string>
+																<string>07741B6F-61C6-49A7-B3D7-0364030AA7CB</string>
 																<key>strokeColor</key>
 																<string>{0.745, 0.852, 0.469, 1.000}</string>
 																<key>strokeStyle</key>
@@ -4799,7 +4793,7 @@
 								<key>location</key>
 								<string>{368, -51}</string>
 								<key>nodeID</key>
-								<string>8222A610-3E0D-4C01-AE1C-3AAC50C33F54</string>
+								<string>2DC8AC94-6E12-4F9F-9E37-55895D2C5A1C</string>
 								<key>strokeColor</key>
 								<string>{0.745, 0.852, 0.469, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4839,7 +4833,7 @@
 								<key>location</key>
 								<string>{368, 109}</string>
 								<key>nodeID</key>
-								<string>0ABB43C5-9307-4E0E-A64F-B4D5A12558E7</string>
+								<string>443D5394-4B3C-4712-94E2-1DB7F095A219</string>
 								<key>strokeColor</key>
 								<string>{0.745, 0.852, 0.469, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4862,7 +4856,7 @@
 										<key>location</key>
 										<string>{499, -19}</string>
 										<key>nodeID</key>
-										<string>DDF7D2FB-4B9F-4583-9925-9E1DC8B213C4</string>
+										<string>DEFE744E-7285-45FF-87BB-FD3ACD4740EE</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4902,7 +4896,7 @@
 										<key>location</key>
 										<string>{499, 13}</string>
 										<key>nodeID</key>
-										<string>0461A6A4-87C0-4D82-8F84-BCA6461B847A</string>
+										<string>A85B8C1D-70DA-45E6-A28B-C6999402E867</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4942,7 +4936,7 @@
 										<key>location</key>
 										<string>{499, 45}</string>
 										<key>nodeID</key>
-										<string>5FF177A6-CAE6-4B7B-A53F-5E7C0A1BDE3D</string>
+										<string>58C8D5E4-4C61-43D0-9CA7-F515D4093D3F</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4982,7 +4976,7 @@
 										<key>location</key>
 										<string>{499, 77}</string>
 										<key>nodeID</key>
-										<string>40DA3F00-4A7C-4413-A7FA-8A3903DD6DC4</string>
+										<string>D512C04F-EE55-457E-AD9C-FE66A62983A5</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5022,7 +5016,7 @@
 										<key>location</key>
 										<string>{499, 109}</string>
 										<key>nodeID</key>
-										<string>72DDCE66-231E-46B2-80E6-FDA9A3BB0A9A</string>
+										<string>C941A8C9-5693-4058-BD5C-CD9244E056A7</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5062,7 +5056,7 @@
 										<key>location</key>
 										<string>{499, 141}</string>
 										<key>nodeID</key>
-										<string>4BF28F50-A477-4C6F-BE72-2A4FA303D706</string>
+										<string>F2170AF6-2739-475F-9926-453548798D88</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5102,7 +5096,7 @@
 										<key>location</key>
 										<string>{499, 173}</string>
 										<key>nodeID</key>
-										<string>EC931F54-4001-4C3F-8149-AF34C30327F4</string>
+										<string>72F761D3-220C-45CD-90F5-A360F0753E78</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5142,7 +5136,7 @@
 										<key>location</key>
 										<string>{499, 205}</string>
 										<key>nodeID</key>
-										<string>FEDED3AB-D3AE-4CED-B547-1C6790DB3437</string>
+										<string>0083B423-D7CE-44F3-BD8D-F4F4EB53244E</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5182,7 +5176,7 @@
 										<key>location</key>
 										<string>{499, 238}</string>
 										<key>nodeID</key>
-										<string>B572E620-E95D-4394-8056-8F81C48BB660</string>
+										<string>E39815ED-A733-4BA3-9457-163C002ED1A7</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5205,7 +5199,7 @@
 												<key>location</key>
 												<string>{621, 237}</string>
 												<key>nodeID</key>
-												<string>16C73447-B450-45CA-91E5-736ED95BD93C</string>
+												<string>91D95837-C801-44C5-99F9-5173024D877A</string>
 												<key>strokeColor</key>
 												<string>{0.745, 0.852, 0.469, 1.000}</string>
 												<key>strokeStyle</key>
@@ -5281,7 +5275,7 @@
 								<key>location</key>
 								<string>{368, 301}</string>
 								<key>nodeID</key>
-								<string>A48E13EF-701B-445A-A1A7-E5CE09A28376</string>
+								<string>BB9F63F3-D5D6-41BE-A8BB-BEC23B12119C</string>
 								<key>strokeColor</key>
 								<string>{0.745, 0.852, 0.469, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5304,7 +5298,7 @@
 										<key>location</key>
 										<string>{499, 269}</string>
 										<key>nodeID</key>
-										<string>BF7ED3A8-073A-4551-BF05-971AED4423EF</string>
+										<string>C05D301F-B0B3-4EED-B065-72F0F45B7289</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5344,7 +5338,7 @@
 										<key>location</key>
 										<string>{499, 301}</string>
 										<key>nodeID</key>
-										<string>D4FC3B90-970B-44A4-8810-EC81858FD372</string>
+										<string>DA3ED834-3178-4107-833C-425E4B1EA0D5</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5384,7 +5378,7 @@
 										<key>location</key>
 										<string>{499, 333}</string>
 										<key>nodeID</key>
-										<string>52AD27BA-D5C8-4D85-AB89-0AE2309B8C68</string>
+										<string>37C5E773-904E-4FB1-9338-780792CA837E</string>
 										<key>strokeColor</key>
 										<string>{0.745, 0.852, 0.469, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5442,7 +5436,7 @@
 								<key>location</key>
 								<string>{368, 365}</string>
 								<key>nodeID</key>
-								<string>4D304B2F-7FCE-4569-9219-4B79EBE5B7B2</string>
+								<string>10632CF9-1920-4998-B41B-F1B2AC343252</string>
 								<key>strokeColor</key>
 								<string>{0.745, 0.852, 0.469, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5498,9 +5492,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, 106}</string>
+						<string>{235, 62.5}</string>
 						<key>nodeID</key>
-						<string>9F03B6C9-6365-45F3-8687-2016E1CABC36</string>
+						<string>B50DF268-D85E-4548-BC2A-9FCF529F0D40</string>
 						<key>strokeColor</key>
 						<string>{0.097, 0.155, 0.154, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5521,9 +5515,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{398, 91}</string>
+								<string>{398, -111.5}</string>
 								<key>nodeID</key>
-								<string>1C3404B9-18CA-4E28-B244-CDEB2FC9B0B9</string>
+								<string>8472060E-6D8F-492E-972C-52B6236AA054</string>
 								<key>strokeColor</key>
 								<string>{0.097, 0.155, 0.154, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5531,7 +5525,169 @@
 								<key>strokeWidth</key>
 								<real>5</real>
 								<key>subnodes</key>
-								<array/>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{515, -140}</string>
+										<key>nodeID</key>
+										<string>FBCB31D4-16C4-4199-AE4C-055EE4CF2535</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(51, 51, 51, 1.000000); font: bold 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Medium"; '&gt;root of everything.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 root of everything.}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{515, -96}</string>
+										<key>nodeID</key>
+										<string>AA5F3C38-9A6C-46CD-B88A-7D62AB95C31F</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{730, -110}</string>
+												<key>nodeID</key>
+												<string>16FEA4E2-312C-4D10-B4F9-D7839ED05608</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(51, 51, 51, 1.000000); font: bold 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Medium"; '&gt;properties&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 properties}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{730, -80}</string>
+												<key>nodeID</key>
+												<string>824BDE34-F9D1-406F-8B5F-AB1B0E8E18A0</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(51, 51, 51, 1.000000); font: bold 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Medium"; '&gt;methods&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 methods}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(51, 51, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;Object.prototype.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 Object.prototype.}</string>
+										</dict>
+									</dict>
+								</array>
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
@@ -5561,9 +5717,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{398, 124}</string>
+								<string>{398, 109}</string>
 								<key>nodeID</key>
-								<string>E66CDFF1-04E9-4476-86F6-5CF994B204A4</string>
+								<string>4BDFC5F1-E895-41A8-85D5-6959CF2DCE47</string>
 								<key>strokeColor</key>
 								<string>{0.097, 0.155, 0.154, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5571,7 +5727,612 @@
 								<key>strokeWidth</key>
 								<real>5</real>
 								<key>subnodes</key>
-								<array/>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, -49}</string>
+										<key>nodeID</key>
+										<string>1819854F-23E5-467E-B536-8577D9F4CC0C</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{627, -50}</string>
+												<key>nodeID</key>
+												<string>4EBDD8A8-EF94-44B1-8FF9-EA2022BD8CBE</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;&amp;apos;object&amp;apos;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 'object'}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;typeof&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 typeof}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, -18}</string>
+										<key>nodeID</key>
+										<string>1A9A2C3E-27A7-4326-A70F-5CE6D2679F11</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;var a = [1, 2, &amp;apos;3&amp;apos;, [4, true]];&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 var a = [1, 2, '3', [4, true]];}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, 14}</string>
+										<key>nodeID</key>
+										<string>7EAC6E18-22CA-4BAE-AC2B-F87D9118B60C</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>351</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;var a = new Array(1, 2, &amp;apos;3&amp;apos;, [4, true]);&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 var a = new Array(1, 2, '3', [4, true]);}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, 47}</string>
+										<key>nodeID</key>
+										<string>3550BCDC-E17C-4BE0-AEA0-CF285C424095</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{650, 46}</string>
+												<key>nodeID</key>
+												<string>0E25266C-B31F-4B52-975D-49AD4EDC5D8A</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a.length; // 4&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a.length; // 4}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;properties&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 properties}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, 158}</string>
+										<key>nodeID</key>
+										<string>65BC91E5-339E-472D-92F6-D5D6028903D9</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 78}</string>
+												<key>nodeID</key>
+												<string>7FCEB620-C1B8-4635-86FD-EA4BC1290E8F</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a[0] == 1; // true&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a[0] == 1; // true}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 110}</string>
+												<key>nodeID</key>
+												<string>B2812AA7-E8F8-4732-8AA0-956F144AEFD8</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a[3][1] == true; // true&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a[3][1] == true; // true}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 142}</string>
+												<key>nodeID</key>
+												<string>3AAF4999-7CF7-4FC5-915B-C27C83174A8E</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a.push({}); // return a.length&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a.push(\{\}); // return a.length}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 174}</string>
+												<key>nodeID</key>
+												<string>92D372AA-0E6A-442F-B79E-DF5D8CFA0F30</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a.pop(); // return popped element&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a.pop(); // return popped element}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 206}</string>
+												<key>nodeID</key>
+												<string>74523218-ECA0-446C-B741-666AB59350C3</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{0.951, 0.990, 0.938, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{841, 206}</string>
+														<key>nodeID</key>
+														<string>DB02BD95-5DD3-402D-B810-D6AE1FCC383E</string>
+														<key>strokeColor</key>
+														<string>{0.097, 0.155, 0.154, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a.toString() == a.join(&amp;apos;,&amp;apos;);&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a.toString() == a.join(',');}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: bold 14px "Courier New"; -cocoa-font-postscriptname: "CourierNewPS-BoldMT"; '&gt;a.join(&amp;apos;-&amp;apos;); //&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs28 \cf2 a.join('-'); //}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.951, 0.990, 0.938, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{642, 238}</string>
+												<key>nodeID</key>
+												<string>9D4904D7-1AA6-46B8-B802-546B6F6C3D6B</string>
+												<key>strokeColor</key>
+												<string>{0.097, 0.155, 0.154, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;a.concat([])&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 a.concat([])}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;methods&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 methods}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.951, 0.990, 0.938, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{510, 268}</string>
+										<key>nodeID</key>
+										<string>746CDC1C-2D24-42F4-AC04-9A2FF1843513</string>
+										<key>strokeColor</key>
+										<string>{0.097, 0.155, 0.154, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(6, 53, 51, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iteration&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red6\green53\blue51;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 iteration}</string>
+										</dict>
+									</dict>
+								</array>
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
@@ -5621,9 +6382,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, 154}</string>
+						<string>{235, 298}</string>
 						<key>nodeID</key>
-						<string>9AE39E43-2251-46FE-9D3D-0B5996D2BAD1</string>
+						<string>C1EB4C1A-BA6D-4AEF-B143-768C2B5F372E</string>
 						<key>strokeColor</key>
 						<string>{0.323, 0.474, 0.319, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5646,7 +6407,7 @@
 								<key>location</key>
 								<string>{381, -50}</string>
 								<key>nodeID</key>
-								<string>1123BC6C-B0BA-4D87-B8D3-E057DCB03290</string>
+								<string>AD4FD950-A11E-49B6-AFBE-3687AE5CFEAE</string>
 								<key>strokeColor</key>
 								<string>{0.323, 0.474, 0.319, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5669,7 +6430,7 @@
 										<key>location</key>
 										<string>{493, -98}</string>
 										<key>nodeID</key>
-										<string>A9F2572C-0E4A-4DD6-B92B-C8EC0A2212BE</string>
+										<string>BF6F872A-DADC-4427-8901-4E77ED1E4C10</string>
 										<key>strokeColor</key>
 										<string>{0.323, 0.474, 0.319, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5727,7 +6488,7 @@
 								<key>location</key>
 								<string>{381, 30}</string>
 								<key>nodeID</key>
-								<string>5FEB50A9-C726-4BC4-8EDF-835AF80D3806</string>
+								<string>EC2C8814-6136-4B11-9C20-D6A3152EE692</string>
 								<key>strokeColor</key>
 								<string>{0.323, 0.474, 0.319, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5767,7 +6528,7 @@
 								<key>location</key>
 								<string>{381, 126}</string>
 								<key>nodeID</key>
-								<string>B303FCA4-26A5-4A51-A43C-DD7B9C18E4C8</string>
+								<string>B3EB57D1-60D9-4DC2-8E92-4BBE9C7008B9</string>
 								<key>strokeColor</key>
 								<string>{0.323, 0.474, 0.319, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5790,7 +6551,7 @@
 										<key>location</key>
 										<string>{496, 62}</string>
 										<key>nodeID</key>
-										<string>9BCA1DF9-09DC-4873-823D-FA5B2606721A</string>
+										<string>533824E2-ECBA-45BF-A544-130C5DE8FE49</string>
 										<key>strokeColor</key>
 										<string>{0.323, 0.474, 0.319, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5830,7 +6591,7 @@
 										<key>location</key>
 										<string>{496, 126}</string>
 										<key>nodeID</key>
-										<string>36A7F7AE-D34C-4398-BF2B-2CDC4E0DD64F</string>
+										<string>36E711E4-2557-4B38-8659-E46417E6E731</string>
 										<key>strokeColor</key>
 										<string>{0.323, 0.474, 0.319, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5870,7 +6631,7 @@
 										<key>location</key>
 										<string>{496, 190}</string>
 										<key>nodeID</key>
-										<string>04203AFA-B9B7-48CE-B552-A274FA109522</string>
+										<string>4ACB5B04-18ED-4672-93FB-6CF4E772B24B</string>
 										<key>strokeColor</key>
 										<string>{0.323, 0.474, 0.319, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5928,7 +6689,7 @@
 								<key>location</key>
 								<string>{381, 238}</string>
 								<key>nodeID</key>
-								<string>BBE31804-D63A-4825-895C-CAC053130066</string>
+								<string>90C66D79-29F0-4400-8E33-6FF682DC5EC8</string>
 								<key>strokeColor</key>
 								<string>{0.323, 0.474, 0.319, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5951,7 +6712,7 @@
 										<key>location</key>
 										<string>{493, 222}</string>
 										<key>nodeID</key>
-										<string>0344436A-7A96-4F55-9EAC-81BB36DADF50</string>
+										<string>80B74F35-46C9-49FC-8C64-4C29A25EE41F</string>
 										<key>strokeColor</key>
 										<string>{0.323, 0.474, 0.319, 1.000}</string>
 										<key>strokeStyle</key>
@@ -6025,9 +6786,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{235, 187}</string>
+						<string>{235, 331}</string>
 						<key>nodeID</key>
-						<string>22000252-C090-4468-86E8-DAD1161D6A1B</string>
+						<string>0D32ED9D-9263-4866-A488-A5E0C992A99A</string>
 						<key>strokeColor</key>
 						<string>{0.700, 0.829, 0.625, 1.000}</string>
 						<key>strokeStyle</key>
