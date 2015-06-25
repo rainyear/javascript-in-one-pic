@@ -9,3 +9,4 @@
 # References
 
 1. [Professional JavaScript for Web Developers](http://www.amazon.cn/gp/offer-listing/1118026691/ref=tmm_pap_new_olp_sr?ie=UTF8&condition=new&sr=&qid=)
+2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
