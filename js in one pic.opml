@@ -34,93 +34,91 @@
                 </outline>
             </outline>
             <outline text="Data type">
-                <outline text="Primitive (like)">
-                    <outline text="Number">
-                        <outline text="typeof">
-                            <outline text="'number'"></outline>
-                        </outline>
-                        <outline text="value">
-                            <outline text="0"></outline>
-                            <outline text="1.2"></outline>
-                            <outline text="045"></outline>
-                            <outline text="0x56"></outline>
-                            <outline text="0.314e2"></outline>
-                            <outline text="NaN"></outline>
-                        </outline>
-                        <outline text="Number()">
-                            <outline text="parseInt(&quot;2.5&quot;); // 2">
-                                <outline text="parseInt('10', 2); // ?"></outline>
-                            </outline>
-                            <outline text="parseFloat('2.5'); // 2.5"></outline>
-                            <outline text="isNaN(parseFloat('a')); // true"></outline>
-                        </outline>
-                        <outline text="+-*/%"></outline>
-                        <outline text="&lt; &lt;= &gt; &gt;= != =="></outline>
+                <outline text="Number [Primitive like]">
+                    <outline text="typeof">
+                        <outline text="'number'"></outline>
                     </outline>
-                    <outline text="String">
-                        <outline text="typeof">
-                            <outline text="'string'"></outline>
-                        </outline>
-                        <outline text="value">
-                            <outline text="&quot;Hello&quot;"></outline>
-                            <outline text="'World'"></outline>
-                        </outline>
-                        <outline text="String()/toString()">
-                            <outline text="var a = 8; a.toString(2); // ?"></outline>
-                        </outline>
-                        <outline text="immutable">
-                            <outline text="var a = 'ABC'; a[0]; // 'A' a[0] = 'D'; a; // 'ABC'"></outline>
-                            <outline text="var a = 'abc'; a = a + 'd'; a; // 'abcd'"></outline>
-                        </outline>
-                        <outline text="+"></outline>
-                        <outline text="&lt; &lt;= &gt; &gt;= != =="></outline>
+                    <outline text="value">
+                        <outline text="0"></outline>
+                        <outline text="1.2"></outline>
+                        <outline text="045"></outline>
+                        <outline text="0x56"></outline>
+                        <outline text="0.314e2"></outline>
+                        <outline text="NaN"></outline>
                     </outline>
-                    <outline text="Boolean">
-                        <outline text="typeof">
-                            <outline text="'boolean'"></outline>
+                    <outline text="Number()">
+                        <outline text="parseInt(&quot;2.5&quot;); 		 // 2">
+                            <outline text="parseInt('10', 2); // ?"></outline>
                         </outline>
-                        <outline text="value">
-                            <outline text="true"></outline>
-                            <outline text="false"></outline>
-                        </outline>
-                        <outline text="Boolean()">
-                            <outline text="number">
-                                <outline text="Boolean(0); // false"></outline>
-                                <outline text="Boolean(NaN); // false"></outline>
-                                <outline text="Boolean(!0); // true"></outline>
-                            </outline>
-                            <outline text="string">
-                                <outline text="Boolean(''); // false"></outline>
-                                <outline text="Boolean('*'); // true"></outline>
-                            </outline>
-                            <outline text="object">
-                                <outline text="Boolean(null); // false"></outline>
-                                <outline text="Boolean({}); // true"></outline>
-                            </outline>
-                            <outline text="undefined">
-                                <outline text="Boolean(undefined); // false"></outline>
-                            </outline>
-                        </outline>
+                        <outline text="parseFloat('2.5'); 		 // 2.5"></outline>
+                        <outline text="isNaN(parseFloat('a')); // true"></outline>
                     </outline>
-                    <outline text="Undefined">
-                        <outline text="typeof">
-                            <outline text="'undefined'"></outline>
+                    <outline text="+-*/%"></outline>
+                    <outline text="&lt;, &lt;=, &gt;, &gt;=, !=, =="></outline>
+                </outline>
+                <outline text="String [Primitive like]">
+                    <outline text="typeof">
+                        <outline text="'string'"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="&quot;Hello&quot;"></outline>
+                        <outline text="'World'"></outline>
+                    </outline>
+                    <outline text="String()/toString()">
+                        <outline text="var a = 8; a.toString(2); // ?"></outline>
+                    </outline>
+                    <outline text="immutable">
+                        <outline text="var a = 'ABC'; a[0]; 				// 'A' a[0] = 'D'; a; 					// 'ABC'"></outline>
+                        <outline text="var a = 'abc'; a = a + 'd'; a; 					// 'abcd'"></outline>
+                    </outline>
+                    <outline text="+"></outline>
+                    <outline text="&lt;, &lt;=, &gt;, &gt;=, !=, =="></outline>
+                </outline>
+                <outline text="Boolean [Primitive like]">
+                    <outline text="typeof">
+                        <outline text="'boolean'"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="true"></outline>
+                        <outline text="false"></outline>
+                    </outline>
+                    <outline text="Boolean()">
+                        <outline text="number">
+                            <outline text="Boolean(0); 			// false"></outline>
+                            <outline text="Boolean(NaN); 		// false"></outline>
+                            <outline text="Boolean(!0); 			// true"></outline>
                         </outline>
-                        <outline text="value">
-                            <outline text="undefined"></outline>
+                        <outline text="string">
+                            <outline text="Boolean(''); 			 // false"></outline>
+                            <outline text="Boolean('*'); 		 // true"></outline>
                         </outline>
-                        <outline text="undefined != Not defined">
-                            <outline text="undefined == undefined; // true var a; a == undefined; // true console.log(d); // Error"></outline>
+                        <outline text="object">
+                            <outline text="Boolean(null);       // false"></outline>
+                            <outline text="Boolean({}); 			 // true"></outline>
+                        </outline>
+                        <outline text="undefined">
+                            <outline text="Boolean(undefined);// false"></outline>
                         </outline>
                     </outline>
                 </outline>
-                <outline text="Object">
+                <outline text="Undefined [Primitive like]">
+                    <outline text="typeof">
+                        <outline text="'undefined'"></outline>
+                    </outline>
+                    <outline text="value">
+                        <outline text="undefined"></outline>
+                    </outline>
+                    <outline text="undefined != Not defined">
+                        <outline text="undefined == undefined; 	// true var a; a == undefined; 				// true console.log(d); 				// Error"></outline>
+                    </outline>
+                </outline>
+                <outline text="Object (basic)">
                     <outline text="typeof">
                         <outline text="'object'"></outline>
                     </outline>
                     <outline text="{}"></outline>
                     <outline text="new Object()"></outline>
-                    <outline text="Null">
+                    <outline text="Null //[Primitive like]">
                         <outline text="typeof">
                             <outline text="'object'"></outline>
                         </outline>
@@ -132,7 +130,7 @@
                         </outline>
                     </outline>
                 </outline>
-                <outline text="Function">
+                <outline text="Function (basic)">
                     <outline text="typeof">
                         <outline text="'function'"></outline>
                     </outline>
@@ -145,6 +143,8 @@
                     <outline text="return"></outline>
                 </outline>
             </outline>
+            <outline text="Tips"></outline>
+            <outline text="Scope"></outline>
             <outline text="Operators">
                 <outline text="+-*/%">
                     <outline text="casting">
@@ -168,24 +168,22 @@
                 </outline>
                 <outline text="++a a-- a+=1 a-=1"></outline>
                 <outline text="compare">
-                    <outline text="&gt;"></outline>
-                    <outline text="&lt;"></outline>
-                    <outline text="&gt;="></outline>
-                    <outline text="&lt;="></outline>
-                    <outline text="=="></outline>
-                    <outline text="!="></outline>
-                    <outline text="==="></outline>
-                    <outline text="!=="></outline>
+                    <outline text="&gt;, &gt;=, &lt;, &lt;="></outline>
+                    <outline text="==, !=">
+                        <outline text="			// only value"></outline>
+                    </outline>
+                    <outline text="===, !==">
+                        <outline text="		 // both value &amp; type"></outline>
+                    </outline>
                     <outline text="casting">
-                        <outline text="a &gt; b; // a - b &gt; 0"></outline>
+                        <outline text="a &gt; b; 	// a - b &gt; 0"></outline>
                     </outline>
                 </outline>
                 <outline text="! &amp;&amp; ||">
-                    <outline text="!true; // false"></outline>
-                    <outline text="true &amp;&amp; false; // false"></outline>
-                    <outline text="false || true; // true"></outline>
+                    <outline text="!true; 			// false"></outline>
+                    <outline text="true &amp;&amp; false; 	// false"></outline>
+                    <outline text="false || true; 	// true"></outline>
                 </outline>
-                <outline text="false ? a : b"></outline>
             </outline>
             <outline text="Reference type">
                 <outline text="Object">
@@ -202,26 +200,36 @@
                     <outline text="var a = [1, 2, '3', [4, true]];"></outline>
                     <outline text="var a = new Array(1, 2, '3', [4, true]);"></outline>
                     <outline text="properties">
-                        <outline text="a.length; // 4"></outline>
+                        <outline text="a.length; 			  // 4"></outline>
                     </outline>
                     <outline text="methods">
-                        <outline text="a[0] == 1; // true"></outline>
-                        <outline text="a[3][1] == true; // true"></outline>
-                        <outline text="a.push({}); // return a.length"></outline>
-                        <outline text="a.pop(); // return popped element"></outline>
-                        <outline text="a.join('-'); //">
+                        <outline text="a[0] == 1;             // true"></outline>
+                        <outline text="a[3][1] == true;       // true"></outline>
+                        <outline text="a.slice(0, 2);         // [1, 2]"></outline>
+                        <outline text="a.indexOf(1); 			// 0"></outline>
+                        <outline text="a.push({}); 	 			// return a.length(Mod)"></outline>
+                        <outline text="a.pop();   				// return popped element(Mod)"></outline>
+                        <outline text="a.join('-'); 				// ?">
                             <outline text="a.toString() == a.join(',');"></outline>
+                            <outline text="var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']"></outline>
                         </outline>
-                        <outline text="a.concat([])"></outline>
+                        <outline text="a.concat(['a', 'b']);	// VS push()"></outline>
                     </outline>
-                    <outline text="iteration"></outline>
+                    <outline text="iteration">
+                        <outline text="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }"></outline>
+                        <outline text="a.forEach(function(ele){   console.log(ele); });"></outline>
+                    </outline>
                 </outline>
+                <outline text="Function"></outline>
             </outline>
             <outline text="Flow control">
                 <outline text="if">
                     <outline text="if(cond){   state1; }else if(cond2){   state2; }else{   state3; }"></outline>
+                    <outline text="false ? a : b"></outline>
                 </outline>
-                <outline text="switch"></outline>
+                <outline text="switch">
+                    <outline text="switch (day) {   case MON:     break;   case TUE:     break;   case WEN:     break;   default: }"></outline>
+                </outline>
                 <outline text="while">
                     <outline text="do {   state1; } while(cond)"></outline>
                     <outline text="while(cond){   state1; }"></outline>
@@ -229,9 +237,9 @@
                 </outline>
                 <outline text="for">
                     <outline text="for(var i = 0; i &lt; len; i++){   state1; }"></outline>
+                    <outline text="for(var k in Obj){   console.log('Obj[' + k + '] = ' + Obj[k]); }"></outline>
                 </outline>
             </outline>
-            <outline text="Scope"></outline>
         </outline>
     </body>
 </opml>
