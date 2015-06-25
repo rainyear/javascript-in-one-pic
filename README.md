@@ -1,6 +1,10 @@
 # Javascript in one pic
 
+
 ![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
+
+1. <span color="#7E1600">#7E1600</span>: not recommended.
+2. <span color="#4E8D20">#4E8D20</span>: important.
 
 # References
 
