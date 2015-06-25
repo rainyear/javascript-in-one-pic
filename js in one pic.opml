@@ -135,7 +135,7 @@
                         <outline text="'function'"></outline>
                     </outline>
                     <outline text="create">
-                        <outline text="var a = function(arg1, arg2){   //fun body; }"></outline>
+                        <outline text="var a = function(arg1, arg2){   //func body; }"></outline>
                         <outline text="function a(arg1, arg2){   // func body; }"></outline>
                         <outline text="(function(arg1,arg2){   //func body; })"></outline>
                     </outline>
