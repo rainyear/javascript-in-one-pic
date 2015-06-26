@@ -118,7 +118,7 @@
                     </outline>
                     <outline text="{}">
                         <outline text="var p = {   name: 'Ad',   'age': 24 };"></outline>
-                        <outline text="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age’]);				 // 24"></outline>
+                        <outline text="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age']);				 // 24"></outline>
                     </outline>
                     <outline text="new Object()">
                         <outline text="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi'"></outline>
@@ -144,12 +144,24 @@
                         <outline text="function a(arg1, arg2){   //func body; }"></outline>
                         <outline text="(function(arg1,arg2){   //func body; })"></outline>
                     </outline>
-                    <outline text="arguments"></outline>
-                    <outline text="return"></outline>
+                    <outline text="inside function">
+                        <outline text="arguments">
+                            <outline text="// by order">
+                                <outline text="var f = function(x, y){   console.log('x: ' + x + ', y: ' + y); }; var x = 'x', y = 'y'; f(x, y);					 // x: x, y: y f(y, x);					 // x: y, y: x"></outline>
+                            </outline>
+                            <outline text="undefined">
+                                <outline text="var f = function(x){   console.log(x); }; f();							// undefined"></outline>
+                            </outline>
+                            <outline text="arguments">
+                                <outline text="var f = function(){   console.log(arguments); }; f(3,2,1);						// { '0': 3, '1': 2, '2': 1 }"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="return"></outline>
+                    </outline>
                 </outline>
             </outline>
-            <outline text="Tips"></outline>
             <outline text="Scope"></outline>
+            <outline text="Tips"></outline>
             <outline text="Operators">
                 <outline text="+-*/%">
                     <outline text="casting">
