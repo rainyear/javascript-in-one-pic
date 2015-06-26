@@ -18,7 +18,7 @@
                     <outline text="/* multi-line comments */"></outline>
                 </outline>
                 <outline text="key words">
-                    <outline text="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instance; new; return; switch; this; throw; try; typeof; var; void; while; with"></outline>
+                    <outline text="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instanceof; new; return; switch; this; throw; try; typeof; var; void; while; with"></outline>
                 </outline>
                 <outline text="Reserved words">
                     <outline text="Nonstrict">
@@ -116,8 +116,13 @@
                     <outline text="typeof">
                         <outline text="'object'"></outline>
                     </outline>
-                    <outline text="{}"></outline>
-                    <outline text="new Object()"></outline>
+                    <outline text="{}">
+                        <outline text="var p = {   name: 'Ad',   'age': 24 };"></outline>
+                        <outline text="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age’]);				 // 24"></outline>
+                    </outline>
+                    <outline text="new Object()">
+                        <outline text="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi'"></outline>
+                    </outline>
                     <outline text="Null //[Primitive like]">
                         <outline text="typeof">
                             <outline text="'object'"></outline>
@@ -186,13 +191,6 @@
                 </outline>
             </outline>
             <outline text="Reference type">
-                <outline text="Object">
-                    <outline text="root of everything."></outline>
-                    <outline text="Object.prototype.">
-                        <outline text="properties"></outline>
-                        <outline text="methods"></outline>
-                    </outline>
-                </outline>
                 <outline text="Array">
                     <outline text="typeof">
                         <outline text="'object'"></outline>
@@ -214,13 +212,32 @@
                             <outline text="var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']"></outline>
                         </outline>
                         <outline text="a.concat(['a', 'b']);	// VS push()"></outline>
+                        <outline text="map/reduce ?"></outline>
                     </outline>
                     <outline text="iteration">
                         <outline text="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }"></outline>
                         <outline text="a.forEach(function(ele){   console.log(ele); });"></outline>
                     </outline>
                 </outline>
-                <outline text="Function"></outline>
+                <outline text="Function">
+                    <outline text="typeof">
+                        <outline text="'function'"></outline>
+                    </outline>
+                    <outline text="properties">
+                        <outline text="f.length;"></outline>
+                    </outline>
+                    <outline text="methods">
+                        <outline text="apply/call ?"></outline>
+                    </outline>
+                    <outline text="as value (callback)"></outline>
+                </outline>
+                <outline text="Object (OOP)">
+                    <outline text="root of everything."></outline>
+                    <outline text="Object.prototype.">
+                        <outline text="properties"></outline>
+                        <outline text="methods"></outline>
+                    </outline>
+                </outline>
             </outline>
             <outline text="Flow control">
                 <outline text="if">
