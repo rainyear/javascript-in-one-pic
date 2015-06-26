@@ -1,5 +1,10 @@
 # Javascript in one pic
 
+<!-- BADGES/ -->
+
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
+
+<!-- /BADGES -->
 
 ![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 
