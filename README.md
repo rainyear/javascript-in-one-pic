@@ -15,7 +15,7 @@
 
 # TODO
 
-- [ ] Function(basic) - inside function: arguments, this, return;
+- [X] Function(basic) - inside function: arguments, return;
 - [ ] Function - as value: callback;
 - [ ] Function - methods: apply/call;
 - [ ] Array - methods: map/reduce
