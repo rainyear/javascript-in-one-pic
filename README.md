@@ -20,7 +20,7 @@
 
 - [X] Function(basic) - inside function: arguments, return;
 - [X] Function - as value: callback;
-- [ ] Function - methods: apply/call;
+- [X] Function - methods: apply/call/bind;
 - [ ] Array - methods: map/reduce;
 - [ ] Object(OOP) - properties, methods;
 - [ ] Scope;
