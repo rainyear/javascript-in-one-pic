@@ -19,7 +19,7 @@
 # TODO
 
 - [X] Function(basic) - inside function: arguments, return;
-- [ ] Function - as value: callback;
+- [X] Function - as value: callback;
 - [ ] Function - methods: apply/call;
 - [ ] Array - methods: map/reduce;
 - [ ] Object(OOP) - properties, methods;
