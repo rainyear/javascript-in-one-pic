@@ -18,10 +18,12 @@
 - [X] Function(basic) - inside function: arguments, return;
 - [ ] Function - as value: callback;
 - [ ] Function - methods: apply/call;
-- [ ] Array - methods: map/reduce
+- [ ] Array - methods: map/reduce;
 - [ ] Object(OOP) - properties, methods;
-- [ ] Scope
-- [ ] Tips
+- [ ] Scope;
+- [ ] Operators - bitwise;
+- [ ] Tips;
+
 
 # References
 
