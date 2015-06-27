@@ -121,7 +121,7 @@
                         <outline text="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age']);				 // 24"></outline>
                     </outline>
                     <outline text="new Object()">
-                        <outline text="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi'"></outline>
+                        <outline text="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi!'"></outline>
                     </outline>
                     <outline text="Null //[Primitive like]">
                         <outline text="typeof">
@@ -241,7 +241,9 @@
                     <outline text="methods">
                         <outline text="apply/call ?"></outline>
                     </outline>
-                    <outline text="as value (callback)"></outline>
+                    <outline text="as value (callback)">
+                        <outline text="var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);	// Name: rainy, Age: 24"></outline>
+                    </outline>
                 </outline>
                 <outline text="Object (OOP)">
                     <outline text="root of everything."></outline>
