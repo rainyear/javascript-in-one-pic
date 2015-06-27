@@ -8,10 +8,13 @@
 
 <!-- /BADGES -->
 
-![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 
-1. ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
-2. ![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
+![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
+
+![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
+
+
+![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 
 # TODO
 
