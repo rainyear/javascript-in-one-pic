@@ -203,6 +203,23 @@
                 </outline>
             </outline>
             <outline text="Reference type">
+                <outline text="Function">
+                    <outline text="typeof">
+                        <outline text="'function'"></outline>
+                    </outline>
+                    <outline text="properties">
+                        <outline text="f.length;"></outline>
+                    </outline>
+                    <outline text="as value (callback)">
+                        <outline text="var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);	// Name: rainy, Age: 24"></outline>
+                    </outline>
+                    <outline text="methods">
+                        <outline text="apply/call/bind">
+                            <outline text="// func.apply(thisObj, [arg1, arg2, ...]); // func.call(thisObj, arg1, arg2, ...); // func.bind(thisObj, arg1, arg2, ...); // about thisObj, see `Scope`"></outline>
+                            <outline text="var sayHi = function(name){   console.log('Hello, ' + name + '!'); }; sayHi.call(this, 'rainy');					// Hello, rainy! sayHi.apply(this, ['rainy']);				// Hello, rainy! sayHi.bind(this, 'rainy')();				// Hello, rainy!"></outline>
+                        </outline>
+                    </outline>
+                </outline>
                 <outline text="Array">
                     <outline text="typeof">
                         <outline text="'object'"></outline>
@@ -224,25 +241,14 @@
                             <outline text="var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']"></outline>
                         </outline>
                         <outline text="a.concat(['a', 'b']);	// VS push()"></outline>
-                        <outline text="map/reduce ?"></outline>
+                        <outline text="map/reduce">
+                            <outline text="// arr.map(callback, thisObj)  /* callback = function(element, index, arr){  *   return element to the same pos of (returned)arr;  * };  */  [55, 44, 33, 22, 11].map(function(e, i, arr){   return e/(arr.length-i); });								// [ 11, 11, 11, 11, 11 ];"></outline>
+                            <outline text="// arr.reduce(callback, init);  /* callback = function(prev, curr, index, arr){  *   curr walk through   *     arr.slice(init != undefined ? 0 : 1, arr.length);  *   prev cache last returned value start with:   *     (init != undefined ? init : arr[0]);  * };  */  [55, 44, 33, 22, 11].reduce(function(p, c, i, arr){   return p + c/(arr. length-i); }, 55);						// 0; "></outline>
+                        </outline>
                     </outline>
                     <outline text="iteration">
                         <outline text="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }"></outline>
                         <outline text="a.forEach(function(ele){   console.log(ele); });"></outline>
-                    </outline>
-                </outline>
-                <outline text="Function">
-                    <outline text="typeof">
-                        <outline text="'function'"></outline>
-                    </outline>
-                    <outline text="properties">
-                        <outline text="f.length;"></outline>
-                    </outline>
-                    <outline text="methods">
-                        <outline text="apply/call ?"></outline>
-                    </outline>
-                    <outline text="as value (callback)">
-                        <outline text="var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);	// Name: rainy, Age: 24"></outline>
                     </outline>
                 </outline>
                 <outline text="Object (OOP)">
