@@ -8,9 +8,11 @@
 
 <!-- /BADGES -->
 
+---
+
+# Color notes
 
 ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
-
 ![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
 
 
