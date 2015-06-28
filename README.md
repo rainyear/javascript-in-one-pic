@@ -12,6 +12,7 @@
 
 ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
 ![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
+![warning](https://img.shields.io/badge/%23DE2B00-warning-DE2B00.svg)
 
 
 ![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
@@ -22,7 +23,8 @@
 - [X] Function - as value: callback;
 - [X] Function - methods: apply/call/bind;
 - [X] Array - methods: map/reduce;
-- [ ] Object(OOP) - properties, methods;
+- [X] Object(OOP) - constructor, properties;
+- [ ] Object(OOP) - inheritance;
 - [ ] Scope;
 - [ ] Operators - bitwise;
 - [ ] Tips;
