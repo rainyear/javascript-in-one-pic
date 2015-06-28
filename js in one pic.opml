@@ -48,7 +48,7 @@
                     </outline>
                     <outline text="Number()">
                         <outline text="parseInt(&quot;2.5&quot;); 		 // 2">
-                            <outline text="parseInt('10', 2); // ?"></outline>
+                            <outline text="parseInt('10', 2); // 2"></outline>
                         </outline>
                         <outline text="parseFloat('2.5'); 		 // 2.5"></outline>
                         <outline text="isNaN(parseFloat('a')); // true"></outline>
@@ -65,7 +65,7 @@
                         <outline text="'World'"></outline>
                     </outline>
                     <outline text="String()/toString()">
-                        <outline text="var a = 8; a.toString(2); // ?"></outline>
+                        <outline text="var a = 8; a.toString(2); // '1000'"></outline>
                     </outline>
                     <outline text="immutable">
                         <outline text="var a = 'ABC'; a[0]; 				// 'A' a[0] = 'D'; a; 					// 'ABC'"></outline>
@@ -160,8 +160,6 @@
                     </outline>
                 </outline>
             </outline>
-            <outline text="Scope"></outline>
-            <outline text="Tips"></outline>
             <outline text="Operators">
                 <outline text="+-*/%">
                     <outline text="casting">
@@ -202,6 +200,8 @@
                     <outline text="false || true; 	// true"></outline>
                 </outline>
             </outline>
+            <outline text="Scope"></outline>
+            <outline text="Tips"></outline>
             <outline text="Reference type">
                 <outline text="Function">
                     <outline text="typeof">
@@ -253,10 +253,33 @@
                 </outline>
                 <outline text="Object (OOP)">
                     <outline text="root of everything."></outline>
-                    <outline text="Object.prototype.">
-                        <outline text="properties"></outline>
-                        <outline text="methods"></outline>
+                    <outline text="Constructor">
+                        <outline text="function Person(name){   this.name = name;   this.sayHi= function(){     console.log('Hi ' + this.name + '!');   }; };  var p1 = new Person('Ad'); var p2 = new Person('Bob');  p1.name							// 'Ad' p2.sayHi();						// 'Hi Bob!'  p1.constructor === Person		// true p1 instanceof Person			// true p1.sayHi == p2.sayHi			// false"></outline>
                     </outline>
+                    <outline text="prototype chain">
+                        <outline text="function Person(){}; Person.prototype.name = 'Person';  var p1  = new Person(); var p2  = new Person(); p2.name = 'rainy';  console.log(p1.name);					// 'Person' console.log(p2.name);					// 'rainy'">
+                            <outline text="Person">
+                                <outline text="name">
+                                    <outline text="'Person'"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="p1 = new Person();">
+                                <outline text="prototype"></outline>
+                                <outline text="age">
+                                    <outline text="24"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="p2 = new Person();">
+                                <outline text="prototype"></outline>
+                                <outline text="name">
+                                    <outline text="'rainy'"></outline>
+                                </outline>
+                            </outline>
+                        </outline>
+                        <outline text="p1 instanceof Person						// true p1.age = 24;  p1.hasOwnProperty('name');				// false Person.hasOwnProperty('name');		// true  p1.hasOwnProperty('age');				// true 'name' in p1								// true 'age' in Person							// false"></outline>
+                        <outline text="// All properties on the prototype are shared among instances Person.prototype.friends = ['Ad', 'Bob'];  p1.friends.pop();						// 'Bob' console.log(p2.friends);				// ['Ad']  // Combine constructor &amp; prototype function Person(){   this.friends = ['Ad', 'Bob']; }; Person.prototype.name = 'Person';	"></outline>
+                    </outline>
+                    <outline text="Inheritance"></outline>
                 </outline>
             </outline>
             <outline text="Flow control">
