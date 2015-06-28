@@ -8,7 +8,7 @@
 
 <!-- /BADGES -->
 
-# Color notes
+## Color notes
 
 ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
 ![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
@@ -16,7 +16,7 @@
 
 ![js in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 
-# TODO
+## TODO
 
 - [X] Function(basic) - inside function: arguments, return;
 - [X] Function - as value: callback;
@@ -28,7 +28,10 @@
 - [ ] Tips;
 
 
-# References
+## References
 
 1. [Professional JavaScript for Web Developers](http://www.amazon.cn/gp/offer-listing/1118026691/ref=tmm_pap_new_olp_sr?ie=UTF8&condition=new&sr=&qid=)
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+## License
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
