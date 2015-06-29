@@ -24,7 +24,7 @@
 - [X] Function - methods: apply/call/bind;
 - [X] Array - methods: map/reduce;
 - [X] Object(OOP) - constructor, properties;
-- [ ] Object(OOP) - inheritance;
+- [X] Object(OOP) - inheritance;
 - [ ] Scope;
 - [ ] Operators - bitwise;
 - [ ] Tips;
