@@ -47,7 +47,7 @@
                         <outline text="NaN"></outline>
                     </outline>
                     <outline text="Number()">
-                        <outline text="parseInt(&quot;2.5&quot;); 		 // 2">
+                        <outline text="parseInt(&quot;2.7&quot;, 10); 	 // 2">
                             <outline text="parseInt('10', 2); // 2"></outline>
                         </outline>
                         <outline text="parseFloat('2.5'); 		 // 2.5"></outline>
@@ -279,7 +279,14 @@
                         <outline text="p1 instanceof Person						// true p1.age = 24;  p1.hasOwnProperty('name');				// false Person.hasOwnProperty('name');		// true  p1.hasOwnProperty('age');				// true 'name' in p1								// true 'age' in Person							// false"></outline>
                         <outline text="// All properties on the prototype are shared among instances Person.prototype.friends = ['Ad', 'Bob'];  p1.friends.pop();						// 'Bob' console.log(p2.friends);				// ['Ad']  // Combine constructor &amp; prototype function Person(){   this.friends = ['Ad', 'Bob']; }; Person.prototype.name = 'Person';	"></outline>
                     </outline>
-                    <outline text="Inheritance"></outline>
+                    <outline text="Inheritance">
+                        <outline text="prototype chain">
+                            <outline text="function Father(){}; Father.prototype.familyName = 'Good';  function Child(){}; Child.prototype = new Father();  var c = new Child(); console.log(c.familyName);				// 'Good'"></outline>
+                        </outline>
+                        <outline text="constructor">
+                            <outline text="function Father(){   this.familyName = 'Good'; };  function Child(){   Father.call(this); };  var c = new Child(); console.log(c.familyName);					// 'Good'"></outline>
+                        </outline>
+                    </outline>
                 </outline>
             </outline>
             <outline text="Flow control">
@@ -297,7 +304,7 @@
                 </outline>
                 <outline text="for">
                     <outline text="for(var i = 0; i &lt; len; i++){   state1; }"></outline>
-                    <outline text="for(var k in Obj){   console.log('Obj[' + k + '] = ' + Obj[k]); }"></outline>
+                    <outline text="for(var k in Obj){   // if Obj.hasOwnProperty(k){     console.log('Obj[' + k + '] = ' + Obj[k]);   // } }"></outline>
                 </outline>
             </outline>
         </outline>
