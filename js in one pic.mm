@@ -1,488 +1,488 @@
 
 <map version="0.9.0">
-    <node ID="4F7522B1-8094-4070-8D16-E377B4C028C6" TEXT="javascript in one pic" FOLDED="false" COLOR="#0B1806">
+    <node ID="F4128DA4-DB74-4877-A70B-ED84ADAF3BC4" TEXT="javascript in one pic" FOLDED="false" COLOR="#0B1806">
         <font NAME="HelveticaNeue-CondensedBold" SIZE="18"></font>
         <edge COLOR="#0B1806"></edge>
-        <node ID="54BB739E-AC4E-40F4-82B2-ADD2B39A27CE" TEXT="Identifier" POSITION="right" FOLDED="false" COLOR="#063533">
+        <node ID="B262092A-92D0-4FC5-AFD7-C32494CE1D32" TEXT="Identifier" POSITION="right" FOLDED="false" COLOR="#063533">
             <font NAME="HelveticaNeue-Light" SIZE="14"></font>
             <edge COLOR="#375648"></edge>
-            <node ID="DBDBA686-31FD-4736-AA3F-99A5CE06A880" TEXT="Case-sensitive" FOLDED="false" COLOR="#063533">
+            <node ID="0FC46AC5-5AC4-4EC1-9832-975EC3B7FF14" TEXT="Case-sensitive" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#375648"></edge>
-                <node ID="26F34505-888C-4BE5-8192-D0FEAA338E25" TEXT="a != A" FOLDED="false" COLOR="#063533">
+                <node ID="72A8691B-7F95-414A-B089-0265051E08AF" TEXT="a != A" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
             </node>
-            <node ID="A7089422-A4C4-418A-BB78-4F6B7AC49EC5" TEXT="start with: letters, _,  $" FOLDED="false" COLOR="#063533">
+            <node ID="6B075F82-C9AA-47D9-9108-33A451104EA8" TEXT="start with: letters, _,  $" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#375648"></edge>
-                <node ID="6E3E1385-E148-41C9-A290-56BA379AD4F4" TEXT="letters: [ascii, unicode]" FOLDED="false" COLOR="#063533">
+                <node ID="114DF88F-F386-4B02-8362-581DCC535D51" TEXT="letters: [ascii, unicode]" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
             </node>
-            <node ID="93F598D5-70C6-48B0-8804-C85DFA748CA6" TEXT="comments" FOLDED="false" COLOR="#063533">
+            <node ID="75F89C84-48B4-452B-A512-1F9059C68090" TEXT="comments" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#375648"></edge>
-                <node ID="692E5F4A-2B1E-4A05-B4BE-1AFE512AA67A" TEXT="// single line" FOLDED="false" COLOR="#063533">
+                <node ID="C5E23454-290C-4651-9B8B-04BCF99C00EC" TEXT="// single line" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
-                <node ID="64D562A3-9896-4398-87F5-B0333EFDA057" TEXT="/* multi-line comments */" FOLDED="false" COLOR="#063533">
-                    <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
-                    <edge COLOR="#375648"></edge>
-                </node>
-            </node>
-            <node ID="A915A939-3089-460C-9DC3-B08003FE1B7C" TEXT="key words" FOLDED="false" COLOR="#063533">
-                <font NAME="HelveticaNeue-Light" SIZE="14"></font>
-                <edge COLOR="#375648"></edge>
-                <node ID="2EC4A550-327A-48AC-A04A-FD0946C65680" TEXT="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instanceof; new; return; switch; this; throw; try; typeof; var; void; while; with" FOLDED="false" COLOR="#063533">
+                <node ID="1592AE07-03E5-412F-988F-55961A6F237C" TEXT="/* multi-line comments */" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
             </node>
-            <node ID="099FA5DA-9567-420F-AA90-1BCDA710E7D0" TEXT="Reserved words" FOLDED="false" COLOR="#063533">
+            <node ID="4BE81A38-BE1F-4BF9-96D6-50D51A343EB8" TEXT="key words" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#375648"></edge>
-                <node ID="E2B2891E-E67D-4FF3-8D91-9DD90B79813E" TEXT="Nonstrict" FOLDED="false" COLOR="#063533">
+                <node ID="D49EE2A8-5AC9-4762-B20D-C8620A9D1CC5" TEXT="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instanceof; new; return; switch; this; throw; try; typeof; var; void; while; with" FOLDED="false" COLOR="#063533">
+                    <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
+                    <edge COLOR="#375648"></edge>
+                </node>
+            </node>
+            <node ID="A97122B4-3AC5-4026-96A0-014E52E79375" TEXT="Reserved words" FOLDED="false" COLOR="#063533">
+                <font NAME="HelveticaNeue-Light" SIZE="14"></font>
+                <edge COLOR="#375648"></edge>
+                <node ID="09A0C2D5-1C99-48C1-A692-5C16D0171848" TEXT="Nonstrict" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
-                    <node ID="BFE60F6A-CA6A-4CB8-A1A4-608A5001C2CC" TEXT="class; const; enum; export; extends; import; super;" FOLDED="false" COLOR="#063533">
+                    <node ID="DEEAAB32-268F-471B-9912-6D8E7480E7EB" TEXT="class; const; enum; export; extends; import; super;" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#375648"></edge>
                     </node>
                 </node>
-                <node ID="01208229-4CD5-4922-9411-06F3AD4F5BBA" TEXT="'use strict'" FOLDED="false" COLOR="#063533">
+                <node ID="EA2BA156-94A4-483F-9409-DF27F709C9A1" TEXT="'use strict'" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
-                    <node ID="A6FE2A4B-44CC-48E9-8D16-EAF7493F7590" TEXT="implements; interface; let; package; private; protected; public; static; yield;" FOLDED="false" COLOR="#063533">
+                    <node ID="AEDC8E57-9716-4C0C-AC43-69C4C90F43A4" TEXT="implements; interface; let; package; private; protected; public; static; yield;" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#375648"></edge>
                     </node>
                 </node>
             </node>
-            <node ID="8103AF98-E8FE-45A1-B824-4AA5E01B7B8D" TEXT="Variables" FOLDED="false" COLOR="#063533">
+            <node ID="37BCD1DA-998F-4389-A0DE-C6DAD4C00EF0" TEXT="Variables" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#375648"></edge>
-                <node ID="F5B8879F-1F19-41A2-8889-813A241CA766" TEXT="var a; // local" FOLDED="false" COLOR="#063533">
+                <node ID="ED55F25F-9F54-4DDC-B5DC-A4988CDA82BE" TEXT="var a; // local" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
-                <node ID="69330220-54A7-4938-8614-9A72A8C1D3DB" TEXT="a = 123; // global" FOLDED="false" COLOR="#800000">
+                <node ID="693CB697-9100-4742-B612-B57C3E51AB5B" TEXT="a = 123; // global" FOLDED="false" COLOR="#800000">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#375648"></edge>
                 </node>
             </node>
         </node>
-        <node ID="E33FDAE9-5EF1-49D2-AD8D-C53F90067282" TEXT="Data type" POSITION="right" FOLDED="false" COLOR="#063533">
+        <node ID="1DBDE2DF-4CC5-4404-BC3C-F143E8A02CC5" TEXT="Data type" POSITION="right" FOLDED="false" COLOR="#063533">
             <font NAME="HelveticaNeue-Light" SIZE="14"></font>
             <edge COLOR="#94AC70"></edge>
-            <node ID="B84345A0-BE44-484D-915A-954FFEA57E88" TEXT="Number [Primitive like]" FOLDED="false" COLOR="#063533">
+            <node ID="534877B0-88F7-4AB0-A3C0-B0942BF02D4A" TEXT="Number [Primitive like]" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="FFD52A9F-E03B-45BB-9F4E-980F38231BA3" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="9DF0BB20-DF1A-4166-8B64-7D6821BA7FA2" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="C5C1B51F-D602-40F4-8152-C702F0B61FEC" TEXT="'number'" FOLDED="false" COLOR="#063533">
+                    <node ID="0C1A61E2-DB0D-4CB7-BCF4-626C7CF37D9B" TEXT="'number'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="3F3B94D4-5D93-4A34-A753-E8D0CCF4223B" TEXT="value" FOLDED="false" COLOR="#063533">
+                <node ID="256AA651-18B5-438F-809D-CDEEC21EDFDA" TEXT="value" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="2496CD4A-DAC9-4E99-AC78-CD4B17551F95" TEXT="0" FOLDED="false" COLOR="#063533">
+                    <node ID="3E9B10EE-974A-4B32-8186-4D1F7D105159" TEXT="0" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="CCC56D60-3553-48CD-A742-BC86D8B6E542" TEXT="1.2" FOLDED="false" COLOR="#063533">
+                    <node ID="326F8DC6-AD74-4343-ABB1-A4190C0ED0B4" TEXT="1.2" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="9283052B-1F89-4A2C-8415-0247781D0947" TEXT="045" FOLDED="false" COLOR="#063533">
+                    <node ID="0B050A31-CCF2-4782-99E4-A630D89B4880" TEXT="045" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="421DE78A-0476-4544-A201-65D8E35B3CCB" TEXT="0x56" FOLDED="false" COLOR="#063533">
+                    <node ID="580EA1A5-2307-4635-9225-0451F5E8A3C6" TEXT="0x56" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="827C0F8F-2A54-487A-9139-3F21956B2545" TEXT="0.314e2" FOLDED="false" COLOR="#063533">
+                    <node ID="00698ED9-4243-4713-BDEC-B263915F7125" TEXT="0.314e2" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="50A430E7-F84C-4104-BC27-479646F12859" TEXT="NaN" FOLDED="false" COLOR="#063533">
+                    <node ID="2A8DED0D-37A1-4083-AAE5-A0466D2FC602" TEXT="NaN" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="7507945A-92B9-462B-B822-B91A8DADBFE9" TEXT="Number()" FOLDED="false" COLOR="#063533">
+                <node ID="9225B904-3740-4052-A026-E16367651B3A" TEXT="Number()" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="E190DD38-73F3-4424-9F33-036AC7E15B16" TEXT="parseInt(&quot;2.7&quot;, 10); 	 // 2" FOLDED="false" COLOR="#063533">
+                    <node ID="D7F8B934-7B70-4E77-8766-70F2DCFF4AB4" TEXT="parseInt(&quot;2.7&quot;, 10); 	 // 2" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="20642509-42C7-4034-894D-94C4CDFD96A2" TEXT="parseInt('10', 2); // 2" FOLDED="false" COLOR="#063533">
+                        <node ID="F84D327D-B23D-4EA8-AA54-CAB9B2908E0B" TEXT="parseInt('10', 2); // 2" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="8C072967-01BA-45A1-9428-9B2A95B7F129" TEXT="parseFloat('2.5'); 		 // 2.5" FOLDED="false" COLOR="#063533">
+                    <node ID="9C96DB5A-7EAC-4992-B986-296CEEAA9C8B" TEXT="parseFloat('2.5'); 		 // 2.5" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="34E4DC7E-861F-486C-9796-E102D1421765" TEXT="isNaN(parseFloat('a')); // true" FOLDED="false" COLOR="#063533">
+                    <node ID="76630FA0-07B1-49F8-A391-AE20E475ACC6" TEXT="isNaN(parseFloat('a')); // true" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="509FD7ED-C024-414B-8D3F-03AE6E4B0B23" TEXT="+-*/%" FOLDED="false" COLOR="#063533">
+                <node ID="E963BACA-5572-4109-8E4D-038240235EB5" TEXT="+-*/%" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
                 </node>
-                <node ID="F5354EB6-714A-455B-877E-7627C2ACFAF4" TEXT="&lt;, &lt;=, &gt;, &gt;=, !=, ==" FOLDED="false" COLOR="#063533">
+                <node ID="D6F2CE03-8FE6-40B4-8184-D50BF234DBAC" TEXT="&lt;, &lt;=, &gt;, &gt;=, !=, ==" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <arrowlink DESTINATION="4F87E4A8-3170-46CF-9862-702893F4334C" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                    <arrowlink DESTINATION="7DB2BA5E-81E4-4A50-8109-9F236D85BAC0" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                 </node>
             </node>
-            <node ID="77186F40-1219-4C3D-B4C6-1B3D8694EFC8" TEXT="String [Primitive like]" FOLDED="false" COLOR="#063533">
+            <node ID="326EB098-D4DF-4683-A8F9-02712A38A147" TEXT="String [Primitive like]" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="07EB0EE8-27C7-4C3D-BE51-8C2E2F02C011" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="E698F96B-ADA9-4F71-8B26-AEA59F41D02F" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="3A16E22A-B352-4762-A198-E01C775038D0" TEXT="'string'" FOLDED="false" COLOR="#063533">
+                    <node ID="6A729775-0971-43D4-A108-FB9945EF20EC" TEXT="'string'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="7B4801B0-E3B4-4E4A-8138-CA26616D978A" TEXT="value" FOLDED="false" COLOR="#063533">
+                <node ID="FAF50BD7-F58D-4B7A-86E9-159DD7577F07" TEXT="value" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="A7526191-E3F7-4F20-A47E-912D863FE05F" TEXT="&quot;Hello&quot;" FOLDED="false" COLOR="#063533">
+                    <node ID="DC08492F-777D-4C1A-8E2D-96494EABC00C" TEXT="&quot;Hello&quot;" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="3F2E13F4-58D4-4647-AD98-98DAA8A029D2" TEXT="'World'" FOLDED="false" COLOR="#063533">
+                    <node ID="88275CF9-90CF-4B3C-92F4-EA1881521660" TEXT="'World'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="8FFD4C8F-E8CC-4AE5-BF0C-2A58B2756421" TEXT="String()/toString()" FOLDED="false" COLOR="#063533">
+                <node ID="CD1B0E07-045C-456F-88A2-F74E7D328C6E" TEXT="String()/toString()" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="33CAD4F8-B106-449A-8454-3C525F1E0827" TEXT="var a = 8; a.toString(2); // '1000'" FOLDED="false" COLOR="#063533">
+                    <node ID="615330B8-EF9B-4374-B596-A006F2C4F4CC" TEXT="var a = 8; a.toString(2); // '1000'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="E611A57E-9785-4D8E-B3CA-3529816143A5" TEXT="immutable" FOLDED="false" COLOR="#063533">
+                <node ID="EF5F2895-9FD7-420D-9F4B-F8D40ADB5EA6" TEXT="immutable" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="F94BBCCC-0958-4FAE-BB0C-DA46BE46865C" TEXT="var a = 'ABC'; a[0]; 				// 'A' a[0] = 'D'; a; 					// 'ABC'" FOLDED="false" COLOR="#063533">
+                    <node ID="83FF2C80-8727-4130-9B56-20C18F5CB83C" TEXT="var a = 'ABC'; a[0]; 				// 'A' a[0] = 'D'; a; 					// 'ABC'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="960C5248-33AE-4C66-B593-CC3F976CE7C2" TEXT="var a = 'abc'; a = a + 'd'; a; 					// 'abcd'" FOLDED="false" COLOR="#063533">
+                    <node ID="AB1D867B-8D74-4C00-96A5-B6F75DD0FAF3" TEXT="var a = 'abc'; a = a + 'd'; a; 					// 'abcd'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="458D4C79-8D7A-450C-A3D9-F10D82FAD7F7" TEXT="+" FOLDED="false" COLOR="#063533">
+                <node ID="58786063-CEDE-4823-A2E9-15D9DE52567D" TEXT="+" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
                 </node>
-                <node ID="8D055FFB-FED9-43A3-9D2F-4DA9171629C3" TEXT="&lt;, &lt;=, &gt;, &gt;=, !=, ==" FOLDED="false" COLOR="#063533">
+                <node ID="E375F0C9-0B72-4C2C-8379-17B61D96D378" TEXT="&lt;, &lt;=, &gt;, &gt;=, !=, ==" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <arrowlink DESTINATION="4F87E4A8-3170-46CF-9862-702893F4334C" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                    <arrowlink DESTINATION="7DB2BA5E-81E4-4A50-8109-9F236D85BAC0" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                 </node>
             </node>
-            <node ID="4F87E4A8-3170-46CF-9862-702893F4334C" TEXT="Boolean [Primitive like]" FOLDED="false" COLOR="#063533">
+            <node ID="7DB2BA5E-81E4-4A50-8109-9F236D85BAC0" TEXT="Boolean [Primitive like]" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="3D99477F-2DB8-4DAA-A1AF-18AC53123AE5" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="D17EB253-17D7-4057-A571-FBB22BB13BF9" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="99F73042-E8F3-440A-BF4A-916DC7227A8E" TEXT="'boolean'" FOLDED="false" COLOR="#063533">
+                    <node ID="6E9A59A5-B5B2-4CF4-9EE3-1C54D5EFFF38" TEXT="'boolean'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="D5D3E3A2-7122-4034-B720-73947CA37ABD" TEXT="value" FOLDED="false" COLOR="#063533">
+                <node ID="DB03926D-81D8-453B-ADA8-973313AB9B73" TEXT="value" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="36BA2449-1803-4626-825D-099BDAF1786A" TEXT="true" FOLDED="false" COLOR="#063533">
+                    <node ID="D63264E2-37C4-46F3-8328-AACA8F93FC03" TEXT="true" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="56394742-9666-4234-951F-D64B8D18696C" TEXT="false" FOLDED="false" COLOR="#063533">
+                    <node ID="EA1181DC-7FC6-4914-92E3-70CE36AA504C" TEXT="false" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="A63A3395-32B6-4B7D-9E6A-5D3C83F47BE7" TEXT="Boolean()" FOLDED="false" COLOR="#063533">
+                <node ID="2DDA1BD7-7381-43CA-8A89-B6C3200AAA01" TEXT="Boolean()" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="F07795FC-5256-4A27-A5C1-4E0D133CF326" TEXT="number" FOLDED="false" COLOR="#063533">
+                    <node ID="16BE9528-291F-4E11-971D-BFC6B8C7E954" TEXT="number" FOLDED="false" COLOR="#063533">
                         <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="2AAB0202-F8BB-4A66-8A1A-47D2A6444E73" TEXT="Boolean(0); 			// false" FOLDED="false" COLOR="#063533">
+                        <node ID="E828EA48-87A8-4D08-85A9-D379B9AC57AC" TEXT="Boolean(0); 			// false" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
-                        <node ID="B28D5B3C-B69C-480E-BBB7-C4F6A3E84005" TEXT="Boolean(NaN); 		// false" FOLDED="false" COLOR="#063533">
+                        <node ID="215AE842-C396-4193-9863-E67BA4399B59" TEXT="Boolean(NaN); 		// false" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
-                        <node ID="3A7820D1-AF54-41A0-9294-71AC2050D170" TEXT="Boolean(!0); 			// true" FOLDED="false" COLOR="#063533">
+                        <node ID="7F070CA0-A205-460C-B79D-3F7FA49B5210" TEXT="Boolean(!0); 			// true" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="E09D880B-A05A-4A3E-9F45-33C655A8B714" TEXT="string" FOLDED="false" COLOR="#063533">
+                    <node ID="ED81341E-4FE8-4D8B-8C34-F585EECADD91" TEXT="string" FOLDED="false" COLOR="#063533">
                         <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="A78E30EA-9A71-4E5A-B8D3-8A604191BA36" TEXT="Boolean(''); 			 // false" FOLDED="false" COLOR="#063533">
+                        <node ID="EF9BBEBB-FEA4-43D8-89EA-7E42E2D29A0C" TEXT="Boolean(''); 			 // false" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
-                        <node ID="41485B45-5E05-4E24-B9CA-CC78DA78F7E8" TEXT="Boolean('*'); 		 // true" FOLDED="false" COLOR="#063533">
+                        <node ID="5C2BE250-2523-44E2-BD70-0668E927F121" TEXT="Boolean('*'); 		 // true" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="BDC99A5E-6223-416B-AF1F-9B76F74C7AD2" TEXT="object" FOLDED="false" COLOR="#063533">
+                    <node ID="FEF223D3-C670-4B4D-8CC0-0DF54D748C86" TEXT="object" FOLDED="false" COLOR="#063533">
                         <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="8BAE8803-FC2C-4A42-A754-9A67176BFB75" TEXT="Boolean(null);       // false" FOLDED="false" COLOR="#063533">
+                        <node ID="292F8357-0264-4A2E-A6E4-20D20BE32F29" TEXT="Boolean(null);       // false" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
-                        <node ID="22EC79D1-1775-468B-A1DB-AC30ADD2378E" TEXT="Boolean({}); 			 // true" FOLDED="false" COLOR="#063533">
+                        <node ID="304DB17D-883E-42B4-8743-5CC7C5AE56D0" TEXT="Boolean({}); 			 // true" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="A3B28A82-2C51-4238-A93B-0A2CB24C1B62" TEXT="undefined" FOLDED="false" COLOR="#063533">
+                    <node ID="F5EE4A1E-F539-442F-A4EB-7444EB937A89" TEXT="undefined" FOLDED="false" COLOR="#063533">
                         <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="BE807246-0BA0-49FB-A1A2-349CBFE6C904" TEXT="Boolean(undefined);// false" FOLDED="false" COLOR="#063533">
+                        <node ID="9D9DCA41-DD87-48C3-A4EC-EC53E99BB534" TEXT="Boolean(undefined);// false" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
                 </node>
-                <arrowlink DESTINATION="16F2D4F1-8CA6-4FED-B808-9AEE407B08B5" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                <arrowlink DESTINATION="018560C9-C8F8-45A2-AC63-025FB2B0588E" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
             </node>
-            <node ID="A00BFE82-AE36-4381-A442-5DF9AA6D11E6" TEXT="Undefined [Primitive like]" FOLDED="false" COLOR="#063533">
+            <node ID="E4558FF2-51FF-4FF4-893F-38DB33BC4DBB" TEXT="Undefined [Primitive like]" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="08FC2D58-BA07-44E5-8D79-5724CD0E110D" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="EE353569-23C8-41F1-8819-E48B135F9829" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="B751FCCD-7E1E-49DA-B3CC-ED853B59D534" TEXT="'undefined'" FOLDED="false" COLOR="#063533">
+                    <node ID="DE430324-06A2-4DF0-AE54-09248B7F18FE" TEXT="'undefined'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="A97A4B08-AB22-4484-A7BD-68363F6D4811" TEXT="value" FOLDED="false" COLOR="#063533">
+                <node ID="D0BA3AC3-36FD-49DC-B606-2A1CAC952AA6" TEXT="value" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="9B9B81CA-44FC-4248-B529-E3D1B8B097E1" TEXT="undefined" FOLDED="false" COLOR="#063533">
+                    <node ID="75F09F91-53EA-4B9B-A29A-609AD3669DBC" TEXT="undefined" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="F098E3D3-81A4-4A5A-B94E-DD4FBBB8D452" TEXT="undefined != Not defined" FOLDED="false" COLOR="#063533">
+                <node ID="C4AE8601-971F-435D-860F-5BBF9712A497" TEXT="undefined != Not defined" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="3B8437D3-CA8E-4EC5-A87C-EAF182A413B5" TEXT="undefined == undefined; 	// true var a; a == undefined; 				// true console.log(d); 				// Error" FOLDED="false" COLOR="#063533">
+                    <node ID="7402CD9F-399A-4FC8-B4EE-A283F1F8806B" TEXT="undefined == undefined; 	// true var a; a == undefined; 				// true console.log(d); 				// Error" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
             </node>
-            <node ID="8112B55B-9651-4046-A29C-DCDC0E87C842" TEXT="Object (basic)" FOLDED="false" COLOR="#008000">
+            <node ID="AEEE502E-5749-4E41-B136-6C5C4586FC37" TEXT="Object (basic)" FOLDED="false" COLOR="#008000">
                 <font NAME="HelveticaNeue-Bold" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="AB744698-FE33-421F-AD1F-6DBFF497538A" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="C3DE7D65-4B66-411D-917F-2352F43A9488" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="D49D641B-E1E7-47D3-A451-FD15D0C7B05C" TEXT="'object'" FOLDED="false" COLOR="#063533">
+                    <node ID="53E4F202-9B7C-4505-84F3-53AEE7FEA862" TEXT="'object'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="3FAFF158-647F-4AAA-8396-677F024D005F" TEXT="{}" FOLDED="false" COLOR="#063533">
+                <node ID="A93B10C2-07E6-42F3-80E1-0D4D2B73AEF2" TEXT="{}" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="B45B5DA7-AC99-4776-AC85-5C6F15859C3E" TEXT="var p = {   name: 'Ad',   'age': 24 };" FOLDED="false" COLOR="#063533">
+                    <node ID="2E14DA7C-8AFD-4CBD-A621-FDFF3E9FC3E8" TEXT="var p = {   name: 'Ad',   'age': 24 };" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="7BA17DF2-47B5-47E9-BA08-3F88B236B96E" TEXT="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age']);				 // 24" FOLDED="false" COLOR="#063533">
+                    <node ID="EA1B5E5E-CDBA-4D66-B09A-63E8AFA498E7" TEXT="var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);				 // 'Bob' console.log(q['age']);				 // 24" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="8AAE5B8B-60F3-4D66-AFEE-39D778AF9AF7" TEXT="new Object()" FOLDED="false" COLOR="#063533">
+                <node ID="0BA9E5CF-C01B-490F-8878-9A27E113E7B5" TEXT="new Object()" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="8D02112F-7870-4733-BBAA-7E111C586F00" TEXT="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi!'" FOLDED="false" COLOR="#063533">
+                    <node ID="BCC2DA4C-2CAB-4B0A-B98F-5114650B80A7" TEXT="var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); 					// 'Hi!'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <arrowlink DESTINATION="3FAFF158-647F-4AAA-8396-677F024D005F" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                    <arrowlink DESTINATION="A93B10C2-07E6-42F3-80E1-0D4D2B73AEF2" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                 </node>
-                <node ID="43D5EBBA-8AC4-4190-9AE4-2F4D1CD72C42" TEXT="Null //[Primitive like]" FOLDED="false" COLOR="#063533">
+                <node ID="E939D6F2-B3B4-41E3-95FD-5A55CA2C8A7A" TEXT="Null //[Primitive like]" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="0F5A29A3-C333-4743-BEC7-DA351EAC31DC" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                    <node ID="7EB0D738-BFC1-4E07-89FB-6256B6A5B902" TEXT="typeof" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="FA2EE865-3918-462D-A9A3-F41890C4D479" TEXT="'object'" FOLDED="false" COLOR="#063533">
+                        <node ID="B555D742-5C66-44B2-9D36-4088DD185567" TEXT="'object'" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="E3CFA86A-1BD6-40AD-B9BA-2EA42C2D611B" TEXT="value" FOLDED="false" COLOR="#063533">
+                    <node ID="4AA926A8-18E6-4BCD-A5D9-9E1221543EB8" TEXT="value" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="7B7F8887-AE09-4D4A-8039-1167D237EFAB" TEXT="null" FOLDED="false" COLOR="#063533">
+                        <node ID="2065CCD2-1DD4-468E-8A29-F0DE119FA4D7" TEXT="null" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
-                    <node ID="B46AA533-7BCB-4397-8E4E-74863BA4FC8D" TEXT="&quot;undefined object&quot;" FOLDED="false" COLOR="#063533">
+                    <node ID="5E14AC18-4D23-4AA8-AFBF-00979B245EB2" TEXT="&quot;undefined object&quot;" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="B66BC556-6EF2-446D-B4DB-B5A602E0A351" TEXT="null == undefined; // true" FOLDED="false" COLOR="#063533">
+                        <node ID="220BDF47-5334-4747-971C-C08B8327F6EE" TEXT="null == undefined; // true" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
                         </node>
                     </node>
                 </node>
             </node>
-            <node ID="74728742-D0D3-476D-BA7F-651F7434A8A6" TEXT="Function (basic)" FOLDED="false" COLOR="#063533">
+            <node ID="00997120-9BB9-473D-948E-3C780A44D865" TEXT="Function (basic)" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#94AC70"></edge>
-                <node ID="59D09E0B-AD5D-4491-9D81-00C5AC959BAE" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="ED0C34AF-9374-4377-B527-3D6F9F08E115" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="E75814EA-AAAF-454B-8890-F5E2C274E814" TEXT="'function'" FOLDED="false" COLOR="#063533">
+                    <node ID="1855DC39-BE83-4FEB-9D32-4A526F87E3DC" TEXT="'function'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="150399DE-FFD7-4E22-8125-F71E503F0CD1" TEXT="create" FOLDED="false" COLOR="#063533">
+                <node ID="AB3EA2D6-9E9E-4307-A368-59C1D2EE8FD7" TEXT="create" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="B4E3AB19-D18C-4A32-BD8E-8722C8FB9DB8" TEXT="var a = function(arg1, arg2){   //func body; }" FOLDED="false" COLOR="#063533">
+                    <node ID="D409E52C-5FAF-4F79-999C-56AAEFE05981" TEXT="var a = function(arg1, arg2){   //func body; }" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="755F5018-E249-4C33-945A-63A74C5DAFAF" TEXT="function a(arg1, arg2){   //func body; }" FOLDED="false" COLOR="#063533">
+                    <node ID="419A2BCA-4641-4FA7-97EA-C5CB4647D4F1" TEXT="function a(arg1, arg2){   //func body; }" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
-                    <node ID="657496A3-BD9A-45F2-992B-31D9BFF72C80" TEXT="(function(arg1,arg2){   //func body; })" FOLDED="false" COLOR="#063533">
+                    <node ID="A9E17E27-8867-4FBB-B61F-BB102819E867" TEXT="(function(arg1,arg2){   //func body; })" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
-                <node ID="74BEF66A-ED8C-452F-AFC8-4E958D254EAE" TEXT="inside function" FOLDED="false" COLOR="#063533">
+                <node ID="21B750C0-8033-4D83-9944-39DA31CE8F0A" TEXT="inside function" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#94AC70"></edge>
-                    <node ID="07BA8F16-D7DE-42FD-A461-6317BBDC4D32" TEXT="arguments" FOLDED="false" COLOR="#063533">
+                    <node ID="A3596810-A093-493C-ABA6-6EEC97FC6FC2" TEXT="arguments" FOLDED="false" COLOR="#063533">
                         <font NAME="STHeitiSC-Light" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
-                        <node ID="7B1F961F-B402-4FBE-BBC7-6C420EEA059D" TEXT="// by order" FOLDED="false" COLOR="#063533">
+                        <node ID="45CA211E-C270-414B-8037-AC9D828A7DF6" TEXT="// by order" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
-                            <node ID="57F1929A-8834-4749-A2BD-1EE8F48B88C1" TEXT="var f = function(x, y){   console.log('x: ' + x + ', y: ' + y); }; var x = 'x', y = 'y'; f(x, y);					 // x: x, y: y f(y, x);					 // x: y, y: x" FOLDED="false" COLOR="#063533">
+                            <node ID="AAC53E51-BBB7-4E11-B034-E885DB3F935C" TEXT="var f = function(x, y){   console.log('x: ' + x + ', y: ' + y); }; var x = 'x', y = 'y'; f(x, y);					 // x: x, y: y f(y, x);					 // x: y, y: x" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#94AC70"></edge>
                             </node>
                         </node>
-                        <node ID="DA0214CD-299A-4BAA-BB46-64DFDDAB4EE2" TEXT="undefined" FOLDED="false" COLOR="#063533">
+                        <node ID="62D35305-C6D1-4530-8E3D-ACFE17523538" TEXT="undefined" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
-                            <node ID="1644979E-CFA3-4014-BF5B-7C9F2928E43F" TEXT="var f = function(x){   console.log(x); }; f();							// undefined" FOLDED="false" COLOR="#063533">
+                            <node ID="12EACEDE-CF6B-468D-BFDC-22536E99CA51" TEXT="var f = function(x){   console.log(x); }; f();							// undefined" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#94AC70"></edge>
                             </node>
                         </node>
-                        <node ID="04330D9B-3C34-4F07-A98C-B808FA846782" TEXT="arguments" FOLDED="false" COLOR="#063533">
+                        <node ID="30446BAB-866E-4FD0-923E-DDE9DA6F9FEC" TEXT="arguments" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#94AC70"></edge>
-                            <node ID="03DFF3F9-39B1-441E-8E95-931FF65AC0FB" TEXT="var f = function(){   console.log(arguments); }; f(3,2,1);						// { '0': 3, '1': 2, '2': 1 }" FOLDED="false" COLOR="#063533">
+                            <node ID="A7B3F64F-F84C-4386-9FEA-AC28AA050E14" TEXT="var f = function(){   console.log(arguments); }; f(3,2,1);						// { '0': 3, '1': 2, '2': 1 }" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#94AC70"></edge>
                             </node>
                         </node>
                     </node>
-                    <node ID="0C9247F2-9280-4882-883B-5296B80BFB01" TEXT="return" FOLDED="false" COLOR="#063533">
+                    <node ID="34961CD1-2720-4EDA-9661-EE98D0D824B1" TEXT="return" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#94AC70"></edge>
                     </node>
                 </node>
             </node>
         </node>
-        <node ID="721A107A-FBB3-434F-A9D5-5398E7A289F7" TEXT="Operators" POSITION="right" FOLDED="false" COLOR="#063533">
+        <node ID="4ABC8A53-A60A-42D2-856B-F644AC9A6662" TEXT="Operators" POSITION="right" FOLDED="false" COLOR="#063533">
             <font NAME="HelveticaNeue-Light" SIZE="14"></font>
             <edge COLOR="#BDD977"></edge>
-            <node ID="347CE5D7-4E8B-4DE0-A612-39DBC5F664CE" TEXT="+-*/%" FOLDED="false" COLOR="#063533">
+            <node ID="04AD84A6-429F-4A09-9E78-3491C42283D6" TEXT="+-*/%" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#BDD977"></edge>
-                <node ID="C1A282FB-76D0-4332-A7AC-5CCA0B8BBEAF" TEXT="casting" FOLDED="false" COLOR="#000000">
+                <node ID="314501FF-0418-4C05-8D6B-BA3FE780FA9F" TEXT="casting" FOLDED="false" COLOR="#000000">
                     <font NAME="STHeitiSC-Medium" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
-                    <node ID="D4D4670A-FE7F-4678-BA1E-2C05C78936ED" TEXT="+" FOLDED="false" COLOR="#063533">
+                    <node ID="65D203FF-562E-465E-A038-094B7D8DF7AB" TEXT="+" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#BDD977"></edge>
-                        <node ID="0AA98C2A-E523-4EF1-9693-EBB6A0309CF9" TEXT="string &gt; number &gt; boolean" FOLDED="false" COLOR="#063533">
+                        <node ID="03E0B67A-E204-4046-B804-48EB9428E073" TEXT="string &gt; number &gt; boolean" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#BDD977"></edge>
-                            <node ID="D3D41CE6-86B2-44EA-8FD2-D1107B564908" TEXT="'1'+2" FOLDED="false" COLOR="#063533">
+                            <node ID="1B44D0A4-352A-45FA-A03A-A60B3FEF370C" TEXT="'1'+2" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="16349363-5739-4342-8388-D8219AEF4DC4" TEXT="3+'4'" FOLDED="false" COLOR="#063533">
+                            <node ID="5FD783C4-C093-43FD-8EDC-9CAC90BB4E58" TEXT="3+'4'" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="7C4E0DA8-31BE-4C11-B700-55D70FDD455E" TEXT="'5'+false" FOLDED="false" COLOR="#063533">
+                            <node ID="05F551B8-CD1F-49BF-B37F-F2432B9BF7D1" TEXT="'5'+false" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="6298EAF5-2CDC-43E8-8C81-9641E6412875" TEXT="6+true" FOLDED="false" COLOR="#063533">
+                            <node ID="7BED0EAE-69B5-4F92-9B0C-4D3CAA6A59B3" TEXT="6+true" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
                         </node>
                     </node>
-                    <node ID="A889742C-248B-48D7-80E0-2F6194C7A8CA" TEXT="-" FOLDED="false" COLOR="#063533">
+                    <node ID="89466016-7082-4B85-90C0-8F5B3FBB4842" TEXT="-" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#BDD977"></edge>
-                        <node ID="09CD2CF3-AC3B-4193-8A31-0969B2E0A091" TEXT="number &gt; string &gt; boolean" FOLDED="false" COLOR="#063533">
+                        <node ID="4CE01129-8723-4243-82D6-6303828AFAD8" TEXT="number &gt; string &gt; boolean" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#BDD977"></edge>
-                            <node ID="5C7607A2-6FFA-4E6F-99A7-9D1214DE7D7F" TEXT="'1'-2" FOLDED="false" COLOR="#063533">
+                            <node ID="9873338C-E894-4EE9-93AA-30E0581C8311" TEXT="'1'-2" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="88BCA519-3F48-4ECA-8AD7-E3AB57D299F4" TEXT="3-'4'" FOLDED="false" COLOR="#063533">
+                            <node ID="A5C6E1F1-61EE-4007-8971-E63BD71749C7" TEXT="3-'4'" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="887B7D3F-398F-47D3-81E2-FF579F622C51" TEXT="'5'-false" FOLDED="false" COLOR="#063533">
+                            <node ID="AB2412B2-1C29-4D87-A9C8-283007504B45" TEXT="'5'-false" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
-                            <node ID="A1B08940-BC9D-449C-8235-1A453360F5F8" TEXT="6-true" FOLDED="false" COLOR="#063533">
+                            <node ID="FEE73440-2341-4810-B5D6-D9A0BCECE521" TEXT="6-true" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#BDD977"></edge>
                             </node>
@@ -490,368 +490,381 @@
                     </node>
                 </node>
             </node>
-            <node ID="CDDE85CD-E409-494E-87B8-8FEDCB0A6E7C" TEXT="++a a-- a+=1 a-=1" FOLDED="false" COLOR="#063533">
+            <node ID="179F48B5-ACBA-4B75-9D1D-1B103BB26D7A" TEXT="++a a-- a+=1 a-=1" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#BDD977"></edge>
             </node>
-            <node ID="2F902955-A299-4C59-A458-47808B184746" TEXT="compare" FOLDED="false" COLOR="#063533">
+            <node ID="4143E5DC-2185-46A3-94DD-290E264C9ACA" TEXT="compare" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#BDD977"></edge>
-                <node ID="526A98FF-8CE4-4B91-99A5-8B381E7D8D5F" TEXT="&gt;, &gt;=, &lt;, &lt;=" FOLDED="false" COLOR="#000000">
+                <node ID="2A59CEBE-D16A-4988-B637-CF9A2B69EF23" TEXT="&gt;, &gt;=, &lt;, &lt;=" FOLDED="false" COLOR="#000000">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
                 </node>
-                <node ID="57130711-2283-4A20-9A8A-6B8C8EA1B370" TEXT="==, !=" FOLDED="false" COLOR="#000000">
+                <node ID="0CBB1A95-7138-41BE-B82C-23A96B60E52E" TEXT="==, !=" FOLDED="false" COLOR="#000000">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
-                    <node ID="A44FAFCD-3914-4D14-89F4-DD0F87AFB8E9" TEXT="			// only value" FOLDED="false" COLOR="#000000">
+                    <node ID="D9D643F6-58C0-4A37-ADA6-E2826E097138" TEXT="			// only value" FOLDED="false" COLOR="#000000">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#BDD977"></edge>
                     </node>
                 </node>
-                <node ID="1579DF10-6653-407F-A677-F7943D94263B" TEXT="===, !==" FOLDED="false" COLOR="#000000">
+                <node ID="0C54E423-42E9-4B34-B718-DAB8F6FC9D4C" TEXT="===, !==" FOLDED="false" COLOR="#000000">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
-                    <node ID="0A1874FF-3C74-4A24-A6A4-3CB0F4F47A85" TEXT="		 // both value &amp; type" FOLDED="false" COLOR="#000000">
+                    <node ID="1534CBBA-470B-4CCF-A2BF-7EC525623EE3" TEXT="		 // both value &amp; type" FOLDED="false" COLOR="#000000">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#BDD977"></edge>
                     </node>
                 </node>
-                <node ID="C2C9C638-0F70-478D-A745-64C1203AB2F0" TEXT="casting" FOLDED="false" COLOR="#000000">
+                <node ID="CDECEA17-DB9E-4902-93B4-DC7041203B0D" TEXT="casting" FOLDED="false" COLOR="#000000">
                     <font NAME="STHeitiSC-Medium" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
-                    <node ID="255BC337-9449-4E4A-B802-1D8A5AFA4EA3" TEXT="a &gt; b; 	// a - b &gt; 0" FOLDED="false" COLOR="#063533">
+                    <node ID="101B2DE4-AF31-45A4-9B95-74E1FA76A760" TEXT="a &gt; b; 	// a - b &gt; 0" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#BDD977"></edge>
-                        <arrowlink DESTINATION="A889742C-248B-48D7-80E0-2F6194C7A8CA" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                        <arrowlink DESTINATION="89466016-7082-4B85-90C0-8F5B3FBB4842" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                     </node>
                 </node>
-                <arrowlink DESTINATION="16F2D4F1-8CA6-4FED-B808-9AEE407B08B5" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                <arrowlink DESTINATION="018560C9-C8F8-45A2-AC63-025FB2B0588E" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
             </node>
-            <node ID="E225FCB3-1647-4B5D-A6BA-A7116FFBFE95" TEXT="! &amp;&amp; ||" FOLDED="false" COLOR="#063533">
+            <node ID="7A2569D9-C86E-47C5-8F26-0F6A684C9A5B" TEXT="! &amp;&amp; ||" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#BDD977"></edge>
-                <node ID="6284DB00-9B57-4940-AB17-C3D294A6BB0A" TEXT="!true; 			// false" FOLDED="false" COLOR="#063533">
+                <node ID="5CAA0A69-DC36-4F67-800E-3059F691B261" TEXT="!true; 			// false" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
                 </node>
-                <node ID="FFE22C70-71E3-4D76-B7CD-A5EB6C482A07" TEXT="true &amp;&amp; false; 	// false" FOLDED="false" COLOR="#063533">
+                <node ID="5EA60EE7-DDBE-4E74-9A68-2D09A4FD03D0" TEXT="true &amp;&amp; false; 	// false" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
                 </node>
-                <node ID="7492460A-BEBB-4CCD-BFEC-56E72FEBF9D8" TEXT="false || true; 	// true" FOLDED="false" COLOR="#063533">
+                <node ID="50EAC756-A151-4020-9CCB-6FFD78E94663" TEXT="false || true; 	// true" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#BDD977"></edge>
                 </node>
-                <arrowlink DESTINATION="16F2D4F1-8CA6-4FED-B808-9AEE407B08B5" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                <arrowlink DESTINATION="018560C9-C8F8-45A2-AC63-025FB2B0588E" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
             </node>
         </node>
-        <node ID="2840009A-AD65-4AA3-8FFB-29C6AE0D2912" TEXT="Scope" POSITION="left" FOLDED="false" COLOR="#063533">
+        <node ID="B6CDB1EF-F877-4925-AE33-8F9E59974460" TEXT="Scope" POSITION="left" FOLDED="false" COLOR="#063533">
             <font NAME="STHeitiSC-Light" SIZE="14"></font>
             <edge COLOR="#B2D39F"></edge>
         </node>
-        <node ID="5B3B88D6-6B6B-45A3-878E-1485C23172B1" TEXT="Tips" POSITION="left" FOLDED="false" COLOR="#063533">
+        <node ID="46BB7AF4-DEA6-4A98-B629-DF91B9813CDB" TEXT="Tips" POSITION="left" FOLDED="false" COLOR="#063533">
             <font NAME="STHeitiSC-Light" SIZE="14"></font>
             <edge COLOR="#182727"></edge>
         </node>
-        <node ID="E190F5BF-D6CD-44C4-82AE-020BF87A6C00" TEXT="Reference type" POSITION="right" FOLDED="false" COLOR="#063533">
+        <node ID="392D88FB-1B3D-49DD-BCCE-C09F10682D3D" TEXT="Reference type" POSITION="right" FOLDED="false" COLOR="#063533">
             <font NAME="HelveticaNeue-Light" SIZE="14"></font>
             <edge COLOR="#182727"></edge>
-            <node ID="2116F15F-4CBC-4B86-ABF3-A6156F6905B6" TEXT="Function" FOLDED="false" COLOR="#063533">
+            <node ID="3E965C95-63C8-4CB0-B11C-5E55173DAE23" TEXT="Function" FOLDED="false" COLOR="#063533">
                 <font NAME="STHeitiSC-Light" SIZE="14"></font>
                 <edge COLOR="#182727"></edge>
-                <node ID="827CA346-C858-4F5E-80CC-D3EF3F827E3B" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="6BEDE4E3-9967-4157-B72C-B06E4F6E6404" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="19D691AB-7E37-477A-9CCA-C6C94FA19732" TEXT="'function'" FOLDED="false" COLOR="#063533">
+                    <node ID="28BB0085-D0E7-4F29-B9B0-0C640320CB63" TEXT="'function'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="75C8A256-3FCC-40DE-8996-6D33BD9BEE9F" TEXT="properties" FOLDED="false" COLOR="#063533">
+                <node ID="CECE6652-0FF3-45C0-A068-8FD651E5E542" TEXT="properties" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="193DF314-053E-452E-AF22-14DC9EDD0DAF" TEXT="f.length;" FOLDED="false" COLOR="#063533">
+                    <node ID="262B3682-69FF-4DC3-A1E8-E284FDA7F22B" TEXT="f.length;" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="43CF081C-045A-46A5-AAF7-142F449B4BD0" TEXT="as value (callback)" FOLDED="false" COLOR="#063533">
+                <node ID="46F17731-E243-49C0-8F71-4333FC54781B" TEXT="as value (callback)" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="75537589-0F6E-4007-8AB7-D0E238F50380" TEXT="var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);	// Name: rainy, Age: 24" FOLDED="false" COLOR="#063533">
+                    <node ID="E65993F4-CE29-466C-A970-C10FE87CF499" TEXT="var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);	// Name: rainy, Age: 24" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="1266DC78-C4BD-41EF-ACFF-F0469E680FBF" TEXT="methods" FOLDED="false" COLOR="#063533">
+                <node ID="EDEC6BA2-0072-4835-A87F-4981B23B782A" TEXT="methods" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="70A6E014-6399-4C59-BC53-5BDD5874D5D0" TEXT="apply/call/bind" FOLDED="false" COLOR="#063533">
+                    <node ID="DC1D82A0-6278-4D9A-8A5D-DC82D7F06B27" TEXT="apply/call/bind" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="D790C6AC-0C38-48BB-94A0-69D2E4A70997" TEXT="// func.apply(thisObj, [arg1, arg2, ...]); // func.call(thisObj, arg1, arg2, ...); // func.bind(thisObj, arg1, arg2, ...); // about thisObj, see `Scope`" FOLDED="false" COLOR="#063533">
+                        <node ID="23DFC153-FD43-4807-B456-91FBBD3A2FF1" TEXT="// func.apply(thisObj, [arg1, arg2, ...]); // func.call(thisObj, arg1, arg2, ...); // func.bind(thisObj, arg1, arg2, ...); // about thisObj, see `Scope`" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <node ID="92B7517E-7A3F-4831-98AE-03EA5EDDE359" TEXT="var sayHi = function(name){   console.log('Hello, ' + name + '!'); }; sayHi.call(this, 'rainy');					// Hello, rainy! sayHi.apply(this, ['rainy']);				// Hello, rainy! sayHi.bind(this, 'rainy')();				// Hello, rainy!" FOLDED="false" COLOR="#063533">
+                        <node ID="9D8E55A9-CB78-490B-8666-92CA78302B83" TEXT="var sayHi = function(name){   console.log('Hello, ' + name + '!'); }; sayHi.call(this, 'rainy');					// Hello, rainy! sayHi.apply(this, ['rainy']);				// Hello, rainy! sayHi.bind(this, 'rainy')();				// Hello, rainy!" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <arrowlink DESTINATION="2840009A-AD65-4AA3-8FFB-29C6AE0D2912" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                        <arrowlink DESTINATION="B6CDB1EF-F877-4925-AE33-8F9E59974460" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                     </node>
                 </node>
             </node>
-            <node ID="81D9D206-CF50-42FD-B0E1-A38D0EACB5AF" TEXT="Array" FOLDED="false" COLOR="#063533">
+            <node ID="ACC0DC89-D356-4D43-BC58-2DD62814A607" TEXT="Array" FOLDED="false" COLOR="#063533">
                 <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                 <edge COLOR="#182727"></edge>
-                <node ID="099BABF7-F823-48BD-9401-E55BED8A5448" TEXT="typeof" FOLDED="false" COLOR="#063533">
+                <node ID="27C887B5-22EC-42F0-8A36-9E68376864F9" TEXT="typeof" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="A07F68D1-D552-40D6-BEDA-E0F37583C93A" TEXT="'object'" FOLDED="false" COLOR="#063533">
+                    <node ID="3BB64ED8-5A12-43DD-912A-444C1B48ACD1" TEXT="'object'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="43859119-E2B4-4ACD-BDC6-05C52298CF8E" TEXT="var a = [1, 2, '3', [4, true]];" FOLDED="false" COLOR="#063533">
+                <node ID="44B59B05-7373-4255-ACB5-97B52E0AAEFE" TEXT="var a = [1, 2, '3', [4, true]];" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
                 </node>
-                <node ID="18CC3379-0FA9-4922-BC9F-9E7F80201928" TEXT="var a = new Array(1, 2, '3', [4, true]);" FOLDED="false" COLOR="#063533">
+                <node ID="418E7BCC-5215-4B95-ABDC-076C6EABC4BB" TEXT="var a = new Array(1, 2, '3', [4, true]);" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
                 </node>
-                <node ID="53C33750-7240-4B8C-ADF6-CD536F1C7477" TEXT="properties" FOLDED="false" COLOR="#063533">
+                <node ID="9D83DFE7-DB8F-4665-8C93-C16018B225CB" TEXT="properties" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="5D3C6409-F9B8-44BE-B07D-97071994F1EB" TEXT="a.length; 			  // 4" FOLDED="false" COLOR="#063533">
+                    <node ID="47EA984E-312E-4F82-B6E5-E15A01984140" TEXT="a.length; 			  // 4" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="7EE8E301-4FD6-4E41-B440-3A84B1F51C99" TEXT="methods" FOLDED="false" COLOR="#063533">
+                <node ID="274D640A-1B99-4663-B89B-C81A54A4387B" TEXT="methods" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="5CBEFFE0-038C-448C-B854-38F5246CB0F2" TEXT="a[0] == 1;             // true" FOLDED="false" COLOR="#063533">
+                    <node ID="80BF628C-1617-4C02-8943-14CD44F21EDC" TEXT="a[0] == 1;             // true" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="60E23FBC-E568-471B-892D-755BD8666A74" TEXT="a[3][1] == true;       // true" FOLDED="false" COLOR="#063533">
+                    <node ID="9B4C9599-CC5B-4F6E-BD54-3413B08206D6" TEXT="a[3][1] == true;       // true" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="25EF7866-3934-43EA-98DE-C061363B25CF" TEXT="a.slice(0, 2);         // [1, 2]" FOLDED="false" COLOR="#063533">
+                    <node ID="2A907484-F591-4DD0-AAF2-750C303481BD" TEXT="a.slice(0, 2);         // [1, 2]" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="CCB2D99A-E517-436A-878C-15A4A6248040" TEXT="a.indexOf(1); 			// 0" FOLDED="false" COLOR="#063533">
+                    <node ID="078B6002-927C-48CE-8E61-6D4ADAEC7CA0" TEXT="a.indexOf(1); 			// 0" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="B05CB6B8-FA52-480F-B9B0-F2C0BFA39A5B" TEXT="a.push({}); 	 			// return a.length(Mod)" FOLDED="false" COLOR="#063533">
+                    <node ID="81C16F25-CC97-4DE3-B269-94061A98583B" TEXT="a.push({}); 	 			// return a.length(Mod)" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="BBF5AA9E-E59D-4490-B8B1-37E736C83403" TEXT="a.pop();   				// return popped element(Mod)" FOLDED="false" COLOR="#063533">
+                    <node ID="0AABE63B-E5FF-4A8F-A265-B3544BDC3196" TEXT="a.pop();   				// return popped element(Mod)" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="AC1E80DD-F20D-4B12-9E76-F79704E85410" TEXT="a.join('-'); 				// ?" FOLDED="false" COLOR="#063533">
+                    <node ID="78BBC699-B081-4796-A01A-5BDA150F8308" TEXT="a.join('-'); 				// ?" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="7918B20E-E210-4FCA-8814-C9EA47D2A414" TEXT="a.toString() == a.join(',');" FOLDED="false" COLOR="#063533">
+                        <node ID="F8316759-4B98-4A89-ACCB-8AF9133B64E7" TEXT="a.toString() == a.join(',');" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <node ID="1A456E86-9E86-4E8A-BAFC-8945B9551BA9" TEXT="var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']" FOLDED="false" COLOR="#063533">
+                        <node ID="1487D799-2413-40EC-8F45-686EA39ED61E" TEXT="var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
                     </node>
-                    <node ID="F58CEABF-75EF-42EC-8F8C-EDC25F3E9FDA" TEXT="a.concat(['a', 'b']);	// VS push()" FOLDED="false" COLOR="#063533">
+                    <node ID="526B9AA9-9DE2-435A-A19E-44F158D3B979" TEXT="a.concat(['a', 'b']);	// VS push()" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="176EFF86-D8DC-4F2F-A2E4-3F746EF6694E" TEXT="map/reduce" FOLDED="false" COLOR="#063533">
+                    <node ID="2D7FCC61-D308-44B9-9276-0FA5705175DF" TEXT="map/reduce" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="A34EB0F6-2AAD-4BC7-839F-C486BAA0A786" TEXT="// arr.map(callback, thisObj)  /* callback = function(element, index, arr){  *   return element to the same pos of (returned)arr;  * };  */  [55, 44, 33, 22, 11].map(function(e, i, arr){   return e/(arr.length-i); });								// [ 11, 11, 11, 11, 11 ];" FOLDED="false" COLOR="#063533">
+                        <node ID="252073C7-BABB-499C-84CF-B5E53FEE3C8C" TEXT="// arr.map(callback, thisObj)  /* callback = function(element, index, arr){  *   return element to the same pos of (returned)arr;  * };  */  [55, 44, 33, 22, 11].map(function(e, i, arr){   return e/(arr.length-i); });								// [ 11, 11, 11, 11, 11 ];" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <node ID="45A01FDE-CF94-4F3A-B41B-A081BEC9A224" TEXT="// arr.reduce(callback, init);  /* callback = function(prev, curr, index, arr){  *   curr walk through   *     arr.slice(init != undefined ? 0 : 1, arr.length);  *   prev cache last returned value start with:   *     (init != undefined ? init : arr[0]);  * };  */  [55, 44, 33, 22, 11].reduce(function(p, c, i, arr){   return p + c/(arr. length-i); }, 55);						// 0; " FOLDED="false" COLOR="#063533">
+                        <node ID="D2FFCE94-0161-4A28-B6FF-2C66C69518F5" TEXT="// arr.reduce(callback, init);  /* callback = function(prev, curr, index, arr){  *   curr walk through   *     arr.slice(init != undefined ? 0 : 1, arr.length);  *   prev cache last returned value start with:   *     (init != undefined ? init : arr[0]);  * };  */  [55, 44, 33, 22, 11].reduce(function(p, c, i, arr){   return p + c/(arr. length-i); }, 55);						// 0; " FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <arrowlink DESTINATION="AD183ADC-E2DF-4C7A-86CA-3CE8645821B4" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                        <arrowlink DESTINATION="5680496C-3065-4047-BBD8-1CA498E611DA" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                    </node>
+                    <node ID="4BB02CFA-E327-4960-A2CA-8FF9A609AB83" TEXT="filter/some/every" FOLDED="false" COLOR="#063533">
+                        <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
+                        <edge COLOR="#182727"></edge>
+                        <arrowlink DESTINATION="2D7FCC61-D308-44B9-9276-0FA5705175DF" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                    </node>
+                    <node ID="A4E2A862-C914-4765-9D34-9E6A57C72BEE" TEXT="shift/unshift/sort/reverse/splice" FOLDED="false" COLOR="#063533">
+                        <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
+                        <edge COLOR="#182727"></edge>
+                        <node ID="9173C612-27C7-4252-973A-645D3BDAF091" TEXT="// will change the array" FOLDED="false" COLOR="#FF0000">
+                            <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
+                            <edge COLOR="#182727"></edge>
+                        </node>
                     </node>
                 </node>
-                <node ID="AD183ADC-E2DF-4C7A-86CA-3CE8645821B4" TEXT="iteration" FOLDED="false" COLOR="#063533">
+                <node ID="5680496C-3065-4047-BBD8-1CA498E611DA" TEXT="iteration" FOLDED="false" COLOR="#063533">
                     <font NAME="STHeitiSC-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="FEFED65C-0EEF-4E55-B83B-32EC21FB6CD4" TEXT="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }" FOLDED="false" COLOR="#063533">
+                    <node ID="BEA1A663-6D86-4477-9D85-2649F8D48F46" TEXT="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="3B3573B4-23E3-4563-B91F-7C742B313FF1" TEXT="a.forEach(function(ele){   console.log(ele); });" FOLDED="false" COLOR="#063533">
+                    <node ID="F98BA539-A4D6-41F5-BA6D-6C695860F4DA" TEXT="a.forEach(function(ele){   console.log(ele); });" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
             </node>
-            <node ID="6F785046-65E8-4731-98FF-FB4C109F7D26" TEXT="Object (OOP)" FOLDED="false" COLOR="#008000">
+            <node ID="8E958050-4791-4075-869E-E0488358EFA5" TEXT="Object (OOP)" FOLDED="false" COLOR="#008000">
                 <font NAME="HelveticaNeue-Bold" SIZE="14"></font>
                 <edge COLOR="#182727"></edge>
-                <node ID="F774B9E8-2A9C-4D12-9855-8BEDFE2A7B66" TEXT="root of everything." FOLDED="false" COLOR="#057F00">
+                <node ID="6457F416-D15C-4112-AE8C-1BC928AD1B7F" TEXT="root of everything." FOLDED="false" COLOR="#057F00">
                     <font NAME="HelveticaNeue-Bold" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
                 </node>
-                <node ID="13972044-FAD1-4216-8575-87C6B80FD70D" TEXT="Constructor" FOLDED="false" COLOR="#191919">
+                <node ID="5B49C1A7-91A5-4488-AAAA-29D53E0380D3" TEXT="Constructor" FOLDED="false" COLOR="#191919">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="DAD8DAF5-CD02-4760-BE86-BD924E196AF4" TEXT="function Person(name){   this.name = name;   this.sayHi= function(){     console.log('Hi ' + this.name + '!');   }; };  var p1 = new Person('Ad'); var p2 = new Person('Bob');  p1.name							// 'Ad' p2.sayHi();						// 'Hi Bob!'  p1.constructor === Person		// true p1 instanceof Person			// true p1.sayHi == p2.sayHi			// false" FOLDED="false" COLOR="#063533">
+                    <node ID="BB3296FD-15C8-4CF8-A383-E90928E8E150" TEXT="function Person(name){   this.name = name;   this.sayHi= function(){     console.log('Hi ' + this.name + '!');   }; };  var p1 = new Person('Ad'); var p2 = new Person('Bob');  p1.name							// 'Ad' p2.sayHi();						// 'Hi Bob!'  p1.constructor === Person		// true p1 instanceof Person			// true p1.sayHi == p2.sayHi			// false" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="C59C46E4-B18F-4E0A-ABC6-B3AA3C9DCEF5" TEXT="prototype chain" FOLDED="false" COLOR="#008000">
+                <node ID="5D060B03-5CDD-4A3A-9D72-05433EC1B45E" TEXT="prototype chain" FOLDED="false" COLOR="#008000">
                     <font NAME="HelveticaNeue-Bold" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="C43D5D44-1235-4144-A9B7-330EFC8CED14" TEXT="function Person(){}; Person.prototype.name = 'Person';  var p1  = new Person(); var p2  = new Person(); p2.name = 'rainy';  console.log(p1.name);					// 'Person' console.log(p2.name);					// 'rainy'" FOLDED="false" COLOR="#063533">
+                    <node ID="BEF67D9D-042E-457A-8947-1BA7AB6A1E0E" TEXT="function Person(){}; Person.prototype.name = 'Person';  var p1  = new Person(); var p2  = new Person(); p2.name = 'rainy';  console.log(p1.name);					// 'Person' console.log(p2.name);					// 'rainy'" FOLDED="false" COLOR="#063533">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="D2EC1C81-DDDE-497B-A8FC-ACDE13447A1F" TEXT="Person" FOLDED="false" COLOR="#063533">
+                        <node ID="A21497D4-2716-41C7-8551-E3D8C1E8788F" TEXT="Person" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
-                            <node ID="57A16F33-487C-42BD-94CC-824CB9CCF3E5" TEXT="name" FOLDED="false" COLOR="#063533">
+                            <node ID="041FBD5D-F66E-4CE3-8BB5-5D3DE937153A" TEXT="name" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#182727"></edge>
-                                <node ID="D44BBC7D-752C-4FB7-879E-56C1DA9136CF" TEXT="'Person'" FOLDED="false" COLOR="#063533">
+                                <node ID="B8497992-4CB0-4D1D-BEBB-6FEC2E7DF221" TEXT="'Person'" FOLDED="false" COLOR="#063533">
                                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                     <edge COLOR="#182727"></edge>
                                 </node>
                             </node>
                         </node>
-                        <node ID="2AFBBE5B-BC4C-44C7-B8E3-6D47BFADA0C9" TEXT="p1 = new Person();" FOLDED="false" COLOR="#063533">
+                        <node ID="B30EC646-1072-45CB-B01D-7099F608DA5F" TEXT="p1 = new Person();" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
-                            <node ID="F09CA5B6-0232-4E57-AB46-6CD88BB440E6" TEXT="prototype" FOLDED="false" COLOR="#063533">
+                            <node ID="ABC802BD-70C4-4B4A-A75D-0142ABF51E72" TEXT="prototype" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#182727"></edge>
-                                <arrowlink DESTINATION="D2EC1C81-DDDE-497B-A8FC-ACDE13447A1F" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                                <arrowlink DESTINATION="A21497D4-2716-41C7-8551-E3D8C1E8788F" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                             </node>
-                            <node ID="EE5C0DEC-DAA3-4154-B6F5-D28F1D07B4F0" TEXT="age" FOLDED="false" COLOR="#063533">
+                            <node ID="6843AE97-5586-4E3A-B051-876B2360898A" TEXT="age" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#182727"></edge>
-                                <node ID="C4598F11-1F8E-4BEB-AF07-22DF79B8CAE5" TEXT="24" FOLDED="false" COLOR="#063533">
+                                <node ID="977FD668-4F50-4CA5-9872-91697B5C95A5" TEXT="24" FOLDED="false" COLOR="#063533">
                                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                     <edge COLOR="#182727"></edge>
                                 </node>
                             </node>
                         </node>
-                        <node ID="9A5DC41B-F08E-4D48-972B-C5C61F5EE4F0" TEXT="p2 = new Person();" FOLDED="false" COLOR="#063533">
+                        <node ID="AD278970-BC15-4FE5-94EB-69A456303C0A" TEXT="p2 = new Person();" FOLDED="false" COLOR="#063533">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
-                            <node ID="CDF4BC77-296F-4792-8B7A-B416C340EE75" TEXT="prototype" FOLDED="false" COLOR="#063533">
+                            <node ID="8229538C-05EC-4CDE-A780-484B477F956E" TEXT="prototype" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#182727"></edge>
-                                <arrowlink DESTINATION="D2EC1C81-DDDE-497B-A8FC-ACDE13447A1F" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                                <arrowlink DESTINATION="A21497D4-2716-41C7-8551-E3D8C1E8788F" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                             </node>
-                            <node ID="490F841A-E157-48BF-B18D-4C8C1AD32E5D" TEXT="name" FOLDED="false" COLOR="#063533">
+                            <node ID="E756B079-1158-4FEC-9201-C4ECA76E891E" TEXT="name" FOLDED="false" COLOR="#063533">
                                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                 <edge COLOR="#182727"></edge>
-                                <node ID="3A38784B-3988-43DE-87BA-900E5E51F775" TEXT="'rainy'" FOLDED="false" COLOR="#063533">
+                                <node ID="50A34EBD-B678-4063-8FD8-4CC67098C084" TEXT="'rainy'" FOLDED="false" COLOR="#063533">
                                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                                     <edge COLOR="#182727"></edge>
                                 </node>
                             </node>
                         </node>
                     </node>
-                    <node ID="0C531853-774F-42B9-AA32-38EE03337F05" TEXT="p1 instanceof Person						// true p1.age = 24;  p1.hasOwnProperty('name');				// false Person.hasOwnProperty('name');		// true  p1.hasOwnProperty('age');				// true 'name' in p1								// true 'age' in Person							// false" FOLDED="false" COLOR="#073534">
+                    <node ID="918394EC-9377-435D-B7D8-6388E61462BF" TEXT="p1 instanceof Person						// true p1.age = 24;  p1.hasOwnProperty('name');				// false Person.hasOwnProperty('name');		// true  p1.hasOwnProperty('age');				// true 'name' in p1								// true 'age' in Person							// false" FOLDED="false" COLOR="#073534">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
-                    <node ID="CABAA9D1-8212-4F40-8080-832062DF1B77" TEXT="// All properties on the prototype are shared among instances Person.prototype.friends = ['Ad', 'Bob'];  p1.friends.pop();						// 'Bob' console.log(p2.friends);				// ['Ad']  // Combine constructor &amp; prototype function Person(){   this.friends = ['Ad', 'Bob']; }; Person.prototype.name = 'Person';	" FOLDED="false" COLOR="#FF0000">
+                    <node ID="E51AA6B5-2863-4E8F-A225-8647C22C9342" TEXT="// All properties on the prototype are shared among instances Person.prototype.friends = ['Ad', 'Bob'];  p1.friends.pop();						// 'Bob' console.log(p2.friends);				// ['Ad']  // Combine constructor &amp; prototype function Person(){   this.friends = ['Ad', 'Bob']; }; Person.prototype.name = 'Person';	" FOLDED="false" COLOR="#FF0000">
                         <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
                     </node>
                 </node>
-                <node ID="8AAF3A20-BDFB-47D2-AE00-A4CDA779A9B2" TEXT="Inheritance" FOLDED="false" COLOR="#000000">
+                <node ID="EB1C67C6-1920-4D30-8486-AA9CA46EEAEE" TEXT="Inheritance" FOLDED="false" COLOR="#000000">
                     <font NAME="HelveticaNeue-Light" SIZE="14"></font>
                     <edge COLOR="#182727"></edge>
-                    <node ID="D7424A95-9485-480C-8A98-33812F5D5659" TEXT="prototype chain" FOLDED="false" COLOR="#000000">
+                    <node ID="7A6ED4EE-CE29-4B0C-A19A-6328508CD50A" TEXT="prototype chain" FOLDED="false" COLOR="#000000">
                         <font NAME="STHeitiSC-Light" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="C27E0D8D-E48E-487D-B587-5196AB850D66" TEXT="function Father(){}; Father.prototype.familyName = 'Good';  function Child(){}; Child.prototype = new Father();  var c = new Child(); console.log(c.familyName);				// 'Good'" FOLDED="false" COLOR="#000000">
+                        <node ID="E4C5B566-1C2F-4100-8946-5B237E892024" TEXT="function Father(){}; Father.prototype.familyName = 'Good';  function Child(){}; Child.prototype = new Father();  var c = new Child(); console.log(c.familyName);				// 'Good'" FOLDED="false" COLOR="#000000">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <arrowlink DESTINATION="C59C46E4-B18F-4E0A-ABC6-B3AA3C9DCEF5" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                        <arrowlink DESTINATION="5D060B03-5CDD-4A3A-9D72-05433EC1B45E" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                     </node>
-                    <node ID="3F88C222-B243-4860-87A1-86CCE81FE07C" TEXT="constructor" FOLDED="false" COLOR="#000000">
+                    <node ID="3E7E52CD-564D-4AFA-BCF9-A8D23F8A1EAC" TEXT="constructor" FOLDED="false" COLOR="#000000">
                         <font NAME="STHeitiSC-Light" SIZE="14"></font>
                         <edge COLOR="#182727"></edge>
-                        <node ID="63102FF0-242F-4C31-8C51-139FC0B43C23" TEXT="function Father(){   this.familyName = 'Good'; };  function Child(){   Father.call(this); };  var c = new Child(); console.log(c.familyName);					// 'Good'" FOLDED="false" COLOR="#000000">
+                        <node ID="C7A8D30F-5AB2-4E86-AA03-E15BC2F431B0" TEXT="function Father(){   this.familyName = 'Good'; };  function Child(){   Father.call(this); };  var c = new Child(); console.log(c.familyName);					// 'Good'" FOLDED="false" COLOR="#000000">
                             <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                             <edge COLOR="#182727"></edge>
                         </node>
-                        <arrowlink DESTINATION="13972044-FAD1-4216-8575-87C6B80FD70D" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                        <arrowlink DESTINATION="5B49C1A7-91A5-4488-AAAA-29D53E0380D3" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
                     </node>
                 </node>
             </node>
         </node>
-        <node ID="16F2D4F1-8CA6-4FED-B808-9AEE407B08B5" TEXT="Flow control" POSITION="right" FOLDED="false" COLOR="#063533">
+        <node ID="018560C9-C8F8-45A2-AC63-025FB2B0588E" TEXT="Flow control" POSITION="right" FOLDED="false" COLOR="#063533">
             <font NAME="HelveticaNeue-Light" SIZE="14"></font>
             <edge COLOR="#527851"></edge>
-            <node ID="B52B7818-295A-45CC-B136-215DA556BA20" TEXT="if" FOLDED="false" COLOR="#063533">
+            <node ID="D2C87043-E49F-41B3-BF96-341C4080DBCC" TEXT="if" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#527851"></edge>
-                <node ID="4577F669-358F-45A4-A851-7737BB04AE92" TEXT="if(cond){   state1; }else if(cond2){   state2; }else{   state3; }" FOLDED="false" COLOR="#063533">
+                <node ID="7E27D017-65E1-4D5F-B4AD-41302B8EB901" TEXT="if(cond){   state1; }else if(cond2){   state2; }else{   state3; }" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <node ID="634D78A9-6625-4535-B30D-E65E1679CE5E" TEXT="false ? a : b" FOLDED="false" COLOR="#063533">
+                <node ID="01D49BE0-5F01-4583-BA78-F801976A71B1" TEXT="false ? a : b" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
             </node>
-            <node ID="A8D9C1F9-C667-41C7-8D21-B9EFB6D6D29D" TEXT="switch" FOLDED="false" COLOR="#063533">
+            <node ID="A9536C2C-05D8-4319-8D85-05D090B55E99" TEXT="switch" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#527851"></edge>
-                <node ID="761B031E-D888-45FC-9571-3317D1925137" TEXT="switch (day) {   case MON:     break;   case TUE:     break;   case WEN:     break;   default: }" FOLDED="false" COLOR="#063533">
+                <node ID="BF8D9D6F-D94C-4FA5-AFDC-B788126DDBCA" TEXT="switch (day) {   case MON:     break;   case TUE:     break;   case WEN:     break;   default: }" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <arrowlink DESTINATION="B52B7818-295A-45CC-B136-215DA556BA20" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                <arrowlink DESTINATION="D2C87043-E49F-41B3-BF96-341C4080DBCC" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
             </node>
-            <node ID="36AA64DE-6DC7-4791-ACAE-381EDB006C08" TEXT="while" FOLDED="false" COLOR="#063533">
+            <node ID="145E7014-0E64-4EFF-BE74-6EBE8932C949" TEXT="while" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#527851"></edge>
-                <node ID="07726B12-D58E-4A4A-AF28-3352E5F819F7" TEXT="do {   state1; } while(cond)" FOLDED="false" COLOR="#063533">
+                <node ID="AA137159-44A3-4EBF-B22F-30D98DD69225" TEXT="do {   state1; } while(cond)" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <node ID="2C37B5EA-31F8-4582-8E1D-38AE48768F4D" TEXT="while(cond){   state1; }" FOLDED="false" COLOR="#063533">
+                <node ID="B6910492-E9FD-498E-B0E4-F9166333BD61" TEXT="while(cond){   state1; }" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <node ID="05370D53-B205-4BD7-9589-648F051823BD" TEXT="break; continue" FOLDED="false" COLOR="#063533">
+                <node ID="563DB90E-5F7F-4BD1-87CA-4E116E953680" TEXT="break; continue" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
             </node>
-            <node ID="12304B62-2025-492D-9DD4-D9F7876DCDBD" TEXT="for" FOLDED="false" COLOR="#063533">
+            <node ID="0F3A1C77-F238-46C7-90E5-08D0B9B8FD6C" TEXT="for" FOLDED="false" COLOR="#063533">
                 <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                 <edge COLOR="#527851"></edge>
-                <node ID="27CF7E46-D9D3-4882-860B-333319615FA5" TEXT="for(var i = 0; i &lt; len; i++){   state1; }" FOLDED="false" COLOR="#063533">
+                <node ID="16A523E0-8C13-458B-9443-1F6EC0D006CC" TEXT="for(var i = 0; i &lt; len; i++){   state1; }" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <node ID="B44FEA16-E964-4A70-AAE8-0AC63A474EEF" TEXT="for(var k in Obj){   // if Obj.hasOwnProperty(k){     console.log('Obj[' + k + '] = ' + Obj[k]);   // } }" FOLDED="false" COLOR="#063533">
+                <node ID="08CB2C35-536B-46EF-97F4-0D801FBCECE2" TEXT="for(var k in Obj){   // if Obj.hasOwnProperty(k){     console.log('Obj[' + k + '] = ' + Obj[k]);   // } }" FOLDED="false" COLOR="#063533">
                     <font NAME="CourierNewPS-BoldMT" SIZE="14"></font>
                     <edge COLOR="#527851"></edge>
                 </node>
-                <arrowlink DESTINATION="36AA64DE-6DC7-4791-ACAE-381EDB006C08" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
+                <arrowlink DESTINATION="145E7014-0E64-4EFF-BE74-6EBE8932C949" COLOR="#1C896A" STARTARROW="None" ENDARROW="Default"></arrowlink>
             </node>
         </node>
     </node>
