@@ -27,6 +27,7 @@
 - [X] Object(OOP) - inheritance;
 - [ ] Scope;
 - [ ] Operators - bitwise;
+- [ ] Flow control - try/catch;
 - [ ] Tips;
 
 
