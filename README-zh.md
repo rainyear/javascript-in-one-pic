@@ -42,7 +42,7 @@
 - [X] Object(OOP) - inheritance;
 - [ ] Scope;
 - [ ] Operators - bitwise;
-- [ ] Flow control - try/catch;
+- [X] Flow control - try/catch;
 - [ ] Tips;
 
 ## 参考
