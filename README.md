@@ -25,14 +25,12 @@ The original intent of this project was to note down the syntax and basic concep
 
 The original mindmap diagram is drawn with [Mindnode](https://mindnode.com/) and exported to PDF/PNG/OPML files along with a `*.mm` file which can be edited with [FreeMind](http://freemind.sourceforge.net), another SVG file will be released after the whole project is finished([issues #9](https://github.com/coodict/javascript-in-one-pic/issues/9)).
 
-In addition to Javascript, Python3 & Golang versions are on the way! If you find this useful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation).
+In addition to Javascript, Python3 & Golang versions are on the way! If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
 ## Releated projects
 
 * [Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 * Go in one pic (in preparation)
-
-
 
 ## TODO
 
@@ -52,8 +50,6 @@ In addition to Javascript, Python3 & Golang versions are on the way! If you find
 1. [Professional JavaScript for Web Developers](http://www.amazon.cn/gp/offer-listing/1118026691/ref=tmm_pap_new_olp_sr?ie=UTF8&condition=new&sr=&qid=)
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
