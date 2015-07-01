@@ -13,10 +13,6 @@
                 <outline text="start with: letters, _,  $">
                     <outline text="letters: [ascii, unicode]"></outline>
                 </outline>
-                <outline text="comments">
-                    <outline text="// single line"></outline>
-                    <outline text="/* multi-line comments */"></outline>
-                </outline>
                 <outline text="key words">
                     <outline text="break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instanceof; new; return; switch; this; throw; try; typeof; var; void; while; with"></outline>
                 </outline>
@@ -32,6 +28,10 @@
                     <outline text="var a; // local"></outline>
                     <outline text="a = 123; // global"></outline>
                 </outline>
+            </outline>
+            <outline text="comments">
+                <outline text="// single line"></outline>
+                <outline text="/* multi-line comments */"></outline>
             </outline>
             <outline text="Data type">
                 <outline text="Number [Primitive like]">
@@ -245,6 +245,10 @@
                             <outline text="// arr.map(callback, thisObj)  /* callback = function(element, index, arr){  *   return element to the same pos of (returned)arr;  * };  */  [55, 44, 33, 22, 11].map(function(e, i, arr){   return e/(arr.length-i); });								// [ 11, 11, 11, 11, 11 ];"></outline>
                             <outline text="// arr.reduce(callback, init);  /* callback = function(prev, curr, index, arr){  *   curr walk through   *     arr.slice(init != undefined ? 0 : 1, arr.length);  *   prev cache last returned value start with:   *     (init != undefined ? init : arr[0]);  * };  */  [55, 44, 33, 22, 11].reduce(function(p, c, i, arr){   return p + c/(arr. length-i); }, 55);						// 0; "></outline>
                         </outline>
+                        <outline text="filter/some/every"></outline>
+                        <outline text="shift/unshift/sort/reverse/splice">
+                            <outline text="// will change the array"></outline>
+                        </outline>
                     </outline>
                     <outline text="iteration">
                         <outline text="for(var i = 0; i &lt; a.length; i++){   console.log(a[i]); }"></outline>
@@ -305,6 +309,9 @@
                 <outline text="for">
                     <outline text="for(var i = 0; i &lt; len; i++){   state1; }"></outline>
                     <outline text="for(var k in Obj){   // if Obj.hasOwnProperty(k){     console.log('Obj[' + k + '] = ' + Obj[k]);   // } }"></outline>
+                </outline>
+                <outline text="try/catch/finally">
+                    <outline text="var a = {}; try{   a.f(); }catch(e){   console.log(e instanceof TypeError);    // true   (function(){ 		console.log('a.f()');				  // 'a.f()'    })(); }finally{   console.log('always');					  // 'always' }"></outline>
                 </outline>
             </outline>
         </outline>
