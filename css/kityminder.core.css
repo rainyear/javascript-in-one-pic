@@ -1,0 +1,16 @@
+.km-view {
+    font-family: "STHeitiSC-Light", "STHeiti", "Hei", "Heiti SC", "Microsoft Yahei", Arial, sans-serif;
+    -webkit-user-select: none;
+    user-select: none;
+    position:  relative;
+}
+
+.km-view .km-receiver {
+    position: absolute;
+    left: -99999px;
+    top: -99999px;
+    width: 20px;
+    height: 20px;
+    outline: none;
+    margin: 0;
+}
