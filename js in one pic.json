@@ -1,0 +1,1268 @@
+{
+  "root": {
+    "data": {
+      "text": "javascript in one pic",
+      "hyperlink": "https://github.com/rainyear"
+    },
+    "children": [
+      {
+        "data": {
+          "text": "Identifier"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "Case-sensitive"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "a != A"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "start with: letters, _,  $"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "letters: [ascii, unicode]"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "key words"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "break; case; catch; continue; default; delete; do; else; finally; for; function; if; in; instanceof; new; return; switch; this; throw; try; typeof; var; void; while; with"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Reserved words"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "Nonstrict"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "class; const; enum; export; extends; import; super;"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "'use strict'"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "implements; interface; let; package; private; protected; public; static; yield;"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Variables"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "var a; // local"
+                }
+              },
+              {
+                "data": {
+                  "text": "a = 123; // global"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "comments"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "// single line"
+            }
+          },
+          {
+            "data": {
+              "text": "/* multi-line comments */"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "Data type"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "Number [Primitive like]"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'number'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "value"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "0"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "1.2"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "045"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "0x56"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "0.314e2"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "NaN"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "Number()"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "parseInt(\"2.7\", 10); \t // 2"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "parseInt('10', 2); // 2"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "parseFloat('2.5'); \t\t // 2.5"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "isNaN(parseFloat('a')); // true"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "+-*/%"
+                }
+              },
+              {
+                "data": {
+                  "text": "<, <=, >, >=, !=, =="
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "String [Primitive like]"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'string'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "value"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "\"Hello\""
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "'World'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "String()/toString()"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var a = 8; a.toString(2); // '1000'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "immutable"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var a = 'ABC'; a[0]; \t\t\t\t// 'A' a[0] = 'D'; a; \t\t\t\t\t// 'ABC'"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "var a = 'abc'; a = a + 'd'; a; \t\t\t\t\t// 'abcd'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "+"
+                }
+              },
+              {
+                "data": {
+                  "text": "<, <=, >, >=, !=, =="
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Boolean [Primitive like]"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'boolean'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "value"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "true"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "false"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "Boolean()"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "number"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "Boolean(0); \t\t\t// false"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "Boolean(NaN); \t\t// false"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "Boolean(!0); \t\t\t// true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "string"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "Boolean(''); \t\t\t // false"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "Boolean('*'); \t\t // true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "object"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "Boolean(null);       // false"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "Boolean({}); \t\t\t // true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "undefined"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "Boolean(undefined);// false"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Undefined [Primitive like]"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'undefined'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "value"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "undefined"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "undefined != Not defined"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "undefined == undefined; \t// true var a; a == undefined; \t\t\t\t// true console.log(d); \t\t\t\t// Error"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Object (basic)"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'object'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "{}"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var p = {   name: 'Ad',   'age': 24 };"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "var q = {}; q.name = 'Bob'; q.age  = 24;  console.log(q.name);\t\t\t\t // 'Bob' console.log(q['age']);\t\t\t\t // 24"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "new Object()"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var p   = new Object(); p.sayHi = function(){   console.log('Hi!'); } p.sayHi(); \t\t\t\t\t// 'Hi!'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "Null //[Primitive like]"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "typeof"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "'object'"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "value"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "null"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "\"undefined object\""
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "null == undefined; // true"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Function (basic)"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'function'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "create"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var a = function(arg1, arg2){   //func body; }"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "function a(arg1, arg2){   //func body; }"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "(function(arg1,arg2){   //func body; })"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "inside function"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "arguments"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "// by order"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "var f = function(x, y){   console.log('x: ' + x + ', y: ' + y); }; var x = 'x', y = 'y'; f(x, y);\t\t\t\t\t // x: x, y: y f(y, x);\t\t\t\t\t // x: y, y: x"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "text": "undefined"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "var f = function(x){   console.log(x); }; f();\t\t\t\t\t\t\t// undefined"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "text": "arguments"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "var f = function(){   console.log(arguments); }; f(3,2,1);\t\t\t\t\t\t// { '0': 3, '1': 2, '2': 1 }"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "return"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "Operators"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "+-*/%"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "casting"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "+"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "string > number > boolean"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "'1'+2"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "3+'4'"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "'5'+false"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "6+true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "-"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "number > string > boolean"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "'1'-2"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "3-'4'"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "'5'-false"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "6-true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "++a a-- a+=1 a-=1"
+            }
+          },
+          {
+            "data": {
+              "text": "compare"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": ">, >=, <, <="
+                }
+              },
+              {
+                "data": {
+                  "text": "==, !="
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "\t\t\t// only value"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "===, !=="
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "\t\t // both value & type"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "casting"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "a > b; \t// a - b > 0"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "! && ||"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "!true; \t\t\t// false"
+                }
+              },
+              {
+                "data": {
+                  "text": "true && false; \t// false"
+                }
+              },
+              {
+                "data": {
+                  "text": "false || true; \t// true"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "Scope"
+        }
+      },
+      {
+        "data": {
+          "text": "Tips"
+        }
+      },
+      {
+        "data": {
+          "text": "Reference type"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "Function"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'function'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "properties"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "f.length;"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "as value (callback)"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "var api = function(){   return {     name: 'rainy',     age: 24   }; }; var handler = function(d){   console.log('Name: '+d.name+', Age: '+d.age); }; var request = function(api, callback){   callback(api()); };  request(api, handler);\t// Name: rainy, Age: 24"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "methods"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "apply/call/bind"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "// func.apply(thisObj, [arg1, arg2, ...]); // func.call(thisObj, arg1, arg2, ...); // func.bind(thisObj, arg1, arg2, ...); // about thisObj, see `Scope`"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "var sayHi = function(name){   console.log('Hello, ' + name + '!'); }; sayHi.call(this, 'rainy');\t\t\t\t\t// Hello, rainy! sayHi.apply(this, ['rainy']);\t\t\t\t// Hello, rainy! sayHi.bind(this, 'rainy')();\t\t\t\t// Hello, rainy!"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Array"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "typeof"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "'object'"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "var a = [1, 2, '3', [4, true]];"
+                }
+              },
+              {
+                "data": {
+                  "text": "var a = new Array(1, 2, '3', [4, true]);"
+                }
+              },
+              {
+                "data": {
+                  "text": "properties"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "a.length; \t\t\t  // 4"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "methods"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "a[0] == 1;             // true"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a[3][1] == true;       // true"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.slice(0, 2);         // [1, 2]"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.indexOf(1); \t\t\t// 0"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.push({}); \t \t\t\t// return a.length(Mod)"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.pop();   \t\t\t\t// return popped element(Mod)"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.join('-'); \t\t\t\t// ?"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "a.toString() == a.join(',');"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "var s = 'a,b,c,d'; s.split(','); // ['a', 'b', 'c', 'd']"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "a.concat(['a', 'b']);\t// VS push()"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "map/reduce"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "// arr.map(callback, thisObj)  /* callback = function(element, index, arr){  *   return element to the same pos of (returned)arr;  * };  */  [55, 44, 33, 22, 11].map(function(e, i, arr){   return e/(arr.length-i); });\t\t\t\t\t\t\t\t// [ 11, 11, 11, 11, 11 ];"
+                        }
+                      },
+                      {
+                        "data": {
+                          "text": "// arr.reduce(callback, init);  /* callback = function(prev, curr, index, arr){  *   curr walk through   *     arr.slice(init != undefined ? 0 : 1, arr.length);  *   prev cache last returned value start with:   *     (init != undefined ? init : arr[0]);  * };  */  [55, 44, 33, 22, 11].reduce(function(p, c, i, arr){   return p + c/(arr. length-i); }, 55);\t\t\t\t\t\t// 0; "
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "filter/some/every"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "shift/unshift/sort/reverse/splice"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "// will change the array"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "iteration"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "for(var i = 0; i < a.length; i++){   console.log(a[i]); }"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "a.forEach(function(ele){   console.log(ele); });"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "Object (OOP)"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "root of everything."
+                }
+              },
+              {
+                "data": {
+                  "text": "Constructor"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "function Person(name){   this.name = name;   this.sayHi= function(){     console.log('Hi ' + this.name + '!');   }; };  var p1 = new Person('Ad'); var p2 = new Person('Bob');  p1.name\t\t\t\t\t\t\t// 'Ad' p2.sayHi();\t\t\t\t\t\t// 'Hi Bob!'  p1.constructor === Person\t\t// true p1 instanceof Person\t\t\t// true p1.sayHi == p2.sayHi\t\t\t// false"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "prototype chain"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "function Person(){}; Person.prototype.name = 'Person';  var p1  = new Person(); var p2  = new Person(); p2.name = 'rainy';  console.log(p1.name);\t\t\t\t\t// 'Person' console.log(p2.name);\t\t\t\t\t// 'rainy'"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "Person"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "name"
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "text": "'Person'"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "text": "p1 = new Person();"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "prototype"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "age"
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "text": "24"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "data": {
+                          "text": "p2 = new Person();"
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "text": "prototype"
+                            }
+                          },
+                          {
+                            "data": {
+                              "text": "name"
+                            },
+                            "children": [
+                              {
+                                "data": {
+                                  "text": "'rainy'"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "p1 instanceof Person\t\t\t\t\t\t// true p1.age = 24;  p1.hasOwnProperty('name');\t\t\t\t// false Person.hasOwnProperty('name');\t\t// true  p1.hasOwnProperty('age');\t\t\t\t// true 'name' in p1\t\t\t\t\t\t\t\t// true 'age' in Person\t\t\t\t\t\t\t// false"
+                    }
+                  },
+                  {
+                    "data": {
+                      "text": "// All properties on the prototype are shared among instances Person.prototype.friends = ['Ad', 'Bob'];  p1.friends.pop();\t\t\t\t\t\t// 'Bob' console.log(p2.friends);\t\t\t\t// ['Ad']  // Combine constructor & prototype function Person(){   this.friends = ['Ad', 'Bob']; }; Person.prototype.name = 'Person';\t"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "text": "Inheritance"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "text": "prototype chain"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "function Father(){}; Father.prototype.familyName = 'Good';  function Child(){}; Child.prototype = new Father();  var c = new Child(); console.log(c.familyName);\t\t\t\t// 'Good'"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "text": "constructor"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "text": "function Father(){   this.familyName = 'Good'; };  function Child(){   Father.call(this); };  var c = new Child(); console.log(c.familyName);\t\t\t\t\t// 'Good'"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "Flow control"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "if"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "if(cond){   state1; }else if(cond2){   state2; }else{   state3; }"
+                }
+              },
+              {
+                "data": {
+                  "text": "false ? a : b"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "switch"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "switch (day) {   case MON:     break;   case TUE:     break;   case WEN:     break;   default: }"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "while"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "do {   state1; } while(cond)"
+                }
+              },
+              {
+                "data": {
+                  "text": "while(cond){   state1; }"
+                }
+              },
+              {
+                "data": {
+                  "text": "break; continue"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "for"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "for(var i = 0; i < len; i++){   state1; }"
+                }
+              },
+              {
+                "data": {
+                  "text": "for(var k in Obj){   // if Obj.hasOwnProperty(k){     console.log('Obj[' + k + '] = ' + Obj[k]);   // } }"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "text": "try/catch/finally"
+            },
+            "children": [
+              {
+                "data": {
+                  "text": "var a = {}; try{   a.f(); }catch(e){   console.log(e instanceof TypeError);    // true   (function(){ \t\tconsole.log('a.f()');\t\t\t\t  // 'a.f()'    })(); }finally{   console.log('always');\t\t\t\t\t  // 'always' }"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

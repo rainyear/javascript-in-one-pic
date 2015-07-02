@@ -1,0 +1,159 @@
+/*
+ * Released under BSD License
+ * Copyright (c) 2014-2015 hizzgdev@163.com
+ * 
+ * Project Home:
+ *   https://github.com/hizzgdev/jsmind/
+ */
+
+/* important section */
+.jsmind-inner{position:relative;overflow:auto;width:100%;height:100%;}/*box-shadow:0 0 2px #000;*/
+.jsmind-inner{
+    moz-user-select:-moz-none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+
+/* z-index:1 */
+canvas{position:absolute;z-index:1;}
+
+/* z-index:2 */
+jmnodes{position:absolute;z-index:2;background-color:rgba(0,0,0,0);}/*background color is necessary*/
+jmnode{position:absolute;cursor:default;max-width:400px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+jmexpander{position:absolute;width:11px;height:11px;display:block;overflow:hidden;line-height:12px;font-size:12px;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
+
+/* default theme */
+jmnode{padding:10px;background-color:#fff;color:#333;border-radius:5px;box-shadow:1px 1px 1px #666;font:16px/1.125 Verdana,Arial,Helvetica,sans-serif;}
+jmnode:hover{box-shadow:2px 2px 8px #000;background-color:#ebebeb;color:#333;}
+jmnode.selected{background-color:#11f;color:#fff;box-shadow:2px 2px 8px #000;}
+jmnode.root{font-size:24px;}
+jmexpander{border-color:gray;}
+jmexpander:hover{border-color:#000;}
+
+@media screen and (max-device-width: 1024px) {
+    jmnode{padding:5px;border-radius:3px;font-size:14px;}
+    jmnode.root{font-size:21px;}
+}
+/* primary theme */
+jmnodes.primary jmnode{background-color:#428bca;color:#fff;border-color:#357ebd;}
+jmnodes.primary jmnode:hover{background-color:#3276b1;border-color:#285e8e;}
+jmnodes.primary jmnode.selected{background-color:#f1c40f;color:#fff;}
+jmnodes.primary jmnode.root{}
+jmnodes.primary jmexpander{}
+jmnodes.primary jmexpander:hover{}
+
+/* warning theme */
+jmnodes.warning jmnode{background-color:#f0ad4e;border-color:#eea236;color:#fff;}
+jmnodes.warning jmnode:hover{background-color:#ed9c28;border-color:#d58512;}
+jmnodes.warning jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.warning jmnode.root{}
+jmnodes.warning jmexpander{}
+jmnodes.warning jmexpander:hover{}
+
+/* danger theme */
+jmnodes.danger jmnode{background-color:#d9534f;border-color:#d43f3a;color:#fff;}
+jmnodes.danger jmnode:hover{background-color:#d2322d;border-color:#ac2925;}
+jmnodes.danger jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.danger jmnode.root{}
+jmnodes.danger jmexpander{}
+jmnodes.danger jmexpander:hover{}
+
+/* success theme */
+jmnodes.success jmnode{background-color:#5cb85c;border-color:#4cae4c;color:#fff;}
+jmnodes.success jmnode:hover{background-color:#47a447;border-color:#398439;}
+jmnodes.success jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.success jmnode.root{}
+jmnodes.success jmexpander{}
+jmnodes.success jmexpander:hover{}
+
+/* info theme */
+jmnodes.info jmnode{background-color:#5dc0de;border-color:#46b8da;;color:#fff;}
+jmnodes.info jmnode:hover{background-color:#39b3d7;border-color:#269abc;}
+jmnodes.info jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.info jmnode.root{}
+jmnodes.info jmexpander{}
+jmnodes.info jmexpander:hover{}
+
+/* greensea theme */
+jmnodes.greensea jmnode{background-color:#1abc9c;color:#fff;}
+jmnodes.greensea jmnode:hover{background-color:#16a085;}
+jmnodes.greensea jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.greensea jmnode.root{}
+jmnodes.greensea jmexpander{}
+jmnodes.greensea jmexpander:hover{}
+
+/* nephrite theme */
+jmnodes.nephrite jmnode{background-color:#2ecc71;color:#fff;}
+jmnodes.nephrite jmnode:hover{background-color:#27ae60;}
+jmnodes.nephrite jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.nephrite jmnode.root{}
+jmnodes.nephrite jmexpander{}
+jmnodes.nephrite jmexpander:hover{}
+
+/* belizehole theme */
+jmnodes.belizehole jmnode{background-color:#3498db;color:#fff;}
+jmnodes.belizehole jmnode:hover{background-color:#2980b9;}
+jmnodes.belizehole jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.belizehole jmnode.root{}
+jmnodes.belizehole jmexpander{}
+jmnodes.belizehole jmexpander:hover{}
+
+/* wisteria theme */
+jmnodes.wisteria jmnode{background-color:#9b59b6;color:#fff;}
+jmnodes.wisteria jmnode:hover{background-color:#8e44ad;}
+jmnodes.wisteria jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.wisteria jmnode.root{}
+jmnodes.wisteria jmexpander{}
+jmnodes.wisteria jmexpander:hover{}
+
+/* asphalt theme */
+jmnodes.asphalt jmnode{background-color:#34495e;color:#fff;}
+jmnodes.asphalt jmnode:hover{background-color:#2c3e50;}
+jmnodes.asphalt jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.asphalt jmnode.root{}
+jmnodes.asphalt jmexpander{}
+jmnodes.asphalt jmexpander:hover{}
+
+/* orange theme */
+jmnodes.orange jmnode{background-color:#f1c40f;color:#fff;}
+jmnodes.orange jmnode:hover{background-color:#f39c12;}
+jmnodes.orange jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.orange jmnode.root{}
+jmnodes.orange jmexpander{}
+jmnodes.orange jmexpander:hover{}
+
+/* pumpkin theme */
+jmnodes.pumpkin jmnode{background-color:#e67e22;color:#fff;}
+jmnodes.pumpkin jmnode:hover{background-color:#d35400;}
+jmnodes.pumpkin jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.pumpkin jmnode.root{}
+jmnodes.pumpkin jmexpander{}
+jmnodes.pumpkin jmexpander:hover{}
+
+/* pomegranate theme */
+jmnodes.pomegranate jmnode{background-color:#e74c3c;color:#fff;}
+jmnodes.pomegranate jmnode:hover{background-color:#c0392b;}
+jmnodes.pomegranate jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.pomegranate jmnode.root{}
+jmnodes.pomegranate jmexpander{}
+jmnodes.pomegranate jmexpander:hover{}
+
+/* clouds theme */
+jmnodes.clouds jmnode{background-color:#ecf0f1;color:#333;}
+jmnodes.clouds jmnode:hover{background-color:#bdc3c7;}
+jmnodes.clouds jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.clouds jmnode.root{}
+jmnodes.clouds jmexpander{}
+jmnodes.clouds jmexpander:hover{}
+
+/* asbestos theme */
+jmnodes.asbestos jmnode{background-color:#95a5a6;color:#fff;}
+jmnodes.asbestos jmnode:hover{background-color:#7f8c8d;}
+jmnodes.asbestos jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.asbestos jmnode.root{}
+jmnodes.asbestos jmexpander{}
+jmnodes.asbestos jmexpander:hover{}
