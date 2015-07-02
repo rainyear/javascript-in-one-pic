@@ -9,6 +9,14 @@
 
 <!-- /BADGES -->
 
+## Online version
+
+[Online Mindmap](http://coodict.github.io/javascript-in-one-pic/)
+
+### TODO 
+
+- [ ] Syntax highlight
+
 ## Color notes
 
 ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
