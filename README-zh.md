@@ -1,4 +1,4 @@
-# Javascript in one pic
+# Javascript in one pic - online
 
 [ 语言: [English](README.md), [中文](README-zh.md) ]
 
@@ -9,15 +9,10 @@
 
 <!-- /BADGES -->
 
-## 颜色标记
+### TODO
 
-![not recommended](https://img.shields.io/badge/%237E1600-不推荐使用-7E1600.svg)
-![important](https://img.shields.io/badge/%234E8D20-重要-4E8D20.svg)
-![warning](https://img.shields.io/badge/%23DE2B00-注意-DE2B00.svg)
+- [ ] Syntax highlight
 
-## 预览
-
-![js in one pic](js%20in%20one%20pic.png)
 
 ## 关于本项目
 

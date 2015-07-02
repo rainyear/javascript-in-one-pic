@@ -1,4 +1,13 @@
-# Javascript in one pic
+# Javascript in one pic - online
+
+[ Languages: [English](README.md), [中文](README-zh.md) ]
+
+<!-- BADGES/ -->
+
+[![Gitter chat button](https://img.shields.io/badge/gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/coodict/javascript-in-one-pic)
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
+
+<!-- /BADGES -->
 
 ### TODO
 
