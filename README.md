@@ -49,5 +49,9 @@ In addition to Javascript, Python3 & Golang versions are on the way! If you find
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## Dependency
+
+[Javascript version of mind mapping](https://github.com/hizzgdev/jsmind)
+
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).

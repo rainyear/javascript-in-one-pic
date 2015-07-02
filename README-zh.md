@@ -50,5 +50,9 @@
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## 依赖
+
+[Javascript version of mind mapping](https://github.com/hizzgdev/jsmind)
+
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
