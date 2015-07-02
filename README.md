@@ -1,23 +1,8 @@
 # Javascript in one pic
 
-[ Languages: [English](README.md), [中文](README-zh.md) ]
+### TODO
 
-<!-- BADGES/ -->
-
-[![Gitter chat button](https://img.shields.io/badge/gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/coodict/javascript-in-one-pic)
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
-
-<!-- /BADGES -->
-
-## Color notes
-
-![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
-![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
-![warning](https://img.shields.io/badge/%23DE2B00-warning-DE2B00.svg)
-
-## Preview
-
-![js in one pic](js%20in%20one%20pic.png)
+- [ ] Syntax highlight
 
 ## About this project
 
