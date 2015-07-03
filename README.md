@@ -35,7 +35,7 @@ The original mindmap diagram is drawn with [Mindnode](https://mindnode.com/) and
 
 In addition to Javascript, Python3 & Golang versions are on the way! If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
-## Releated projects
+## Related projects
 
 * [Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 * Go in one pic (in preparation)
