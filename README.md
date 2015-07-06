@@ -59,6 +59,7 @@ In addition to Javascript, Python3 & Golang versions are on the way! If you find
 1. [Professional JavaScript for Web Developers](http://www.amazon.cn/gp/offer-listing/1118026691/ref=tmm_pap_new_olp_sr?ie=UTF8&condition=new&sr=&qid=)
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+4. [图解Javascript上下文与作用域](http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/)
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
