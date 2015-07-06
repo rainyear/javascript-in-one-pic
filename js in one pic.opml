@@ -160,6 +160,7 @@
                     </outline>
                 </outline>
             </outline>
+            <outline text="Tips"></outline>
             <outline text="Operators">
                 <outline text="+-*/%">
                     <outline text="casting">
@@ -200,8 +201,108 @@
                     <outline text="false || true; 	// true"></outline>
                 </outline>
             </outline>
-            <outline text="Scope"></outline>
-            <outline text="Tips"></outline>
+            <outline text="Scope">
+                <outline text="Execution context">
+                    <outline text="global">
+                        <outline text="+-------------+           +-----------------------+
+|Node         +------+    |Execution Context      |
++-------------+      |    +-----------------------+
+|global = {   |      +--&gt; |[Variable Object] = {  |
+|             |      |    |                       |
+|};           |      |    |  variables            |
++--------------      |    |                       |
+                     |    |  data                 |
+                     |    |                       |
+                     |    |  functions            |
++--------------      |    |                       |
+|Browser      +------+    |  objects              |
++-------------+           |                       |
+|window = {   |           |  ...                  |
+|             |           |                       |
+|};           |           |};                     |
++-------------+           +-----------------------+
+"></outline>
+                    </outline>
+                    <outline text="context stack">
+                        <outline text="+-----------------------------------+                          
+|function b() // create new context +-----+                    
++-----------------------------------+     |                    
+|Variable Object = {                |     |   +---------------+
+|  arguments = ...;                 |     |   |               |
+|                                   |     |   |               |
+|                                   |     |   |               |
+|};                                 |     |   |               |
+|Scope chain =                      |     |   |       .       |
+| +-------------------------------+ |     |   |       .       |
+| |global                         | |     |   |       .       |
+| |  +---&gt; f = 'no';              | |     |   |               |
+| |  |                            | |     |   |               |
+| |  +---&gt; function a()           | |     |   |               |
+| |           +---&gt; f = 'ye'      | |     |   +---------------+
+| |           |                   | |     +-&gt; |function b     |
+| |           +---&gt; function b()  | |         +---------------+
+| |                    +---&gt;      | |         |function a     |
+| |                    |          | |         +---------------+
+| |                    +---&gt;      | |         |global context |
+| |                               | |         +---------------+
+| +-------------------------------+ |           Context Stack  
+|this = {Object owns b};            |                          
++-----------------------------------+           http://rainy.im
+"></outline>
+                    </outline>
+                </outline>
+                <outline text="Scope chain">
+                    <outline text="+--------------------------------------------+
+|Scope Chain                                 |
++--------------------------------------------+
++-+global [Variable Object]                  |
+| |                                          |
+| +-&gt; var x;                                 |
+| |                                          |
+| | &lt;---------------+                        |
+| |                 +                        |
+| +-&gt; function a() [Variable Object]&lt;+       |
+| |      +                           |       |
+| |      |                           |       |
+| |      +--&gt; var x;                 |       |
+| |      |                           |       |
+| |      |                           +       |
+| |      +--&gt; function b() [Variable Object] |
+| |                                          |
+| | &lt;---------------+                        |
+| |                 +                        |
+| +-&gt; function c() [Variable Object]&lt;+       |
+| |      +                           |       |
+| |      |                           |       |
+| |      +--&gt; var x;                 |       |
+| |      |                           |       |
+| |      |                           +       |
+| |      +--&gt; function d() [Variable Object] |
+| |                                          |
+| v                                          |
+|                                            |
++--------------------------------------------+
+"></outline>
+                </outline>
+                <outline text="Closure">
+                    <outline text="   +-------------------+      +-----------------+
+   |Execution context  |  +---+[Scope chain]    |
+   +-------------------+  |   +-----------------+
++&gt; | var x = 100;      |  |   |[Function inc]   |
+|  | var inc1 = inc(); +--+   |  +              |
+|  | var inc2 = inc(); +--+   |  +-&gt; x;         |
+|  |                   |      |  |              |
+|  | inc1();           |      |  +-&gt; [Function] |
+|  | inc1();           |      |        +        |
+|  | inc2();           |      |        +-&gt; x++; |
+|  | inc1();           |      |                 |
+|  | inc2();           |      +-----------------+
++--+ x;                |          http://rainy.im
+   |                   |                         
+   +-------------------+                         
+"></outline>
+                </outline>
+            </outline>
             <outline text="Reference type">
                 <outline text="Function">
                     <outline text="typeof">
