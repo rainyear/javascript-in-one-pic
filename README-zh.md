@@ -44,7 +44,7 @@
 - [X] Function - closures;
 - [ ] Operators - bitwise;
 - [X] Flow control - try/catch;
-- [ ] Tips;
+- [ ] ES6;
 
 ## 参考
 

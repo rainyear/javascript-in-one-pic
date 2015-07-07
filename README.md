@@ -52,7 +52,7 @@ In addition to Javascript, Python3 & Golang versions are on the way! If you find
 - [X] Function - closures;
 - [ ] Operators - bitwise;
 - [X] Flow control - try/catch;
-- [ ] Tips;
+- [ ] ES6;
 
 ## References
 
