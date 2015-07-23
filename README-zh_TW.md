@@ -9,21 +9,21 @@
 
 <!-- /BADGES -->
 
-## Online version
+## 線上版本
 
 [Online Mindmap](http://coodict.github.io/javascript-in-one-pic/)
 
-### TODO
+### 待辦事項
 
 - [ ] Syntax highlight
 
-## Color notes
+## 顏色註明
 
-![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
-![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
-![warning](https://img.shields.io/badge/%23DE2B00-warning-DE2B00.svg)
+![not recommended](https://img.shields.io/badge/%237E1600-不推薦-7E1600.svg)
+![important](https://img.shields.io/badge/%234E8D20-重要-4E8D20.svg)
+![warning](https://img.shields.io/badge/%23DE2B00-注意-DE2B00.svg)
 
-## Preview
+## 預覽
 
 ![js in one pic](js%20in%20one%20pic.png)
 
