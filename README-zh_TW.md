@@ -1,6 +1,6 @@
 # Javascript in one pic - online
 
-[ 語言: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md) ]
+[ 語言: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md), [Português](README-pt_BR.md) ]
 
 <!-- BADGES/ -->
 
