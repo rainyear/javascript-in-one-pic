@@ -29,11 +29,11 @@
 
 ## 關於本專案
 
-隨著學習與使用的程式設計語言越來越多，在不同語言之間切換時可能混淆一些語法的細節。開始本專案的初衷是作為教初學者朋友學習Javascript的課程大綱，以及作為筆記重新梳理相關的語法和基本概念，後來發現採用心智圖（[Mind map](https://en.wikipedia.org/wiki/Mind_map)）的形式來總結一門語言的概況非常有效，這種樹狀圖形看起來更像是將一本介紹Javascript程式設計書的目錄部分從細節上進行擴充，不但可以從宏觀上把握這門語言的概況，也可以非常快速地定位到某些實用的語法細節。本專案採用[Mindnode](https://mindnode.com/)製作，同時也匯出了PDF、PNG、OPML以及可以用開源心智圖軟體[FreeMind](http://freemind.sourceforge.net)進行編輯的`*.mm`檔，專案全部完成後也將提供SVG格式（[issues #9](https://github.com/coodict/javascript-in-one-pic/issues/9)）。
+隨著學習與使用的程式設計語言越來越多，在不同語言之間切換時可能混淆一些語法的細節。開始本專案的初衷是作為教初學者朋友學習 Javascript 的課程大綱，以及作為筆記重新梳理相關的語法和基本概念，後來發現採用心智圖（[Mind map](https://en.wikipedia.org/wiki/Mind_map)）的形式來總結一門語言的概況非常有效，這種樹狀圖形看起來更像是將一本介紹 Javascript 程式設計書的目錄部分從細節上進行擴充，不但可以從宏觀上把握這門語言的概況，也可以非常快速地定位到某些實用的語法細節。本專案採用 [Mindnode](https://mindnode.com/) 製作，同時也匯出了 PDF、PNG、OPML 以及可以用開源心智圖軟體[FreeMind](http://freemind.sourceforge.net)進行編輯的`*.mm`檔，專案全部完成後也將提供 SVG 格式（[issues #9](https://github.com/coodict/javascript-in-one-pic/issues/9)）。
 
-本專案可能並不適合無程式設計經驗的新手在無人指導的情況下獨自學習，對於擁有其它程式設計經驗的Javascript新手則可以作為學習提綱使用，而對於有經驗的Javascript程式設計人員則更適合當做語法手冊查閱，建議將PDF檔列印下來貼到電腦旁邊:D。
+本專案可能並不適合無程式設計經驗的新手在無人指導的情況下獨自學習，對於擁有其它程式設計經驗的 Javascript 新手則可以作為學習提綱使用，而對於有經驗的 Javascript 程式設計人員則更適合當做語法手冊查閱，建議將 PDF 檔列印下來貼到電腦旁邊:D。
 
-除了javascript的版本以外，Python3與Go語言版本也正在準備中，至於其它語言，歡迎有興趣和能力的同學繼續補充，如果你覺得本專案對你有所幫助，歡迎透過bitcoin或其它方式[慷慨贊助](https://github.com/rainyear/lolita/wiki/Donation)，非常感謝！
+除了 javascript 的版本以外，Python3 與 Go 語言版本也正在準備中，至於其它語言，歡迎有興趣和能力的同學繼續補充，如果你覺得本專案對你有所幫助，歡迎透過 bitcoin 或其它方式[慷慨贊助](https://github.com/rainyear/lolita/wiki/Donation)，非常感謝！
 
 ## 相關專案
 
@@ -66,4 +66,5 @@
 [Javascript version of mind mapping](https://github.com/hizzgdev/jsmind)
 
 ## License
+
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
