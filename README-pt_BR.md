@@ -33,7 +33,7 @@ A intenção original do projeto foi de anotar a sintaxe e conceitos básicos do
 
 O diagrama mindmap original é desenhado com [Mindnode](https://mindnode.com/) e exportado para arquivos PDF/PNG/OPML juntamente com um arquivo `*.mm` que pode ser editado com [FreeMind](http://freemind.sourceforge.net). Outro arquivo SVG será lançado depois que o projeto estiver finalizado. ([issues #9](https://github.com/coodict/javascript-in-one-pic/issues/9)).
 
-Adicionalmente ao Javascript, versões Python e Golang estão a caminho! Se você achou este projeto útil, por favor, considere fazer uma doação em [bitcoins](https://www.coinbase.com/rainyear) ou [outro meio](https://github.com/rainyear/lolita/wiki/Donation) :beers:
+Adicionalmente ao Javascript, versões Python3 e Golang estão a caminho! Se você achou este projeto útil, por favor, considere fazer uma doação em [bitcoins](https://www.coinbase.com/rainyear) ou [outro meio](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
 ## Projetos relacionados
 
