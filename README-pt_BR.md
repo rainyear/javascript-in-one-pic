@@ -1,6 +1,6 @@
 # Javascript em uma imagem
 
-[ Idiomas: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md), [Português](README-pt_BR.md)]
+[ Idiomas: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md), [Português](README-pt_BR.md), [Español](README-es_MX) ]
 
 <!-- BADGES/ -->
 
