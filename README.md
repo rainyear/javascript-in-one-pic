@@ -11,7 +11,7 @@
 
 ## Online version
 
-[Online Mindmap](http://coodict.github.io/javascript-in-one-pic/)
+[Online Mindmap](https://javascript-in-one-pic.herokuapp.com/)
 
 ### TODO
 
