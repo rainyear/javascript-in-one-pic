@@ -9,7 +9,7 @@
 
 <!-- /BADGES -->
 
-## Online version
+## Online Version
 
 [Online Mindmap](http://coodict.github.io/javascript-in-one-pic/)
 
@@ -17,7 +17,7 @@
 
 - [ ] Syntax highlight
 
-## Color notes
+## Color Notes
 
 ![not recommended](https://img.shields.io/badge/%237E1600-not%20recommended-7E1600.svg)
 ![important](https://img.shields.io/badge/%234E8D20-important-4E8D20.svg)
@@ -27,7 +27,7 @@
 
 ![js in one pic](js%20in%20one%20pic.png)
 
-## About this project
+## About The Project
 
 The original intent of this project was to note down the syntax and basic conceptes of Javascript for personal use, also used as a syllabus for teaching at the same time. The effectiveness of using a [Mind map](https://en.wikipedia.org/wiki/Mind_map) diagram to summarize a programming language is totally unexpected, it looks like a catalogue of handbook talking about Javascript and filled with syntax details. With a single picture/file, Javascript programmers can not only have a overview of the whole picture of this language, but also could locate to practical syntax examples ASAP.
 
@@ -35,7 +35,7 @@ The original mindmap diagram is drawn with [Mindnode](https://mindnode.com/) and
 
 In addition to Javascript, Python3 & Golang versions are on the way! If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
 
-## Related projects
+## Related Projects
 
 * [Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 * Go in one pic (in preparation)
