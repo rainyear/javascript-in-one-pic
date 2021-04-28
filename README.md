@@ -29,7 +29,7 @@
 
 ## About this project
 
-The original intent of this project was to note down the syntax and basic conceptes of Javascript for personal use, also used as a syllabus for teaching at the same time. The effectiveness of using a [Mind map](https://en.wikipedia.org/wiki/Mind_map) diagram to summarize a programming language is totally unexpected, it looks like a catalogue of handbook talking about Javascript and filled with syntax details. With a single picture/file, Javascript programmers can not only have a overview of the whole picture of this language, but also could locate to practical syntax examples ASAP.
+The original intent of this project was to note down the syntax and basic concepts of Javascript for personal use, also used as a syllabus for teaching at the same time. The effectiveness of using a [Mind map](https://en.wikipedia.org/wiki/Mind_map) diagram to summarize a programming language is totally unexpected, it looks like a catalogue of handbook talking about Javascript and filled with syntax details. With a single picture/file, Javascript programmers can not only have a overview of the whole picture of this language, but also could locate to practical syntax examples ASAP.
 
 The original mindmap diagram is drawn with [Mindnode](https://mindnode.com/) and exported to PDF/PNG/OPML files along with a `*.mm` file which can be edited with [FreeMind](http://freemind.sourceforge.net), another SVG file will be released after the whole project is finished([issues #9](https://github.com/coodict/javascript-in-one-pic/issues/9)).
 
