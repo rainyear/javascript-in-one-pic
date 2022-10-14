@@ -60,6 +60,7 @@ In addition to Javascript, Python3 & Golang versions are on the way! If you find
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 3. [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 4. [图解Javascript上下文与作用域](http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/)
+5. [Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
